@@ -1,4 +1,4 @@
-=== Appointment Calendar ===
+=== Class Booking ===
 Contributors: a.ankit, FARAZFRANK
 Donate Link: http://appointzilla.com/
 Tags: booking, calendar, booking calendar, class booking, coaching ,class booking calendar, wordpress calendar , course booking, course
