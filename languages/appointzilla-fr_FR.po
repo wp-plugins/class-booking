@@ -1,0 +1,3840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: appointment-calendar-premium\n"
+"POT-Creation-Date: 2013-11-23 12:42+0530\n"
+"PO-Revision-Date: 2013-11-23 12:42+0530\n"
+"Last-Translator: Kinesphère <contact@kinesphere.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: appointment-calendar-button-shortcode.php:65
+#: appointment-calendar-mobile-shortcode.php:50
+#: appointment-calendar-shortcode.php:465
+msgid "Select Any Service."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:133
+#: appointment-calendar-mobile-shortcode.php:116
+#: appointment-calendar-shortcode.php:477
+#: appointment-calendar-shortcode.php:573
+msgid "Select any time."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:166
+#: appointment-calendar-mobile-shortcode.php:147 menu-pages/calendar.php:685
+#, fuzzy
+msgid "Name required."
+msgstr "Ce champs est requis."
+
+#: appointment-calendar-button-shortcode.php:171
+#: appointment-calendar-mobile-shortcode.php:152
+#: appointment-calendar-shortcode.php:612 menu-pages/calendar.php:690
+#: menu-pages/manage-service.php:374
+msgid "Invalid name."
+msgstr "Nom incorrect."
+
+#: appointment-calendar-button-shortcode.php:176
+#: appointment-calendar-mobile-shortcode.php:157
+#: appointment-calendar-shortcode.php:617 menu-pages/calendar.php:695
+msgid "No special characters allowed."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:184 menu-pages/calendar.php:703
+#, fuzzy
+msgid "Email required."
+msgstr "Ce champs est requis."
+
+#: appointment-calendar-button-shortcode.php:188
+#: appointment-calendar-shortcode.php:629 menu-pages/calendar.php:707
+#: menu-pages/settings/manage-notification-settings.php:300
+#: menu-pages/settings/manage-notification-settings.php:315
+#: menu-pages/settings/manage-notification-settings.php:348
+#: menu-pages/settings/manage-payment-settings.php:121
+msgid "Invalid email."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:195
+#: appointment-calendar-mobile-shortcode.php:176
+msgid "Phone required. <br>Numbers only: 1234567890. <br>No characters."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:200
+#: appointment-calendar-mobile-shortcode.php:181
+#: appointment-calendar-shortcode.php:640
+msgid "Invalid phone. <br>Numbers only: 1234567890. <br>No characters."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:315
+#: appointment-calendar-button-shortcode.php:329
+#: appointment-calendar-button-shortcode.php:526
+#: appointment-calendar-mobile-shortcode.php:309
+#: appointment-calendar-mobile-shortcode.php:321
+#: appointment-calendar-mobile-shortcode.php:523
+#: appointment-calendar-shortcode.php:752
+#: appointment-calendar-shortcode.php:771
+#: appointment-calendar-shortcode.php:952
+#: shortcode-time-slot-calculation-mobile.php:12
+#: shortcode-time-slot-calculation.php:14 menu-pages/calendar.php:860
+#: menu-pages/calendar.php:992 menu-pages/calendar.php:1086
+#: menu-pages/calendar.php:1231
+msgid "Schedule New Appointment"
+msgstr "Créer une nouvelle réservation"
+
+#: appointment-calendar-button-shortcode.php:330
+#: appointment-calendar-mobile-shortcode.php:322
+msgid "Step-1. Select Time & Service"
+msgstr "Étape 1. Sélectionnez un créneau horaire et un service"
+
+#: appointment-calendar-button-shortcode.php:374
+#: appointment-calendar-mobile-shortcode.php:367
+#: appointment-calendar-shortcode.php:798
+msgid "Your Appointment Date:"
+msgstr "Date de votre réservation :"
+
+#: appointment-calendar-button-shortcode.php:383
+#: appointment-calendar-mobile-shortcode.php:377
+#: appointment-calendar-shortcode.php:807 menu-pages/calendar.php:878
+msgid "Select Service:"
+msgstr "Choisissez un service :"
+
+#: appointment-calendar-button-shortcode.php:385
+#: appointment-calendar-mobile-shortcode.php:379
+#: appointment-calendar-shortcode.php:809 menu-pages/calendar.php:880
+msgid "Select Service"
+msgstr "Choisissez un service :"
+
+#: appointment-calendar-button-shortcode.php:414
+#: appointment-calendar-mobile-shortcode.php:410
+#: appointment-calendar-shortcode.php:838
+msgid "No service in this category"
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:447
+#: appointment-calendar-button-shortcode.php:751
+#: appointment-calendar-mobile-shortcode.php:444
+#: appointment-calendar-mobile-shortcode.php:751
+#: appointment-calendar-shortcode.php:872
+#: appointment-calendar-shortcode.php:1181 menu-pages/calendar.php:928
+msgid "Loading Staff..."
+msgstr "Chargement du personnel..."
+
+#: appointment-calendar-button-shortcode.php:478
+#: appointment-calendar-mobile-shortcode.php:474
+#: appointment-calendar-shortcode.php:901
+msgid "Select Staff:"
+msgstr "Choisissez une personne :"
+
+#: appointment-calendar-button-shortcode.php:493
+#: appointment-calendar-mobile-shortcode.php:489
+#: appointment-calendar-shortcode.php:916
+msgid "No Staff Assigned"
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:498
+#: appointment-calendar-mobile-shortcode.php:494
+#: appointment-calendar-shortcode.php:921
+#: shortcode-time-slot-calculation-mobile.php:169
+#: shortcode-time-slot-calculation.php:187 menu-pages/calendar.php:972
+#: menu-pages/calendar.php:1052
+msgid "Next"
+msgstr "Suivant"
+
+#: appointment-calendar-button-shortcode.php:499
+#: appointment-calendar-mobile-shortcode.php:495
+#: appointment-calendar-shortcode.php:922
+#: shortcode-time-slot-calculation-mobile.php:172
+#: shortcode-time-slot-calculation.php:190 menu-pages/calendar.php:973
+#: menu-pages/calendar.php:1054
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: appointment-calendar-button-shortcode.php:526
+#: appointment-calendar-mobile-shortcode.php:523
+#: appointment-calendar-shortcode.php:952
+#, fuzzy
+msgid "Step-3. Fill Out Your Details"
+msgstr "Étape 3. Renseignez vos informations"
+
+#: appointment-calendar-button-shortcode.php:533
+#: appointment-calendar-button-shortcode.php:635
+#: appointment-calendar-mobile-shortcode.php:530
+#: appointment-calendar-mobile-shortcode.php:633
+#: appointment-calendar-shortcode.php:959
+#: appointment-calendar-shortcode.php:1065 menu-pages/calendar.php:1093
+#: menu-pages/calendar.php:1255 menu-pages/client.php:56
+#: menu-pages/client_manage.php:18 menu-pages/client_manage.php:54
+#: menu-pages/client_manage.php:79 menu-pages/client_manage.php:126
+#: menu-pages/manage-appointments.php:110 menu-pages/manage-service.php:14
+#: menu-pages/manage-service.php:149
+#: menu-pages/manage-staff-appointments.php:123 menu-pages/manage-staff.php:27
+#: menu-pages/manage-staff.php:134 menu-pages/service.php:29
+#: menu-pages/timeoff.php:10 menu-pages/timeoff.php:156
+#: menu-pages/UpAppTime.php:29 menu-pages/UpAppTime.php:180
+#: menu-pages/update-appointments.php:26
+#: menu-pages/update-appointments.php:507 menu-pages/update-timeoff.php:36
+msgid "Name"
+msgstr "Votre nom"
+
+#: appointment-calendar-button-shortcode.php:538
+#: appointment-calendar-button-shortcode.php:640
+#: appointment-calendar-mobile-shortcode.php:535
+#: appointment-calendar-mobile-shortcode.php:638
+#: appointment-calendar-shortcode.php:964
+#: appointment-calendar-shortcode.php:1070 menu-pages/calendar.php:1098
+#: menu-pages/calendar.php:1260 menu-pages/client.php:57
+#: menu-pages/client_manage.php:21 menu-pages/client_manage.php:57
+#: menu-pages/client_manage.php:81 menu-pages/manage-staff.php:36
+#: menu-pages/manage-staff.php:139 menu-pages/staff.php:32
+#: menu-pages/update-appointments.php:32
+#: menu-pages/update-appointments.php:512
+#: menu-pages/settings/business-profile.php:56
+#: menu-pages/settings/business-profile.php:111
+#: menu-pages/settings/manage-notification-settings.php:61
+#: menu-pages/settings/manage-notification-settings.php:80
+#: menu-pages/settings/manage-notification-settings.php:121
+#: menu-pages/settings/manage-reminder-settings.php:26
+#: menu-pages/settings/notification-settings.php:148
+msgid "Email"
+msgstr "Votre email"
+
+#: appointment-calendar-button-shortcode.php:543
+#: appointment-calendar-button-shortcode.php:645
+#: appointment-calendar-mobile-shortcode.php:540
+#: appointment-calendar-mobile-shortcode.php:643
+#: appointment-calendar-shortcode.php:969
+#: appointment-calendar-shortcode.php:1075 menu-pages/calendar.php:1103
+#: menu-pages/calendar.php:1265 menu-pages/client.php:58
+#: menu-pages/client_manage.php:24 menu-pages/client_manage.php:58
+#: menu-pages/client_manage.php:97 menu-pages/manage-staff.php:45
+#: menu-pages/manage-staff.php:144 menu-pages/staff.php:33
+#: menu-pages/update-appointments.php:71
+#: menu-pages/update-appointments.php:540
+#: menu-pages/settings/business-profile.php:47
+#: menu-pages/settings/business-profile.php:104
+msgid "Phone"
+msgstr "Votre téléphone"
+
+#: appointment-calendar-button-shortcode.php:548
+#: appointment-calendar-mobile-shortcode.php:545
+#: appointment-calendar-shortcode.php:974 menu-pages/calendar.php:1108
+msgid "Special Instruction"
+msgstr "Instructions particulières"
+
+#: appointment-calendar-button-shortcode.php:557
+#: appointment-calendar-mobile-shortcode.php:554
+#: appointment-calendar-shortcode.php:983
+#: shortcode-time-slot-calculation-mobile.php:158
+#: shortcode-time-slot-calculation-mobile.php:163
+#: shortcode-time-slot-calculation-mobile.php:168
+#: shortcode-time-slot-calculation-mobile.php:184
+#: shortcode-time-slot-calculation.php:174
+#: shortcode-time-slot-calculation.php:180
+#: shortcode-time-slot-calculation.php:186
+#: shortcode-time-slot-calculation.php:204 menu-pages/calendar.php:1003
+#: menu-pages/calendar.php:1008 menu-pages/calendar.php:1051
+#: menu-pages/calendar.php:1117 menu-pages/client_manage.php:60
+#: menu-pages/client_manage.php:119 menu-pages/manage-service.php:200
+#: menu-pages/manage-staff.php:173 menu-pages/update-appointments.php:615
+#: menu-pages/update-appointments.php:618
+msgid "Back"
+msgstr "Retour"
+
+#: appointment-calendar-button-shortcode.php:558
+#: appointment-calendar-mobile-shortcode.php:555
+#: appointment-calendar-shortcode.php:984 menu-pages/calendar.php:1118
+msgid "Book Now"
+msgstr "Réserver"
+
+#: appointment-calendar-button-shortcode.php:559
+#: appointment-calendar-mobile-shortcode.php:556
+#: appointment-calendar-shortcode.php:985 menu-pages/calendar.php:1120
+#, fuzzy
+msgid "Scheduling appointment, please wait..."
+msgstr "Réservation en cours d'enregistrement, merci de patienter."
+
+#: appointment-calendar-button-shortcode.php:627
+#: appointment-calendar-mobile-shortcode.php:627
+#: appointment-calendar-shortcode.php:1057
+#, fuzzy
+msgid "Thank You. Your appointment has been scheduled."
+msgstr "Merci, votre réservation a bien été enregistrée."
+
+#: appointment-calendar-button-shortcode.php:631
+#: appointment-calendar-mobile-shortcode.php:629
+#: appointment-calendar-shortcode.php:1061
+msgid "Your Appointment Details"
+msgstr "Détails de votre réservation"
+
+#: appointment-calendar-button-shortcode.php:650
+#: appointment-calendar-mobile-shortcode.php:648
+#: appointment-calendar-shortcode.php:1080 appointment-calendar.php:56
+#: menu-pages/calendar.php:1270 menu-pages/client_manage.php:82
+#: menu-pages/client_manage.php:130 menu-pages/manage-appointments.php:114
+#: menu-pages/manage-staff-appointments.php:124
+#: menu-pages/payment-transaction.php:48 menu-pages/UpAppTime.php:33
+#: menu-pages/update-appointments.php:38
+#: menu-pages/update-appointments.php:517
+msgid "Service"
+msgstr "Service"
+
+#: appointment-calendar-button-shortcode.php:655
+#: appointment-calendar-mobile-shortcode.php:653
+#: appointment-calendar-shortcode.php:1085 appointment-calendar.php:61
+#: menu-pages/calendar.php:1280 menu-pages/client_manage.php:90
+#: menu-pages/client_manage.php:127 menu-pages/manage-appointments.php:111
+#: menu-pages/manage-staff-appointments.php:125 menu-pages/staff.php:2
+#: menu-pages/UpAppTime.php:46 menu-pages/update-appointments.php:56
+#: menu-pages/update-appointments.php:528
+msgid "Staff"
+msgstr "Personnel"
+
+#: appointment-calendar-button-shortcode.php:664
+#: appointment-calendar-mobile-shortcode.php:662
+#: appointment-calendar-shortcode.php:1094 menu-pages/calendar.php:1290
+#: menu-pages/client_manage.php:100 menu-pages/client_manage.php:128
+#: menu-pages/export-lists.php:262 menu-pages/export-lists.php:379
+#: menu-pages/manage-appointments.php:112
+#: menu-pages/manage-staff-appointments.php:126 menu-pages/timeoff.php:11
+#: menu-pages/timeoff.php:177 menu-pages/UpAppTime.php:70
+#: menu-pages/UpAppTime.php:189 menu-pages/update-appointments.php:89
+#: menu-pages/update-appointments.php:562 menu-pages/update-timeoff.php:52
+msgid "Date"
+msgstr "Date"
+
+#: appointment-calendar-button-shortcode.php:670
+#: appointment-calendar-mobile-shortcode.php:668
+#: appointment-calendar-shortcode.php:1100 menu-pages/calendar.php:1300
+#: menu-pages/client_manage.php:129 menu-pages/export-lists.php:263
+#: menu-pages/export-lists.php:380 menu-pages/manage-appointments.php:113
+#: menu-pages/manage-staff-appointments.php:127 menu-pages/timeoff.php:12
+msgid "Time"
+msgstr "Horaire"
+
+#: appointment-calendar-button-shortcode.php:675
+#: appointment-calendar-mobile-shortcode.php:673
+#: appointment-calendar-shortcode.php:1105 menu-pages/calendar.php:1313
+#: menu-pages/client_manage.php:106 menu-pages/manage-appointments.php:116
+#: menu-pages/manage-staff-appointments.php:129
+#: menu-pages/payment-transaction.php:51 menu-pages/timeoff.php:14
+#: menu-pages/UpAppTime.php:73 menu-pages/update-appointments.php:140
+#: menu-pages/update-appointments.php:577
+msgid "Status"
+msgstr "Statut"
+
+#: appointment-calendar-button-shortcode.php:720
+#: appointment-calendar-button-shortcode.php:724
+#: appointment-calendar-button-shortcode.php:733
+#: appointment-calendar-button-shortcode.php:863
+#: appointment-calendar-mobile-shortcode.php:719
+#: appointment-calendar-mobile-shortcode.php:723
+#: appointment-calendar-mobile-shortcode.php:732
+#: appointment-calendar-mobile-shortcode.php:859
+#: appointment-calendar-shortcode.php:1150
+#: appointment-calendar-shortcode.php:1154
+#: appointment-calendar-shortcode.php:1163
+#: appointment-calendar-shortcode.php:1296 menu-pages/calendar.php:1324
+#: menu-pages/manage-appointments.php:164
+#: menu-pages/manage-staff-appointments.php:182 menu-pages/UpAppTime.php:78
+#: menu-pages/update-appointments.php:146
+msgid "Done"
+msgstr "Fermer"
+
+#: appointment-calendar-button-shortcode.php:856
+#: appointment-calendar-mobile-shortcode.php:852
+#: appointment-calendar-shortcode.php:1289
+#, fuzzy
+msgid "Payment Successfully Processed"
+msgstr "La transaction a bien été supprimée."
+
+#: appointment-calendar-button-shortcode.php:860
+#: appointment-calendar-mobile-shortcode.php:856
+#: appointment-calendar-shortcode.php:1293
+msgid "Payment received and your appointment has been confirmed."
+msgstr "Votre paiement a été reçu et votre réservation a été validée."
+
+#: appointment-calendar-button-shortcode.php:861
+#: appointment-calendar-mobile-shortcode.php:857
+#: appointment-calendar-shortcode.php:1294
+#, fuzzy
+msgid "Thank you for scheduling appointment with us."
+msgstr "Merci pour votre réservation."
+
+#: appointment-calendar-button-shortcode.php:880
+#: appointment-calendar-mobile-shortcode.php:873
+#: appointment-calendar-shortcode.php:1316
+msgid "Payment Failed"
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:885
+#, fuzzy
+msgid "Sorry! Appointment booking was not successful."
+msgstr "Désolé, votre réservation n'a pas été correctement enregistrée."
+
+#: appointment-calendar-button-shortcode.php:887
+#: appointment-calendar-shortcode.php:1323 menu-pages/timeoff.php:272
+msgid "Close"
+msgstr "Fermé"
+
+#: appointment-calendar-mobile-shortcode.php:165
+#: appointment-calendar-shortcode.php:625 menu-pages/client_manage.php:256
+#: menu-pages/manage-staff.php:313
+#: menu-pages/settings/business-profile.php:310
+msgid "Email cannot be blank."
+msgstr "L'email doit être renseignée."
+
+#: appointment-calendar-mobile-shortcode.php:169 menu-pages/calendar.php:719
+#: menu-pages/client_manage.php:248 menu-pages/client_manage.php:272
+#: menu-pages/manage-staff.php:305 menu-pages/manage-staff.php:330
+#: menu-pages/manage-staff.php:339
+#: menu-pages/settings/business-profile.php:213
+#: menu-pages/settings/business-profile.php:228
+#: menu-pages/settings/business-profile.php:249
+#: menu-pages/settings/business-profile.php:264
+#: menu-pages/settings/business-profile.php:278
+#: menu-pages/settings/business-profile.php:317
+msgid "Invalid value."
+msgstr "Valeur incorrecte."
+
+#: appointment-calendar-mobile-shortcode.php:877
+#: appointment-calendar-shortcode.php:1321
+#, fuzzy
+msgid "Sorry! Appointment Booking was not successful."
+msgstr "Désolé, votre réservation n'a pas été correctement enregistrée."
+
+#: appointment-calendar-mobile-shortcode.php:880
+msgid "Try Again"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "January"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "February"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "March"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "April"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:81
+#: menu-pages/calendar.php:82 menu-pages/staff-appointment-calendar.php:61
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "May"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "June"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "July"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "August"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "September"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "October"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "November"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "December"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jan"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Feb"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Mar"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Apr"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jun"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jul"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Aug"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Sept"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Oct"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "nov"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Dec"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:433
+#: menu-pages/settings/calendar-settings.php:149
+#: menu-pages/settings/manage-calendar-settings.php:102
+#: menu-pages/settings/staff-hours.php:1211
+msgid "Sunday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:128
+#: menu-pages/settings/calendar-settings.php:137
+#: menu-pages/settings/manage-calendar-settings.php:96
+#: menu-pages/settings/staff-hours.php:923
+msgid "Monday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:181
+#: menu-pages/settings/calendar-settings.php:139
+#: menu-pages/settings/manage-calendar-settings.php:97
+#: menu-pages/settings/staff-hours.php:973
+msgid "Tuesday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:233
+#: menu-pages/settings/calendar-settings.php:141
+#: menu-pages/settings/manage-calendar-settings.php:98
+#: menu-pages/settings/staff-hours.php:1022
+msgid "Wednesday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:283
+#: menu-pages/settings/calendar-settings.php:143
+#: menu-pages/settings/manage-calendar-settings.php:99
+#: menu-pages/settings/staff-hours.php:1070
+msgid "Thursday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:333
+#: menu-pages/settings/calendar-settings.php:145
+#: menu-pages/settings/manage-calendar-settings.php:100
+#: menu-pages/settings/staff-hours.php:1118
+msgid "Friday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:383
+#: menu-pages/settings/calendar-settings.php:147
+#: menu-pages/settings/manage-calendar-settings.php:101
+#: menu-pages/settings/staff-hours.php:1165
+msgid "Saturday"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Sun"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+#, fuzzy
+msgid "Mon"
+msgstr "Mois"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Tue"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Wed"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Thus"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Fri"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+#, fuzzy
+msgid "Sat"
+msgstr "Statut"
+
+#: appointment-calendar-shortcode.php:151 menu-pages/calendar.php:86
+#: menu-pages/staff-appointment-calendar.php:66
+msgid "Today"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:152 menu-pages/calendar.php:87
+#: menu-pages/staff-appointment-calendar.php:67
+#: menu-pages/settings/business-hours.php:122
+#: menu-pages/settings/calendar-settings.php:121
+#: menu-pages/settings/manage-calendar-settings.php:85
+#: menu-pages/settings/staff-hours.php:917
+msgid "Day"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:153 menu-pages/calendar.php:88
+#: menu-pages/staff-appointment-calendar.php:68
+#: menu-pages/settings/calendar-settings.php:122
+#: menu-pages/settings/manage-calendar-settings.php:86
+msgid "Week"
+msgstr "Semaine"
+
+#: appointment-calendar-shortcode.php:154 menu-pages/calendar.php:89
+#: menu-pages/staff-appointment-calendar.php:69
+#: menu-pages/settings/calendar-settings.php:123
+#: menu-pages/settings/manage-calendar-settings.php:87
+msgid "Month"
+msgstr "Mois"
+
+#: appointment-calendar-shortcode.php:169
+#: menu-pages/staff-appointment-calendar.php:85
+#, fuzzy
+msgid "Sorry! Appointment cannot be booked for past dates."
+msgstr "Désolé, aucune réservation ne peut être prise sur des dates passées."
+
+#: appointment-calendar-shortcode.php:208
+#: appointment-calendar-shortcode.php:257
+#: appointment-calendar-shortcode.php:283
+msgid "Booked"
+msgstr "Réservé"
+
+#: appointment-calendar-shortcode.php:482
+#: appointment-calendar-shortcode.php:491
+#: appointment-calendar-shortcode.php:502 menu-pages/timeoff.php:576
+#: menu-pages/timeoff.php:585 menu-pages/timeoff.php:592
+#: menu-pages/timeoff.php:625 menu-pages/timeoff.php:631
+#: menu-pages/timeoff.php:641 menu-pages/timeoff.php:652
+#: menu-pages/timeoff.php:662 menu-pages/timeoff.php:673
+#: menu-pages/timeoff.php:683 menu-pages/update-timeoff.php:502
+#: menu-pages/update-timeoff.php:512 menu-pages/update-timeoff.php:519
+#: menu-pages/update-timeoff.php:549 menu-pages/update-timeoff.php:561
+#: menu-pages/update-timeoff.php:567 menu-pages/update-timeoff.php:578
+#: menu-pages/update-timeoff.php:589 menu-pages/update-timeoff.php:600
+#: menu-pages/update-timeoff.php:611
+msgid "This field required."
+msgstr "Ce champs est requis."
+
+#: appointment-calendar-shortcode.php:485
+#: appointment-calendar-shortcode.php:496
+#: appointment-calendar-shortcode.php:505
+msgid "Invalid field value."
+msgstr "Valeur incorrecte."
+
+#: appointment-calendar-shortcode.php:607 menu-pages/manage-service.php:369
+#: menu-pages/update-appointments.php:231
+msgid "Name cannot be blank."
+msgstr "Le nom doit être renseigné."
+
+#: appointment-calendar-shortcode.php:635
+msgid "Phone cannot be blank. <br>Numbers only: 1234567890. <br>No characters."
+msgstr ""
+
+#: appointment-calendar-shortcode.php:761
+msgid "Appointment Calendar Premium Powered By:"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:761
+msgid "Appointment Scheduling Plugin For Wordpress"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:761
+msgid "AppointZilla"
+msgstr ""
+
+#: appointment-calendar-shortcode.php:772 menu-pages/calendar.php:860
+msgid "Step-1. Select Date & Service"
+msgstr "Étape 1. Sélectionnez un jour et un service"
+
+#: appointment-calendar.php:46 appointment-calendar.php:49
+msgid "Appointment Calendar"
+msgstr "Réservations"
+
+#: appointment-calendar.php:66
+msgid "Staff Calendar"
+msgstr ""
+
+#: appointment-calendar.php:67
+#, fuzzy
+msgid "Manage Appointments"
+msgstr "Gérer les réservations"
+
+#: appointment-calendar.php:70 menu-pages/calendar.php:841
+#: menu-pages/timeoff.php:3
+msgid "Time Off"
+msgstr ""
+
+#: appointment-calendar.php:75 menu-pages/client.php:3
+#: menu-pages/payment-transaction.php:47
+msgid "Client"
+msgstr "Client"
+
+#: appointment-calendar.php:79
+msgid "Manage Appointment"
+msgstr "Gérer les réservations"
+
+#: appointment-calendar.php:84
+msgid "Payment Transaction"
+msgstr ""
+
+#: appointment-calendar.php:87
+msgid "Export Lists"
+msgstr ""
+
+#: appointment-calendar.php:90
+msgid "Settings"
+msgstr "Paramètres"
+
+#: appointment-calendar.php:93 uninstall-plugin.php:174
+msgid "Remove Plugin"
+msgstr "Supprimer le plugin"
+
+#: appointment-calendar.php:96
+msgid "Help & Support"
+msgstr ""
+
+#: appointment-calendar.php:324
+msgid "Every Hour"
+msgstr ""
+
+#: shortcode-time-slot-calculation-mobile.php:13
+#: shortcode-time-slot-calculation.php:15
+msgid "Step-2. Select Service Time"
+msgstr "Étape 2. Sélectionnez un créneau horaire"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "Select Time For"
+msgstr "Sélectionnez un horaire pour"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "On"
+msgstr "le"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "With"
+msgstr "avec"
+
+#: shortcode-time-slot-calculation-mobile.php:157
+#: shortcode-time-slot-calculation-mobile.php:178
+#: shortcode-time-slot-calculation.php:173
+#: shortcode-time-slot-calculation.php:198
+#, fuzzy
+msgid "Sorry! Today selected staff is not available."
+msgstr "Désolé, aucune réservation possible aujourd'hui."
+
+#: shortcode-time-slot-calculation-mobile.php:162
+#: shortcode-time-slot-calculation.php:179
+#, fuzzy
+msgid "Sorry! Today all appointments has been booked with selected staff."
+msgstr "क्षमा करें! आज सभी नियुक्तियों को बुक किया जा चुका है।"
+
+#: shortcode-time-slot-calculation-mobile.php:182
+#: shortcode-time-slot-calculation.php:202
+#, fuzzy
+msgid "Sorry! Today this staff is not available for booking."
+msgstr "Désolé, aucune réservation possible aujourd'hui."
+
+#: uninstall-plugin.php:163
+msgid ""
+"Appointment Calendar Premium Plugin has been successfully removed. It can be "
+"re-activated from the"
+msgstr ""
+
+#: uninstall-plugin.php:163
+msgid "Plugins Page"
+msgstr "Page du plugin"
+
+#: uninstall-plugin.php:179
+msgid "Remove Appointment Calendar Premium Plugin"
+msgstr ""
+
+#: uninstall-plugin.php:180
+msgid ""
+"This operation wiil delete all Appointment Calendar data & settings. If you "
+"continue, You will not be able to retrieve or restore your appointments "
+"entries."
+msgstr ""
+
+#: uninstall-plugin.php:181
+msgid ""
+"Warning! Appointment Calendar data & settings, including appointment entries "
+"will be deleted. This cannot be undone. OK to delete, CANCEL to stop"
+msgstr ""
+
+#: uninstall-plugin.php:181
+msgid "REMOVE PLUGIN"
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:73
+msgid "Start Time:"
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:74
+msgid "Select Start Time"
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:104
+msgid "Invalid Start Time. Start Time should be less than End Time."
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:110
+msgid "End Time: "
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:111
+msgid "Select End Time"
+msgstr ""
+
+#: menu-pages/admin-time-slot-calculation.php:140
+msgid "Invalid End Time. End Time should be greater than Start Time."
+msgstr ""
+
+#: menu-pages/calendar.php:110
+#, fuzzy
+msgid "Booked By"
+msgstr "Réservé par"
+
+#: menu-pages/calendar.php:162 menu-pages/calendar.php:191
+msgid "Booked By: "
+msgstr "Réservé par"
+
+#: menu-pages/calendar.php:529 menu-pages/calendar.php:547
+msgid "Invalid time range."
+msgstr ""
+
+#: menu-pages/calendar.php:589
+msgid "Repeat Days required"
+msgstr ""
+
+#: menu-pages/calendar.php:597
+msgid "Repeat Weeks required."
+msgstr ""
+
+#: menu-pages/calendar.php:605
+msgid "Repeat Months required."
+msgstr ""
+
+#: menu-pages/calendar.php:651
+msgid "Invalid Date! Start-Date should be less than End-Date."
+msgstr ""
+"Date incorrecte ! La date de début doit être antérieure à la date de fin."
+
+#: menu-pages/calendar.php:714
+#, fuzzy
+msgid "Phone required."
+msgstr "Ce champs est requis."
+
+#: menu-pages/calendar.php:798
+msgid "Appointments"
+msgstr ""
+
+#: menu-pages/calendar.php:801
+msgid "Filter Appointments By Staff"
+msgstr ""
+
+#: menu-pages/calendar.php:807
+msgid "Add New Appointment"
+msgstr ""
+
+#: menu-pages/calendar.php:812
+msgid "Recurring Appointments"
+msgstr ""
+
+#: menu-pages/calendar.php:817 menu-pages/calendar.php:956
+#: menu-pages/settings/staff-hours.php:789
+msgid "Select Staff"
+msgstr ""
+
+#: menu-pages/calendar.php:833
+msgid "Appointments (Default Staff Assigned)"
+msgstr ""
+
+#: menu-pages/calendar.php:836
+msgid "Apply"
+msgstr ""
+
+#: menu-pages/calendar.php:870
+msgid "Your Appointment Date"
+msgstr ""
+
+#: menu-pages/calendar.php:992
+msgid "Step-2. Select Service Time & Repeat"
+msgstr "Étape 2. Sélectionnez un horaire"
+
+#: menu-pages/calendar.php:1002
+msgid "Sorry! No Time Available Today."
+msgstr ""
+
+#: menu-pages/calendar.php:1007
+msgid "Sorry! Today's all appointments has been booked."
+msgstr ""
+
+#: menu-pages/calendar.php:1012 menu-pages/client_manage.php:107
+#: menu-pages/manage-appointments.php:115
+#: menu-pages/manage-staff-appointments.php:128 menu-pages/timeoff.php:13
+#: menu-pages/timeoff.php:184 menu-pages/UpAppTime.php:193
+#: menu-pages/update-appointments.php:99
+#: menu-pages/update-appointments.php:582 menu-pages/update-timeoff.php:60
+msgid "Repeat"
+msgstr ""
+
+#: menu-pages/calendar.php:1013 menu-pages/service.php:67
+#: menu-pages/service.php:73 menu-pages/UpAppTime.php:83
+#: menu-pages/update-appointments.php:110
+msgid "None"
+msgstr ""
+
+#: menu-pages/calendar.php:1014 menu-pages/timeoff.php:189
+#: menu-pages/UpAppTime.php:84 menu-pages/UpAppTime.php:198
+#: menu-pages/update-appointments.php:111 menu-pages/update-timeoff.php:65
+#: menu-pages/settings/manage-reminder-settings.php:43
+msgid "Daily"
+msgstr ""
+
+#: menu-pages/calendar.php:1015 menu-pages/timeoff.php:190
+#: menu-pages/UpAppTime.php:85 menu-pages/UpAppTime.php:200
+#: menu-pages/update-appointments.php:112 menu-pages/update-timeoff.php:66
+#: menu-pages/settings/manage-reminder-settings.php:44
+msgid "Weekly"
+msgstr ""
+
+#: menu-pages/calendar.php:1016 menu-pages/timeoff.php:192
+#: menu-pages/UpAppTime.php:86 menu-pages/UpAppTime.php:204
+#: menu-pages/update-appointments.php:113 menu-pages/update-timeoff.php:68
+#: menu-pages/settings/manage-reminder-settings.php:45
+msgid "Monthly"
+msgstr ""
+
+#: menu-pages/calendar.php:1017
+msgid "Particular Dates"
+msgstr ""
+
+#: menu-pages/calendar.php:1021 menu-pages/timeoff.php:198
+#: menu-pages/UpAppTime.php:97 menu-pages/UpAppTime.php:216
+#: menu-pages/UpAppTime.php:262 menu-pages/update-timeoff.php:73
+msgid "Repeat Day(s)"
+msgstr ""
+
+#: menu-pages/calendar.php:1022
+msgid "(Min = 1, Max = 99 Days)"
+msgstr ""
+
+#: menu-pages/calendar.php:1027 menu-pages/timeoff.php:205
+msgid "Repeat Week(s)"
+msgstr ""
+
+#: menu-pages/calendar.php:1029
+msgid "(Min = 1, Max = 99 Weeks)"
+msgstr ""
+
+#: menu-pages/calendar.php:1034 menu-pages/timeoff.php:221
+#: menu-pages/UpAppTime.php:248 menu-pages/UpAppTime.php:278
+#: menu-pages/update-timeoff.php:118
+msgid "Repeat Month(s)"
+msgstr ""
+
+#: menu-pages/calendar.php:1036
+msgid "(Min = 1, Max = 99 Months)"
+msgstr ""
+
+#: menu-pages/calendar.php:1041 menu-pages/timeoff.php:228
+#: menu-pages/update-timeoff.php:126
+msgid "Start Date"
+msgstr ""
+
+#: menu-pages/calendar.php:1043 menu-pages/calendar.php:1045
+msgid "This field is required."
+msgstr ""
+
+#: menu-pages/calendar.php:1044 menu-pages/timeoff.php:235
+#: menu-pages/UpAppTime.php:126 menu-pages/UpAppTime.php:142
+#: menu-pages/UpAppTime.php:256 menu-pages/UpAppTime.php:283
+#: menu-pages/update-timeoff.php:134
+msgid "End Date"
+msgstr ""
+
+#: menu-pages/calendar.php:1046
+msgid "Invalid Date"
+msgstr ""
+
+#: menu-pages/calendar.php:1057
+msgid "Admin can create appointments at any time."
+msgstr ""
+
+#: menu-pages/calendar.php:1086
+msgid "Step-3. Fill Up Client Details"
+msgstr ""
+
+#: menu-pages/calendar.php:1231
+msgid "Step-4. Appointment has been scheduled."
+msgstr ""
+
+#: menu-pages/calendar.php:1318 menu-pages/client_manage.php:104
+#: menu-pages/update-appointments.php:572
+#: menu-pages/settings/manage-reminder-settings.php:70
+#: menu-pages/settings/notification-message.php:42
+#: menu-pages/settings/notification-message.php:161
+#: menu-pages/settings/notification-message.php:201
+msgid "Appointment Key"
+msgstr ""
+
+#: menu-pages/client.php:3
+#, fuzzy
+msgid "Add New Client"
+msgstr "Client"
+
+#: menu-pages/client.php:9
+msgid "Client Name :"
+msgstr "Nom du client :"
+
+#: menu-pages/client.php:11
+msgid "Search"
+msgstr ""
+
+#: menu-pages/client.php:55 menu-pages/client_manage.php:125
+#: menu-pages/manage-appointments.php:109
+#: menu-pages/manage-staff-appointments.php:122
+#: menu-pages/payment-transaction.php:45 menu-pages/timeoff.php:9
+msgid "No."
+msgstr ""
+
+#: menu-pages/client.php:59 menu-pages/client_manage.php:28
+#: menu-pages/client_manage.php:59
+msgid "Special Note"
+msgstr ""
+
+#: menu-pages/client.php:60
+msgid "Appointment History"
+msgstr "Historique des réservations"
+
+#: menu-pages/client.php:61 menu-pages/client_manage.php:131
+#: menu-pages/export-lists.php:265 menu-pages/export-lists.php:382
+#: menu-pages/manage-appointments.php:118
+#: menu-pages/payment-transaction.php:52 menu-pages/service.php:39
+#: menu-pages/staff.php:35 menu-pages/timeoff.php:15
+msgid "Action"
+msgstr ""
+
+#: menu-pages/client.php:62 menu-pages/manage-appointments.php:119
+#: menu-pages/payment-transaction.php:53 menu-pages/timeoff.php:16
+msgid "Select All"
+msgstr ""
+
+#: menu-pages/client.php:77 menu-pages/client.php:80
+#: menu-pages/client_manage.php:158 menu-pages/manage-appointments.php:176
+#: menu-pages/service.php:78 menu-pages/staff.php:49
+msgid "View"
+msgstr ""
+
+#: menu-pages/client.php:81 menu-pages/client_manage.php:36
+#: menu-pages/manage-appointments.php:177 menu-pages/manage-service.php:132
+#: menu-pages/manage-staff.php:117 menu-pages/service.php:79
+#: menu-pages/staff.php:50 menu-pages/timeoff.php:105
+#: menu-pages/update-appointments.php:167 menu-pages/update-timeoff.php:168
+#: menu-pages/settings/business-profile.php:120
+msgid "Update"
+msgstr ""
+
+#: menu-pages/client.php:82
+msgid "Do you want to delete this client"
+msgstr ""
+
+#: menu-pages/client.php:82 menu-pages/client.php:107
+#: menu-pages/export-lists.php:295 menu-pages/export-lists.php:412
+#: menu-pages/manage-appointments.php:178
+#: menu-pages/manage-appointments.php:196
+#: menu-pages/payment-transaction.php:89
+#: menu-pages/payment-transaction.php:106 menu-pages/service.php:25
+#: menu-pages/service.php:81 menu-pages/staff.php:25 menu-pages/staff.php:52
+#: menu-pages/timeoff.php:106 menu-pages/timeoff.php:119
+msgid "Delete"
+msgstr ""
+
+#: menu-pages/client.php:85 menu-pages/manage-appointments.php:180
+#: menu-pages/payment-transaction.php:90 menu-pages/timeoff.php:107
+msgid "Select"
+msgstr ""
+
+#: menu-pages/client.php:93 menu-pages/manage-appointments.php:186
+#: menu-pages/manage-staff-appointments.php:204
+#: menu-pages/payment-transaction.php:96
+msgid "First"
+msgstr ""
+
+#: menu-pages/client.php:101 menu-pages/manage-appointments.php:194
+#: menu-pages/manage-staff-appointments.php:212
+#: menu-pages/payment-transaction.php:104
+msgid "Last"
+msgstr ""
+
+#: menu-pages/client.php:107
+#, fuzzy
+msgid "Do you want to delete selected clients?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/client.php:110
+#, fuzzy
+msgid "Sorry no client(s)."
+msgstr "Aucun client."
+
+#: menu-pages/client.php:122
+msgid "Client successfully deleted."
+msgstr ""
+
+#: menu-pages/client.php:137
+#, fuzzy
+msgid "Selected client(s) successfully deleted."
+msgstr "Les transactions sélectionnées ont bien été supprimées."
+
+#: menu-pages/client.php:139
+msgid "No client(s) selected to delete."
+msgstr ""
+
+#: menu-pages/client_manage.php:13
+msgid "Manage Client"
+msgstr ""
+
+#: menu-pages/client_manage.php:20 menu-pages/update-appointments.php:29
+msgid "Client Name."
+msgstr ""
+
+#: menu-pages/client_manage.php:23 menu-pages/update-appointments.php:35
+msgid "Client Email."
+msgstr ""
+
+#: menu-pages/client_manage.php:26 menu-pages/manage-staff.php:49
+#: menu-pages/settings/business-profile.php:105
+msgid "Phone Number."
+msgstr ""
+
+#: menu-pages/client_manage.php:30
+msgid "Client Note."
+msgstr ""
+
+#: menu-pages/client_manage.php:34 menu-pages/manage-service.php:134
+#: menu-pages/manage-staff.php:115
+#: menu-pages/settings/business-profile.php:122
+msgid "Create"
+msgstr ""
+
+#: menu-pages/client_manage.php:38 menu-pages/manage-service.php:136
+#: menu-pages/manage-staff.php:119 menu-pages/service.php:18
+#: menu-pages/service.php:102 menu-pages/staff.php:17 menu-pages/staff.php:75
+#: menu-pages/UpAppTime.php:147 menu-pages/UpAppTime.php:304
+#: menu-pages/update-appointments.php:172
+#: menu-pages/update-appointments.php:174 menu-pages/update-timeoff.php:169
+#: menu-pages/paypal-api/PaymentGateway.php:126
+#: menu-pages/settings/business-profile.php:124
+#: menu-pages/settings/manage-admin-settings.php:87
+#: menu-pages/settings/manage-calendar-settings.php:174
+#: menu-pages/settings/manage-notification-settings.php:149
+#: menu-pages/settings/manage-payment-settings.php:48
+#: menu-pages/settings/manage-reminder-settings.php:85
+msgid "Cancel"
+msgstr ""
+
+#: menu-pages/client_manage.php:50
+msgid "View Client"
+msgstr ""
+
+#: menu-pages/client_manage.php:52
+msgid "Client Details"
+msgstr "Détails du client"
+
+#: menu-pages/client_manage.php:66
+msgid "Client Detailed Appointment History"
+msgstr "Historique des réservations du client"
+
+#: menu-pages/client_manage.php:66
+msgid "All Appointment History"
+msgstr "Historique complet des réservations"
+
+#: menu-pages/client_manage.php:77 menu-pages/update-appointments.php:21
+#: menu-pages/update-appointments.php:501
+msgid "Appointment Creation Date"
+msgstr ""
+
+#: menu-pages/client_manage.php:98 menu-pages/timeoff.php:163
+#: menu-pages/UpAppTime.php:61 menu-pages/UpAppTime.php:183
+#: menu-pages/update-appointments.php:77
+#: menu-pages/update-appointments.php:546 menu-pages/update-timeoff.php:41
+#: menu-pages/settings/business-hours.php:123
+#: menu-pages/settings/staff-hours.php:918
+msgid "Start Time"
+msgstr ""
+
+#: menu-pages/client_manage.php:99 menu-pages/timeoff.php:170
+#: menu-pages/UpAppTime.php:66 menu-pages/UpAppTime.php:186
+#: menu-pages/update-appointments.php:82
+#: menu-pages/update-appointments.php:551 menu-pages/update-timeoff.php:47
+#: menu-pages/settings/business-hours.php:124
+#: menu-pages/settings/staff-hours.php:919
+msgid "End Time"
+msgstr ""
+
+#: menu-pages/client_manage.php:102 menu-pages/manage-service.php:19
+#: menu-pages/manage-service.php:154 menu-pages/service.php:30
+#: menu-pages/update-appointments.php:94
+#: menu-pages/update-appointments.php:567
+msgid "Description"
+msgstr ""
+
+#: menu-pages/client_manage.php:109 menu-pages/UpAppTime.php:81
+#: menu-pages/update-appointments.php:107
+#: menu-pages/update-appointments.php:587
+msgid "Repeat Type"
+msgstr ""
+
+#: menu-pages/client_manage.php:111 menu-pages/update-appointments.php:118
+#: menu-pages/update-appointments.php:592
+msgid "Repeat Start Date"
+msgstr ""
+
+#: menu-pages/client_manage.php:113 menu-pages/update-appointments.php:123
+#: menu-pages/update-appointments.php:597
+msgid "Repeat End Date"
+msgstr ""
+
+#: menu-pages/client_manage.php:115 menu-pages/update-appointments.php:129
+#: menu-pages/update-appointments.php:602
+msgid "Appointment By"
+msgstr ""
+
+#: menu-pages/client_manage.php:117 menu-pages/update-appointments.php:151
+#: menu-pages/update-appointments.php:607
+msgid "Payment Status"
+msgstr ""
+
+#: menu-pages/client_manage.php:164
+#, fuzzy
+msgid "Sorry! No appointment(s) available for this client."
+msgstr "Aucune réservation pour ce client"
+
+#: menu-pages/client_manage.php:184 menu-pages/manage-staff.php:191
+#: menu-pages/manage-staff.php:243
+msgid "is already in the database."
+msgstr ""
+
+#: menu-pages/client_manage.php:190
+msgid "New client successfully added."
+msgstr ""
+
+#: menu-pages/client_manage.php:213 menu-pages/client_manage.php:216
+#: menu-pages/client_manage.php:225 menu-pages/client_manage.php:228
+msgid "Client details successfully updated."
+msgstr ""
+
+#: menu-pages/client_manage.php:220
+msgid "is alredy in the database."
+msgstr ""
+
+#: menu-pages/client_manage.php:243
+msgid "Client name cannot be blank."
+msgstr ""
+
+#: menu-pages/client_manage.php:260
+msgid "invalid  value."
+msgstr ""
+
+#: menu-pages/client_manage.php:267 menu-pages/manage-staff.php:325
+msgid "Phone Number cannot be blank."
+msgstr ""
+
+#: menu-pages/export-lists.php:200
+msgid "Export List(s)"
+msgstr ""
+
+#: menu-pages/export-lists.php:213 menu-pages/export-lists.php:217
+#: menu-pages/export-lists.php:332 menu-pages/export-lists.php:336
+#, fuzzy
+msgid "Select Range"
+msgstr "Choisissez une personne :"
+
+#: menu-pages/export-lists.php:218
+#, fuzzy
+msgid "Today's Appointment"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/export-lists.php:219
+#, fuzzy
+msgid "This Week Appointment"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/export-lists.php:220
+#, fuzzy
+msgid "This Month Appointment"
+msgstr "Gérer les réservations"
+
+#: menu-pages/export-lists.php:221
+#, fuzzy
+msgid "Custom Appointment Range"
+msgstr "Date de votre réservation :"
+
+#: menu-pages/export-lists.php:222
+#, fuzzy
+msgid "All Appointment"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/export-lists.php:223
+#, fuzzy
+msgid "Appointment Selection Range"
+msgstr "Réservations"
+
+#: menu-pages/export-lists.php:227 menu-pages/export-lists.php:343
+#, fuzzy
+msgid "Select Start Date"
+msgstr "Sélectionnez un statut"
+
+#: menu-pages/export-lists.php:234 menu-pages/export-lists.php:350
+#, fuzzy
+msgid "Select End Date"
+msgstr "Choisissez une personne :"
+
+#: menu-pages/export-lists.php:244
+#, fuzzy
+msgid "Export Appointment List"
+msgstr "Vos réservations"
+
+#: menu-pages/export-lists.php:247
+#, fuzzy
+msgid "Generating appointments list, please wait..."
+msgstr "Réservation en cours d'enregistrement, merci de patienter."
+
+#: menu-pages/export-lists.php:255
+#, fuzzy
+msgid "Appointments List(s)"
+msgstr "Historique des réservations"
+
+#: menu-pages/export-lists.php:261 menu-pages/export-lists.php:378
+msgid "Lists"
+msgstr ""
+
+#: menu-pages/export-lists.php:264 menu-pages/export-lists.php:381
+msgid "Size"
+msgstr ""
+
+#: menu-pages/export-lists.php:294 menu-pages/export-lists.php:411
+msgid "Download"
+msgstr ""
+
+#: menu-pages/export-lists.php:310 menu-pages/export-lists.php:427
+msgid "Delete All"
+msgstr ""
+
+#: menu-pages/export-lists.php:316
+#, fuzzy
+msgid "Sorry! No appointment lists are available."
+msgstr "Aucune réservation pour ce client"
+
+#: menu-pages/export-lists.php:337
+#, fuzzy
+msgid "All Clients"
+msgstr "Client"
+
+#: menu-pages/export-lists.php:339
+msgid "Clients Selection Range"
+msgstr ""
+
+#: menu-pages/export-lists.php:360
+msgid "Export Clients List"
+msgstr ""
+
+#: menu-pages/export-lists.php:363
+#, fuzzy
+msgid "Generating clients list, please wait..."
+msgstr "Réservation en cours d'enregistrement, merci de patienter."
+
+#: menu-pages/export-lists.php:372
+#, fuzzy
+msgid "Clients List(s)"
+msgstr "Détails du client"
+
+#: menu-pages/export-lists.php:433
+#, fuzzy
+msgid "Sorry! No client lists are available."
+msgstr "Désolé, aucun créneau horaire n'est disponible aujourd'hui."
+
+#: menu-pages/export-lists.php:487 menu-pages/export-lists.php:584
+#, fuzzy
+msgid "Select any range."
+msgstr "Choisissez une personne :"
+
+#: menu-pages/export-lists.php:522 menu-pages/export-lists.php:598
+#, fuzzy
+msgid "Select any start date."
+msgstr "Choisissez une personne :"
+
+#: menu-pages/export-lists.php:526 menu-pages/export-lists.php:602
+#, fuzzy
+msgid "Select any end date."
+msgstr "Choisissez une personne :"
+
+#: menu-pages/export-lists.php:650 menu-pages/export-lists.php:682
+#, fuzzy
+msgid "List file successfully deleted."
+msgstr "La transaction a bien été supprimée."
+
+#: menu-pages/export-lists.php:653 menu-pages/export-lists.php:684
+msgid "Unable to delete list or list file not exist."
+msgstr ""
+
+#: menu-pages/export-lists.php:667 menu-pages/export-lists.php:698
+#, fuzzy
+msgid "All list file(s) successfully deleted."
+msgstr "Les transactions sélectionnées ont bien été supprimées."
+
+#: menu-pages/manage-appointments.php:9
+#: menu-pages/manage-staff-appointments.php:19
+msgid "Manage Appointment(s)"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:18
+#: menu-pages/manage-staff-appointments.php:28
+msgid "All Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:19
+#: menu-pages/manage-staff-appointments.php:30
+msgid "Pending Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:20
+#: menu-pages/manage-staff-appointments.php:32
+msgid "Approved Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:21
+#: menu-pages/manage-staff-appointments.php:34
+msgid "Cancelled Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:22
+#: menu-pages/manage-staff-appointments.php:36
+msgid "Done Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:23
+#: menu-pages/manage-staff-appointments.php:38
+msgid "Today`s  Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:24
+#, fuzzy
+msgid "Paid Appointments"
+msgstr "Réservations payées"
+
+#: menu-pages/manage-appointments.php:25
+#, fuzzy
+msgid "Unpaid Appointments"
+msgstr "Réservations non payées"
+
+#: menu-pages/manage-appointments.php:27 menu-pages/manage-appointments.php:28
+#: menu-pages/manage-staff-appointments.php:41
+#: menu-pages/manage-staff-appointments.php:42
+msgid "Filter Appointments"
+msgstr ""
+
+#: menu-pages/manage-appointments.php:117
+msgid "Payment"
+msgstr "Paiement"
+
+#: menu-pages/manage-appointments.php:160
+#: menu-pages/manage-staff-appointments.php:178
+msgid "Select Status"
+msgstr "Sélectionnez un statut"
+
+#: menu-pages/manage-appointments.php:161
+#: menu-pages/manage-staff-appointments.php:179 menu-pages/UpAppTime.php:75
+#: menu-pages/update-appointments.php:143
+msgid "Pending"
+msgstr "En attente"
+
+#: menu-pages/manage-appointments.php:162
+#: menu-pages/manage-staff-appointments.php:180 menu-pages/UpAppTime.php:76
+#: menu-pages/update-appointments.php:144
+msgid "Approved"
+msgstr "Validée"
+
+#: menu-pages/manage-appointments.php:163
+#: menu-pages/manage-staff-appointments.php:181 menu-pages/UpAppTime.php:77
+#: menu-pages/update-appointments.php:145
+msgid "Cancelled"
+msgstr "Annulée"
+
+#: menu-pages/manage-appointments.php:171
+#: menu-pages/manage-staff-appointments.php:189
+msgid "Updating..."
+msgstr "Mise à jour..."
+
+#: menu-pages/manage-appointments.php:179
+#, fuzzy
+msgid "Do you want to delete this appointment?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/manage-appointments.php:196
+#, fuzzy
+msgid "Do you want to delete these appointments?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/manage-appointments.php:199
+#: menu-pages/manage-staff-appointments.php:217
+msgid "Sorry No Appointment(s)."
+msgstr "Aucune réservation."
+
+#: menu-pages/manage-appointments.php:441
+#: menu-pages/manage-staff-appointments.php:457
+msgid "Appointment successfully deleted."
+msgstr ""
+
+#: menu-pages/manage-appointments.php:478
+#: menu-pages/manage-staff-appointments.php:494
+msgid "Selected Appointment(s) successfully deleted."
+msgstr ""
+
+#: menu-pages/manage-appointments.php:481
+#: menu-pages/manage-staff-appointments.php:497
+msgid "No Appointment(s) selected to delete."
+msgstr ""
+
+#: menu-pages/manage-service.php:1 menu-pages/service.php:1
+msgid "Services"
+msgstr ""
+
+#: menu-pages/manage-service.php:16
+#: menu-pages/settings/manage-reminder-settings.php:65
+#: menu-pages/settings/notification-message.php:37
+#: menu-pages/settings/notification-message.php:156
+#: menu-pages/settings/notification-message.php:196
+msgid "Service Name"
+msgstr ""
+
+#: menu-pages/manage-service.php:21
+msgid "Service Description"
+msgstr "Description du service"
+
+#: menu-pages/manage-service.php:24 menu-pages/manage-service.php:159
+#: menu-pages/service.php:31
+msgid "Duration"
+msgstr ""
+
+#: menu-pages/manage-service.php:26
+msgid ""
+"Service Duration<br>Enter Numeric Value In Multiple Of 5<br>Eg: 15, 30, 60"
+msgstr ""
+"Durée du service<br>Insérez une valeur numérique multiple de 5<br>Par "
+"exemple : 5, 10, 15, 20, 25"
+
+#: menu-pages/manage-service.php:30 menu-pages/manage-service.php:35
+msgid "Duration Unit"
+msgstr ""
+
+#: menu-pages/manage-service.php:33
+msgid "Select Duration's Unit"
+msgstr ""
+
+#: menu-pages/manage-service.php:34
+msgid "Minute(s)"
+msgstr ""
+
+#: menu-pages/manage-service.php:39 menu-pages/manage-service.php:164
+#: menu-pages/service.php:32
+msgid "Padding Time"
+msgstr ""
+
+#: menu-pages/manage-service.php:42
+#, fuzzy
+msgid ""
+"Padding / Break / Refresh Time<br>Enter Numeric Value<br>Eg: 5, 10, 15, 20, "
+"25 OR can be 0"
+msgstr ""
+"Prix du service<br>Insérez une valeur numérique<br>Par exemple : 50, 100, 150"
+
+#: menu-pages/manage-service.php:45 menu-pages/manage-service.php:169
+#: menu-pages/service.php:33
+msgid "Cost"
+msgstr ""
+
+#: menu-pages/manage-service.php:47
+msgid "Service Cost<br>Enter Numeric Value<br>Eg: 50, 100, 150"
+msgstr ""
+"Prix du service<br>Insérez une valeur numérique<br>Par exemple : 50, 100, 150"
+
+#: menu-pages/manage-service.php:59 menu-pages/service.php:35
+#: menu-pages/settings/manage-payment-settings.php:9
+#: menu-pages/settings/manage-payment-settings.php:16
+#: menu-pages/settings/payment-settings.php:36
+msgid "Accept Payment"
+msgstr ""
+
+#: menu-pages/manage-service.php:63 menu-pages/manage-service.php:92
+#: menu-pages/manage-service.php:190 menu-pages/service.php:62
+#: menu-pages/service.php:76 menu-pages/timeoff.php:187
+#: menu-pages/UpAppTime.php:196 menu-pages/update-appointments.php:103
+#: menu-pages/update-timeoff.php:63
+#: menu-pages/settings/calendar-settings.php:180
+#: menu-pages/settings/calendar-settings.php:192
+#: menu-pages/settings/googlecalendarsync.php:39
+#: menu-pages/settings/manage-calendar-settings.php:143
+#: menu-pages/settings/manage-calendar-settings.php:154
+#: menu-pages/settings/manage-payment-settings.php:14
+#: menu-pages/settings/manage-reminder-settings.php:14
+msgid "No"
+msgstr ""
+
+#: menu-pages/manage-service.php:64 menu-pages/manage-service.php:91
+#: menu-pages/manage-service.php:190 menu-pages/service.php:62
+#: menu-pages/service.php:76 menu-pages/update-appointments.php:102
+#: menu-pages/settings/calendar-settings.php:179
+#: menu-pages/settings/calendar-settings.php:191
+#: menu-pages/settings/googlecalendarsync.php:40
+#: menu-pages/settings/manage-calendar-settings.php:142
+#: menu-pages/settings/manage-calendar-settings.php:153
+#: menu-pages/settings/manage-payment-settings.php:15
+#: menu-pages/settings/manage-reminder-settings.php:15
+msgid "Yes"
+msgstr ""
+
+#: menu-pages/manage-service.php:65
+msgid "Accept Payment On Booking"
+msgstr ""
+
+#: menu-pages/manage-service.php:69 menu-pages/manage-service.php:76
+#: menu-pages/service.php:36
+msgid "Payment Type"
+msgstr "Type de paiement"
+
+#: menu-pages/manage-service.php:74 menu-pages/service.php:65
+msgid "In Percentage"
+msgstr ""
+
+#: menu-pages/manage-service.php:75 menu-pages/service.php:66
+msgid "Full Payment"
+msgstr ""
+
+#: menu-pages/manage-service.php:80
+#, fuzzy
+msgid "Percentage Amount"
+msgstr "Le pourcentage doit être renseigné."
+
+#: menu-pages/manage-service.php:83
+msgid "Percentage Amount<br> Eg: 5%, 10%, 20%, 50%<br>Enter Numeric Value"
+msgstr ""
+
+#: menu-pages/manage-service.php:86 menu-pages/manage-service.php:188
+#: menu-pages/service.php:38
+msgid "Availability"
+msgstr ""
+
+#: menu-pages/manage-service.php:90
+msgid "Select Service Availability"
+msgstr ""
+
+#: menu-pages/manage-service.php:93
+msgid "Service Availability"
+msgstr "Disponibilité du service"
+
+#: menu-pages/manage-service.php:96 menu-pages/manage-service.php:193
+msgid "Category"
+msgstr ""
+
+#: menu-pages/manage-service.php:100 menu-pages/manage-service.php:110
+msgid "Select Category"
+msgstr ""
+
+#: menu-pages/manage-service.php:108 menu-pages/manage-service.php:197
+#: menu-pages/manage-staff.php:70 menu-pages/manage-staff.php:158
+#: menu-pages/service.php:13 menu-pages/staff.php:12
+msgid "Default"
+msgstr ""
+
+#: menu-pages/manage-service.php:113 menu-pages/timeoff.php:249
+#: menu-pages/UpAppTime.php:292 menu-pages/update-timeoff.php:146
+msgid "Assign Staff(s)"
+msgstr ""
+
+#: menu-pages/manage-service.php:115 menu-pages/timeoff.php:251
+#: menu-pages/UpAppTime.php:293 menu-pages/update-timeoff.php:148
+msgid "Use CTRL to Select Multiple Staff(s)"
+msgstr ""
+
+#: menu-pages/manage-service.php:126
+msgid "Assign Staff(s) To This Service<br>Use CTRL To Select Multiple Staffs"
+msgstr ""
+"Assignez du personnel à ce service<br>Utilisez CTRL pour sélectionner "
+"plusieurs personnes"
+
+#: menu-pages/manage-service.php:161 menu-pages/manage-service.php:166
+#: menu-pages/service.php:49 menu-pages/service.php:50
+#: menu-pages/settings/calendar-settings.php:79
+msgid "Minute"
+msgstr "Minute"
+
+#: menu-pages/manage-service.php:240
+msgid "New service added successfully."
+msgstr ""
+
+#: menu-pages/manage-service.php:293 menu-pages/manage-service.php:296
+msgid "Service updated successfully."
+msgstr ""
+
+#: menu-pages/manage-service.php:315 menu-pages/manage-service.php:398
+msgid "Duration will be in multiple of 5, like as: 5, 10, 15, 20, 25."
+msgstr ""
+
+#: menu-pages/manage-service.php:381
+msgid "Description cannot be blank."
+msgstr "La description doit être renseignée."
+
+#: menu-pages/manage-service.php:387
+msgid "Duration cannot be blank."
+msgstr ""
+
+#: menu-pages/manage-service.php:392
+msgid "Invalid Duration."
+msgstr ""
+
+#: menu-pages/manage-service.php:408
+#, fuzzy
+msgid "Padding time cannot be blank."
+msgstr "Le nom doit être renseigné."
+
+#: menu-pages/manage-service.php:413
+#, fuzzy
+msgid "Invalid padding time."
+msgstr "Nom incorrect."
+
+#: menu-pages/manage-service.php:419
+msgid ""
+"Padding time will be in multiple of 5, like as: 5, 10, 15, 20, 25 OR can be "
+"0."
+msgstr ""
+
+#: menu-pages/manage-service.php:453
+msgid "Cost cannot be blank."
+msgstr "Le prix doit être renseigné."
+
+#: menu-pages/manage-service.php:458
+msgid "Invalid cost."
+msgstr ""
+
+#: menu-pages/manage-service.php:470
+#, fuzzy
+msgid "Percentage amount cannot be blank."
+msgstr "Le pourcentage doit être renseigné."
+
+#: menu-pages/manage-service.php:475
+msgid "Invalid percentage amount. Eg.: 5, 10, 20, 25, 50"
+msgstr ""
+
+#: menu-pages/manage-service.php:480
+msgid "Amount greater than 0. Eg.: 5, 10, 20, 25, 50"
+msgstr ""
+
+#: menu-pages/manage-service.php:485
+msgid "Amount less then 100. Eg.: 5, 10, 20, 25, 50"
+msgstr ""
+
+#: menu-pages/manage-service.php:494
+msgid "Select availability."
+msgstr ""
+
+#: menu-pages/manage-service.php:500
+msgid "Select category."
+msgstr ""
+
+#: menu-pages/manage-service.php:506 menu-pages/timeoff.php:691
+#: menu-pages/update-timeoff.php:619
+msgid "Assign any staff."
+msgstr ""
+
+#: menu-pages/manage-staff.php:23
+msgid "Manage Staff"
+msgstr ""
+
+#: menu-pages/manage-staff.php:31
+msgid "Staff Name."
+msgstr ""
+
+#: menu-pages/manage-staff.php:40
+msgid "Staff Email."
+msgstr ""
+
+#: menu-pages/manage-staff.php:52 menu-pages/manage-staff.php:149
+#: menu-pages/staff.php:34
+msgid "Experience"
+msgstr ""
+
+#: menu-pages/manage-staff.php:56
+msgid "Staff Experience(In year)."
+msgstr ""
+
+#: menu-pages/manage-staff.php:61
+msgid "Group Name"
+msgstr ""
+
+#: menu-pages/manage-staff.php:65
+msgid "Select Staff Group"
+msgstr ""
+
+#: menu-pages/manage-staff.php:73
+msgid "Staff Group Name."
+msgstr ""
+
+#: menu-pages/manage-staff.php:78 menu-pages/manage-staff.php:162
+#: menu-pages/settings/business-profile.php:38
+#: menu-pages/settings/business-profile.php:95
+msgid "Address"
+msgstr ""
+
+#: menu-pages/manage-staff.php:82
+msgid "Staff Address."
+msgstr ""
+
+#: menu-pages/manage-staff.php:87 menu-pages/manage-staff.php:167
+#: menu-pages/settings/business-profile.php:41
+#: menu-pages/settings/business-profile.php:98
+msgid "City"
+msgstr ""
+
+#: menu-pages/manage-staff.php:90
+msgid "Staff City."
+msgstr ""
+
+#: menu-pages/manage-staff.php:95
+msgid "Assign Service(s)"
+msgstr ""
+
+#: menu-pages/manage-staff.php:98
+msgid "Use CTRL to Select Multiple Service(s)"
+msgstr ""
+
+#: menu-pages/manage-staff.php:106
+msgid ""
+"Assign Staff(s) To This Service.&lt;br&gt;Use CTRL To Select Multiple Staffs"
+msgstr ""
+
+#: menu-pages/manage-staff.php:131
+msgid "View Staff"
+msgstr ""
+
+#: menu-pages/manage-staff.php:151 menu-pages/staff.php:47
+msgid "Year(s)"
+msgstr "Année(s)"
+
+#: menu-pages/manage-staff.php:154
+msgid "Group name"
+msgstr ""
+
+#: menu-pages/manage-staff.php:210
+msgid "New Staff"
+msgstr ""
+
+#: menu-pages/manage-staff.php:210
+msgid "is successfully added."
+msgstr ""
+
+#: menu-pages/manage-staff.php:238 menu-pages/manage-staff.php:240
+#: menu-pages/manage-staff.php:253 menu-pages/manage-staff.php:255
+msgid "Staff details successfully updated."
+msgstr ""
+
+#: menu-pages/manage-staff.php:300
+msgid "Staff name cannot be blank."
+msgstr ""
+
+#: menu-pages/manage-staff.php:317
+msgid "Invalid  value."
+msgstr ""
+
+#: menu-pages/manage-staff.php:346
+msgid "Select any group."
+msgstr ""
+
+#: menu-pages/manage-staff.php:352
+msgid "Assign any service."
+msgstr ""
+
+#: menu-pages/payment-transaction.php:39
+msgid "Payment Transaction Details"
+msgstr ""
+
+#: menu-pages/payment-transaction.php:46
+msgid "Txn Id"
+msgstr ""
+
+#: menu-pages/payment-transaction.php:49
+msgid "Time & Date"
+msgstr "Horaire & date"
+
+#: menu-pages/payment-transaction.php:50 menu-pages/service.php:37
+msgid "Amount"
+msgstr ""
+
+#: menu-pages/payment-transaction.php:89
+#, fuzzy
+msgid "Do you want to delete this transaction?"
+msgstr "Voulez-vous supprimer cette transaction ?"
+
+#: menu-pages/payment-transaction.php:106
+#, fuzzy
+msgid "Do you want to delete these transactions?"
+msgstr "Voulez-vous supprimer ces transactions ?"
+
+#: menu-pages/payment-transaction.php:109
+msgid "Sorry No Transaction(s)."
+msgstr ""
+
+#: menu-pages/payment-transaction.php:154
+msgid "Transaction successfully deleted."
+msgstr "La transaction a bien été supprimée."
+
+#: menu-pages/payment-transaction.php:171
+msgid "Selected transaction successfully deleted."
+msgstr "Les transactions sélectionnées ont bien été supprimées."
+
+#: menu-pages/payment-transaction.php:176
+msgid "No transaction(s) selected to delete."
+msgstr "Aucune transaction n'a été sélectionnée pour suppression."
+
+#: menu-pages/service.php:17 menu-pages/staff.php:16
+#: menu-pages/settings/business-hours.php:484
+#: menu-pages/settings/notification-message.php:69
+#: menu-pages/settings/notification-message.php:93
+#: menu-pages/settings/notification-message.php:118
+#: menu-pages/settings/notification-message.php:170
+#: menu-pages/settings/notification-message.php:228
+#: menu-pages/settings/notification-message.php:254
+#: menu-pages/settings/notification-message.php:279
+#: menu-pages/settings/staff-hours.php:1258
+msgid "Save"
+msgstr ""
+
+#: menu-pages/service.php:24
+msgid "Rename Category"
+msgstr ""
+
+#: menu-pages/service.php:24 menu-pages/staff.php:23
+msgid "Rename"
+msgstr ""
+
+#: menu-pages/service.php:25
+#, fuzzy
+msgid "Do you want to delete this category?"
+msgstr "Voulez-vous supprimer cette transaction ?"
+
+#: menu-pages/service.php:25
+msgid "Delete Category"
+msgstr ""
+
+#: menu-pages/service.php:72
+msgid "Full"
+msgstr ""
+
+#: menu-pages/service.php:81
+#, fuzzy
+msgid "Do you want to delete this service?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/service.php:86
+msgid "Add New Service to this Category"
+msgstr ""
+
+#: menu-pages/service.php:95
+msgid "Create New Service Category"
+msgstr ""
+
+#: menu-pages/service.php:100
+msgid "Service Category name"
+msgstr ""
+
+#: menu-pages/service.php:101
+msgid "Create Category"
+msgstr ""
+
+#: menu-pages/service.php:114
+msgid "New service category successfully created."
+msgstr ""
+
+#: menu-pages/service.php:130
+msgid "Service category successfully renamed"
+msgstr ""
+
+#: menu-pages/service.php:134 menu-pages/staff.php:214
+msgid "Invalid group name."
+msgstr ""
+
+#: menu-pages/service.php:137 menu-pages/staff.php:108
+#: menu-pages/staff.php:209
+msgid "Group name cannot be blank."
+msgstr ""
+
+#: menu-pages/service.php:152
+msgid "Service category successfully deleted."
+msgstr ""
+
+#: menu-pages/service.php:167
+msgid "Service successfully deleted."
+msgstr ""
+
+#: menu-pages/service.php:225
+msgid "Category name cannot be blank."
+msgstr ""
+
+#: menu-pages/service.php:232
+msgid "invalid Category name."
+msgstr ""
+
+#: menu-pages/settings.php:2
+msgid "Settings Panel"
+msgstr ""
+
+#: menu-pages/settings.php:10 menu-pages/settings/business-profile.php:29
+#: menu-pages/settings/business-profile.php:71
+#: menu-pages/settings/business-profile.php:84
+msgid "Business Profile"
+msgstr ""
+
+#: menu-pages/settings.php:12 menu-pages/settings/business-hours.php:94
+msgid "Business Hours"
+msgstr ""
+
+#: menu-pages/settings.php:14 menu-pages/settings/staff-hours.php:782
+msgid "Staff Hours"
+msgstr "Horaires du personnel"
+
+#: menu-pages/settings.php:16 menu-pages/settings/calendar-settings.php:34
+msgid "Calendar Settings"
+msgstr ""
+
+#: menu-pages/settings.php:18 menu-pages/settings/admin-settings.php:24
+msgid "Admin Settings"
+msgstr ""
+
+#: menu-pages/settings.php:20 menu-pages/settings/notification-settings.php:60
+msgid "Notification Settings"
+msgstr ""
+
+#: menu-pages/settings.php:22 menu-pages/settings/notification-message.php:2
+msgid "Notification Message"
+msgstr ""
+
+#: menu-pages/settings.php:24 menu-pages/update-appointments.php:135
+#: menu-pages/settings/googlecalendarsync.php:7
+msgid "Google Calendar"
+msgstr ""
+
+#: menu-pages/settings.php:26 menu-pages/settings.php:44
+#: menu-pages/settings/payment-settings.php:32
+msgid "Payment Settings"
+msgstr "Paramétrages du paiement"
+
+#: menu-pages/settings.php:28 menu-pages/settings.php:45
+#: menu-pages/settings/reminder-settings.php:43
+msgid "Reminder Settings"
+msgstr "Paramétrages des rappels"
+
+#: menu-pages/settings.php:34
+msgid "Settings Panel Allows Admin To Manage Following Settings"
+msgstr ""
+
+#: menu-pages/settings.php:36 menu-pages/settings/business-profile.php:71
+msgid "Setup Business Profile"
+msgstr ""
+
+#: menu-pages/settings.php:37
+msgid "Manage Business Working Hours"
+msgstr ""
+
+#: menu-pages/settings.php:38
+#, fuzzy
+msgid "Manage Staff Hours"
+msgstr "Horaires du personnel"
+
+#: menu-pages/settings.php:39
+#: menu-pages/settings/manage-calendar-settings.php:3
+msgid "Manage Calendar Settings"
+msgstr ""
+
+#: menu-pages/settings.php:40
+#, fuzzy
+msgid "Manage Aministrator Settings"
+msgstr "Paramétrages des rappels"
+
+#: menu-pages/settings.php:41
+#: menu-pages/settings/manage-notification-settings.php:4
+msgid "Manage Notification Settings"
+msgstr ""
+
+#: menu-pages/settings.php:42
+msgid "Customize Notification Message"
+msgstr ""
+
+#: menu-pages/settings.php:43
+#, fuzzy
+msgid "Sync Appointments With Google Calendar"
+msgstr "Réservations"
+
+#: menu-pages/staff-appointment-calendar.php:124
+#: menu-pages/staff-appointment-calendar.php:169
+#: menu-pages/staff-appointment-calendar.php:195
+#, fuzzy
+msgid "Appointment with"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/staff.php:23
+msgid "Rename Group"
+msgstr ""
+
+#: menu-pages/staff.php:25
+#, fuzzy
+msgid "Do you want to delete this Group?"
+msgstr "Voulez-vous supprimer cette transaction ?"
+
+#: menu-pages/staff.php:25
+msgid "Delete Group"
+msgstr ""
+
+#: menu-pages/staff.php:31 menu-pages/settings/manage-reminder-settings.php:66
+#: menu-pages/settings/notification-message.php:38
+#: menu-pages/settings/notification-message.php:157
+#: menu-pages/settings/notification-message.php:197
+msgid "Staff Name"
+msgstr ""
+
+#: menu-pages/staff.php:52
+#, fuzzy
+msgid "Do you want to delete this Staff?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/staff.php:59
+msgid "Add New Staff to this Group"
+msgstr ""
+
+#: menu-pages/staff.php:68
+msgid "Create New Staff Group"
+msgstr ""
+
+#: menu-pages/staff.php:73
+msgid "Staff Group name"
+msgstr ""
+
+#: menu-pages/staff.php:74
+msgid "Create Group"
+msgstr ""
+
+#: menu-pages/staff.php:87
+msgid "New staff group successfully created."
+msgstr ""
+
+#: menu-pages/staff.php:101
+msgid "Staff group successfully renamed."
+msgstr ""
+
+#: menu-pages/staff.php:105
+msgid "Invalid group name"
+msgstr ""
+
+#: menu-pages/staff.php:122
+msgid "Staff group successfully deleted."
+msgstr ""
+
+#: menu-pages/staff.php:155
+msgid "Staff successfully deleted."
+msgstr ""
+
+#: menu-pages/supportnhelp.php:4
+msgid "Appointment Calendar Premium"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:8
+msgid ""
+"Appointment Calendar Premium is a simple but effective plugin which enables "
+"you to take appointments on your wordpress blog."
+msgstr ""
+
+#: menu-pages/supportnhelp.php:10
+msgid ""
+"If you are a consultant/doctor/lawyer etc, you can harness the power of "
+"appointment calendar."
+msgstr ""
+
+#: menu-pages/supportnhelp.php:12
+msgid ""
+"Simply unzip and upload appointment-calendar directory to /wp-content/"
+"plugins/ directory and activate the plugin."
+msgstr ""
+
+#: menu-pages/supportnhelp.php:14
+msgid ""
+"To insert Appointment Calendar Premium into any post or page, use the "
+"shortcode:"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:16
+msgid ""
+"To insert Appointment Calendar Premium Button into any post or page, use the "
+"shortcode:"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:18
+msgid "Appointment Calendar Premium shortcode for Mobile Devices:"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:20
+msgid ""
+"That's it, you can now start taking appointments on your wordpress site."
+msgstr ""
+
+#: menu-pages/supportnhelp.php:22
+msgid "For Documentation Visit:"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:22 menu-pages/supportnhelp.php:24
+msgid "AppointZilla : Appointment Scheduling Plugin For Wordpress"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:22
+msgid "AppointZilla Documentation"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:24
+msgid "For Help &amp; Support Visit:"
+msgstr ""
+
+#: menu-pages/supportnhelp.php:24
+msgid "AppointZilla Forum"
+msgstr ""
+
+#: menu-pages/timeoff.php:106
+#, fuzzy
+msgid "Do you want to delete this Time Off?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/timeoff.php:113 menu-pages/timeoff.php:143
+msgid "Add New Time Off"
+msgstr ""
+
+#: menu-pages/timeoff.php:119
+#, fuzzy
+msgid "Do you want to delete all Time Offs?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/timeoff.php:149 menu-pages/UpAppTime.php:176
+#: menu-pages/update-timeoff.php:31
+msgid "All Day Time Off"
+msgstr ""
+
+#: menu-pages/timeoff.php:188 menu-pages/UpAppTime.php:206
+#: menu-pages/update-timeoff.php:64
+msgid "Particular Date(s)"
+msgstr ""
+
+#: menu-pages/timeoff.php:191 menu-pages/UpAppTime.php:202
+#: menu-pages/update-timeoff.php:67
+msgid "Bi-Weekly"
+msgstr ""
+
+#: menu-pages/timeoff.php:213
+msgid "Repeat Bi-Week(s)"
+msgstr ""
+
+#: menu-pages/timeoff.php:242 menu-pages/UpAppTime.php:287
+#: menu-pages/update-timeoff.php:141
+msgid "Note"
+msgstr ""
+
+#: menu-pages/timeoff.php:271
+msgid "Create Time Off"
+msgstr ""
+
+#: menu-pages/timeoff.php:377
+msgid "Time-off successfully added."
+msgstr ""
+
+#: menu-pages/timeoff.php:409
+msgid "Time-off successfully deleted."
+msgstr ""
+
+#: menu-pages/timeoff.php:448
+msgid "Selected Time-off successfully deleted."
+msgstr ""
+
+#: menu-pages/timeoff.php:450
+msgid "No time-off selected to delete."
+msgstr ""
+
+#: menu-pages/timeoff.php:598 menu-pages/timeoff.php:599
+#: menu-pages/UpAppTime.php:879 menu-pages/UpAppTime.php:880
+#: menu-pages/UpAppTime.php:1051 menu-pages/UpAppTime.php:1052
+#: menu-pages/update-appointments.php:271
+#: menu-pages/update-appointments.php:272 menu-pages/update-timeoff.php:525
+#: menu-pages/update-timeoff.php:526
+msgid "Start-time and End-time cant be equal."
+msgstr ""
+
+#: menu-pages/timeoff.php:612 menu-pages/update-appointments.php:285
+#: menu-pages/update-timeoff.php:539
+msgid "Start-time must be smaller then End-time."
+msgstr ""
+
+#: menu-pages/timeoff.php:613 menu-pages/update-appointments.php:286
+#: menu-pages/update-timeoff.php:540
+msgid "End-time must be bigger then Start-time."
+msgstr ""
+
+#: menu-pages/UpAppTime.php:23 menu-pages/update-appointments.php:15
+msgid "Update Appointment"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:87 menu-pages/update-appointments.php:114
+msgid "Particular Day"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:108 menu-pages/UpAppTime.php:133
+msgid "Repeat Week`s"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:118 menu-pages/UpAppTime.php:139
+msgid "Repeat Month`s"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:130
+msgid "Repeat Day`s"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:136
+msgid "Repeat Bi-week`s"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:150
+#, fuzzy
+msgid "Updating Appointment..."
+msgstr "Gérer les réservations"
+
+#: menu-pages/UpAppTime.php:160
+msgid "Update TimeOff"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:228 menu-pages/UpAppTime.php:268
+#: menu-pages/update-timeoff.php:102
+msgid "Repeat Weeks(s)"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:238 menu-pages/UpAppTime.php:273
+#: menu-pages/update-timeoff.php:110
+msgid "Repeat Bi-Weeks(s)"
+msgstr ""
+
+#: menu-pages/UpAppTime.php:308
+msgid "Updating Time Off..."
+msgstr ""
+
+#: menu-pages/UpAppTime.php:885 menu-pages/UpAppTime.php:1062
+#, fuzzy
+msgid "Start-time must be smaller than End-time."
+msgstr ""
+"Date incorrecte ! La date de début doit être antérieure à la date de fin."
+
+#: menu-pages/UpAppTime.php:886 menu-pages/UpAppTime.php:1063
+msgid "End-time must be bigger than Start-time."
+msgstr ""
+
+#: menu-pages/UpAppTime.php:961 menu-pages/UpAppTime.php:962
+#: menu-pages/UpAppTime.php:1113
+#, fuzzy
+msgid "Start-date must be smaller than End-date."
+msgstr ""
+"Date incorrecte ! La date de début doit être antérieure à la date de fin."
+
+#: menu-pages/UpAppTime.php:963 menu-pages/UpAppTime.php:1114
+msgid "End-date must be bigger than Start-date."
+msgstr ""
+
+#: menu-pages/update-appointments.php:53
+msgid "Service Name."
+msgstr ""
+
+#: menu-pages/update-appointments.php:68
+msgid "staff Name."
+msgstr ""
+
+#: menu-pages/update-appointments.php:73
+msgid "Client Phone Number."
+msgstr ""
+
+#: menu-pages/update-appointments.php:79
+msgid "Appointment Start Time."
+msgstr ""
+
+#: menu-pages/update-appointments.php:84
+msgid "Appointment End Time."
+msgstr ""
+
+#: menu-pages/update-appointments.php:91
+msgid "Appointment Date."
+msgstr ""
+
+#: menu-pages/update-appointments.php:96
+msgid "Appointment Description."
+msgstr ""
+
+#: menu-pages/update-appointments.php:104
+msgid "Appointment Repeat On/OFF."
+msgstr ""
+
+#: menu-pages/update-appointments.php:115
+msgid "Appointment Repeat Type."
+msgstr ""
+
+#: menu-pages/update-appointments.php:120
+msgid "Appointment Repeat Start Date."
+msgstr ""
+
+#: menu-pages/update-appointments.php:125
+msgid "Appointment Repeat End Date."
+msgstr ""
+
+#: menu-pages/update-appointments.php:133
+msgid "Admin"
+msgstr ""
+
+#: menu-pages/update-appointments.php:134
+msgid "User"
+msgstr ""
+
+#: menu-pages/update-appointments.php:136
+msgid "Appointment Booked By User/Admin."
+msgstr ""
+
+#: menu-pages/update-appointments.php:147
+#: menu-pages/update-appointments.php:161
+msgid "Appointment Status."
+msgstr ""
+
+#: menu-pages/update-appointments.php:156
+msgid "Unpaid"
+msgstr ""
+
+#: menu-pages/update-appointments.php:159
+msgid "Paid"
+msgstr ""
+
+#: menu-pages/update-appointments.php:237
+msgid "Email field cannot be blank."
+msgstr ""
+
+#: menu-pages/update-appointments.php:241
+msgid "Invalid email address"
+msgstr ""
+
+#: menu-pages/update-appointments.php:248
+msgid "Phone field cannot be blank."
+msgstr ""
+
+#: menu-pages/update-appointments.php:253
+msgid "Invalid Phone number."
+msgstr ""
+
+#: menu-pages/update-appointments.php:261
+msgid "Start Time  cannot be blank."
+msgstr ""
+
+#: menu-pages/update-appointments.php:266
+msgid "End Time cannot be blank."
+msgstr ""
+
+#: menu-pages/update-appointments.php:293
+msgid "Start Date cannot be blank."
+msgstr ""
+
+#: menu-pages/update-appointments.php:300
+msgid "Select valid repeat type."
+msgstr ""
+
+#: menu-pages/update-appointments.php:307
+#, fuzzy
+msgid "Repeat start date cannot be blank."
+msgstr "वेबसाइट खाली नहीं हो सकती।"
+
+#: menu-pages/update-appointments.php:313
+#, fuzzy
+msgid "Repeat end date cannot be blank."
+msgstr "अनुभव खाली नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:470
+#: menu-pages/update-appointments.php:473
+#: menu-pages/update-appointments.php:478
+#: menu-pages/update-appointments.php:481
+msgid "Appointment successfully updated"
+msgstr ""
+
+#: menu-pages/update-appointments.php:496
+msgid "View Appointment(s): "
+msgstr ""
+
+#: menu-pages/update-appointments.php:616
+#: menu-pages/settings/business-profile.php:29
+msgid "Edit"
+msgstr ""
+
+#: menu-pages/update-timeoff.php:2
+msgid "Update Time Off"
+msgstr ""
+
+#: menu-pages/update-timeoff.php:338 menu-pages/update-timeoff.php:343
+msgid "Time-off successfully updated."
+msgstr ""
+
+#: menu-pages/update-timeoff.php:361
+msgid "Time Off deleted successfully."
+msgstr ""
+
+#: menu-pages/paypal-api/PaymentGateway.php:125
+msgid "Pay With Paypal"
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:18
+msgid "Admin settings sucessfully saved."
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:29
+#: menu-pages/settings/manage-admin-settings.php:8
+msgid "Country"
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:39
+#: menu-pages/settings/admin-settings.php:55
+#: menu-pages/settings/admin-settings.php:72
+#: menu-pages/settings/admin-settings.php:88
+#: menu-pages/settings/calendar-settings.php:50
+#: menu-pages/settings/calendar-settings.php:66
+#: menu-pages/settings/calendar-settings.php:81
+#: menu-pages/settings/calendar-settings.php:95
+#: menu-pages/settings/calendar-settings.php:109
+#: menu-pages/settings/calendar-settings.php:125
+#: menu-pages/settings/calendar-settings.php:151
+#: menu-pages/settings/calendar-settings.php:161
+#: menu-pages/settings/calendar-settings.php:171
+#: menu-pages/settings/notification-settings.php:98
+#: menu-pages/settings/notification-settings.php:111
+#: menu-pages/settings/notification-settings.php:120
+#: menu-pages/settings/notification-settings.php:129
+#: menu-pages/settings/notification-settings.php:138
+#: menu-pages/settings/notification-settings.php:144
+#: menu-pages/settings/notification-settings.php:150
+#: menu-pages/settings/notification-settings.php:156
+msgid "Not Available."
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:44
+#: menu-pages/settings/manage-admin-settings.php:26
+msgid "Language"
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:60
+#: menu-pages/settings/manage-admin-settings.php:43
+msgid "Time Zone"
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:77
+#: menu-pages/settings/manage-admin-settings.php:61
+msgid "Currency"
+msgstr ""
+
+#: menu-pages/settings/admin-settings.php:95
+#: menu-pages/settings/calendar-settings.php:216
+#: menu-pages/settings/notification-settings.php:162
+#: menu-pages/settings/payment-settings.php:83
+#: menu-pages/settings/reminder-settings.php:118
+msgid "Manage Settings"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:89
+msgid "Business Hours successfully updated."
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:125
+#: menu-pages/settings/staff-hours.php:920
+msgid "Close Day"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:505
+#: menu-pages/settings/business-hours.php:526
+#: menu-pages/settings/business-hours.php:844
+#: menu-pages/settings/staff-hours.php:48
+#: menu-pages/settings/staff-hours.php:71
+#: menu-pages/settings/staff-hours.php:485
+msgid "Monday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:517
+#: menu-pages/settings/staff-hours.php:60
+#: menu-pages/settings/staff-hours.php:495
+msgid "Monday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:540
+#: menu-pages/settings/staff-hours.php:84
+#: menu-pages/settings/staff-hours.php:508
+msgid "Monday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:553
+#: menu-pages/settings/business-hours.php:574
+#: menu-pages/settings/business-hours.php:855
+#: menu-pages/settings/staff-hours.php:99
+#: menu-pages/settings/staff-hours.php:123
+#: menu-pages/settings/staff-hours.php:522
+msgid "Tuesday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:565
+#: menu-pages/settings/staff-hours.php:111
+#: menu-pages/settings/staff-hours.php:532
+msgid "Tuesday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:588
+#: menu-pages/settings/staff-hours.php:136
+#: menu-pages/settings/staff-hours.php:545
+msgid "Tuesday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:601
+#: menu-pages/settings/business-hours.php:622
+#: menu-pages/settings/business-hours.php:867
+#: menu-pages/settings/staff-hours.php:150
+#: menu-pages/settings/staff-hours.php:173
+#: menu-pages/settings/staff-hours.php:560
+msgid "Wednesday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:613
+#: menu-pages/settings/staff-hours.php:162
+#: menu-pages/settings/staff-hours.php:570
+msgid "Wednesday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:636
+#: menu-pages/settings/staff-hours.php:186
+#: menu-pages/settings/staff-hours.php:584
+msgid "Wednesday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:649
+#: menu-pages/settings/business-hours.php:670
+#: menu-pages/settings/business-hours.php:879
+#: menu-pages/settings/staff-hours.php:199
+#: menu-pages/settings/staff-hours.php:221
+#: menu-pages/settings/staff-hours.php:599
+msgid "Thursday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:661
+#: menu-pages/settings/staff-hours.php:211
+#: menu-pages/settings/staff-hours.php:610
+msgid "Thursday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:684
+#: menu-pages/settings/staff-hours.php:234
+#: menu-pages/settings/staff-hours.php:623
+msgid "Thursday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:697
+#: menu-pages/settings/business-hours.php:718
+#: menu-pages/settings/business-hours.php:891
+#: menu-pages/settings/staff-hours.php:248
+#: menu-pages/settings/staff-hours.php:271
+#: menu-pages/settings/staff-hours.php:638
+msgid "Friday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:709
+#: menu-pages/settings/staff-hours.php:260
+#: menu-pages/settings/staff-hours.php:648
+msgid "Friday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:732
+#: menu-pages/settings/staff-hours.php:284
+#: menu-pages/settings/staff-hours.php:661
+msgid "Friday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:745
+#: menu-pages/settings/business-hours.php:766
+#: menu-pages/settings/business-hours.php:903
+#: menu-pages/settings/staff-hours.php:297
+#: menu-pages/settings/staff-hours.php:320
+#: menu-pages/settings/staff-hours.php:675
+msgid "Saturday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:757
+#: menu-pages/settings/staff-hours.php:309
+#: menu-pages/settings/staff-hours.php:685
+msgid "Saturday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:780
+#: menu-pages/settings/staff-hours.php:333
+#: menu-pages/settings/staff-hours.php:699
+msgid "Saturday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:794
+#: menu-pages/settings/business-hours.php:816
+#: menu-pages/settings/business-hours.php:915
+#: menu-pages/settings/staff-hours.php:346
+#: menu-pages/settings/staff-hours.php:369
+#: menu-pages/settings/staff-hours.php:714
+msgid "Sunday's Start-time and End-time can't be equal"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:806
+#: menu-pages/settings/staff-hours.php:358
+#: menu-pages/settings/staff-hours.php:723
+msgid "Sunday's Start-time must be smaller then End-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:830
+#: menu-pages/settings/staff-hours.php:383
+#: menu-pages/settings/staff-hours.php:737
+msgid "Sunday's End-time must be bigger then Start-time"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:920
+msgid "ERROR! Check Monday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:921
+msgid "ERROR! Check Tuesday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:922
+msgid "ERROR! Check Wednesday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:923
+msgid "ERROR! Check Thursday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:924
+msgid "ERROR! Check Friday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:925
+msgid "ERROR! Check Saturday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-hours.php:926
+msgid "ERROR! Check Sunday's Working Hours"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:32
+#: menu-pages/settings/business-profile.php:88
+msgid "Business Name"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:35
+#: menu-pages/settings/business-profile.php:92
+msgid "Owner"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:44
+#: menu-pages/settings/business-profile.php:101
+msgid "State"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:50
+#: menu-pages/settings/business-profile.php:107
+msgid "Fax"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:53
+#: menu-pages/settings/business-profile.php:109
+msgid "Postal Code"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:59
+#: menu-pages/settings/business-profile.php:113
+msgid "Website"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:62
+#: menu-pages/settings/business-profile.php:116
+msgid "Blog Url"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:63
+#: menu-pages/settings/calendar-settings.php:182
+#: menu-pages/settings/calendar-settings.php:194
+#: menu-pages/settings/calendar-settings.php:208
+#: menu-pages/settings/payment-settings.php:46
+#: menu-pages/settings/payment-settings.php:61
+#: menu-pages/settings/payment-settings.php:76
+#: menu-pages/settings/reminder-settings.php:56
+#: menu-pages/settings/reminder-settings.php:70
+#: menu-pages/settings/reminder-settings.php:85
+#: menu-pages/settings/reminder-settings.php:98
+#: menu-pages/settings/reminder-settings.php:111
+msgid "Not Available"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:90
+msgid "Business  Name."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:93
+msgid "Owner Name."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:96
+msgid "Address."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:99
+msgid "City."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:102
+msgid "State."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:108
+msgid "Fax Number."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:110
+msgid "Postal Code."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:112
+msgid "Email."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:114
+msgid "Business Website URL."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:117
+msgid "Blog URL."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:153
+msgid "Business profile successfully created."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:189
+msgid "Business profile successfully updated."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:193
+#: menu-pages/settings/staff-hours.php:1394
+#: menu-pages/settings/staff-hours.php:1399
+msgid "No updates made."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:206
+msgid "Business name cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:221
+msgid "Owner name cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:236
+msgid "Address cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:242
+msgid "City cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:257
+msgid "State cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:271
+msgid "Phone cannot be blank."
+msgstr "Le téléphone doit être renseigné."
+
+#: menu-pages/settings/business-profile.php:302
+msgid "Postal code cannot be blank."
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:332
+msgid "Invalid url. Eg. http://www.appointzilla.com"
+msgstr ""
+
+#: menu-pages/settings/business-profile.php:342
+msgid "Invalid blog url. Eg. http://www.appointzilla.com/blog"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:27
+msgid "Calendar settings sucessfully saved."
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:39
+#: menu-pages/settings/manage-calendar-settings.php:9
+msgid "Date Format"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:46
+#: menu-pages/settings/manage-calendar-settings.php:14
+msgid "DD-MM-YYYY"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:47
+#: menu-pages/settings/manage-calendar-settings.php:15
+msgid "MM-DD-YYYY"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:48
+#: menu-pages/settings/manage-calendar-settings.php:16
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:55
+#: menu-pages/settings/manage-calendar-settings.php:21
+msgid "Time Format"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:63
+#: menu-pages/settings/manage-calendar-settings.php:26
+msgid "12 Hour Time"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:64
+#: menu-pages/settings/manage-calendar-settings.php:27
+msgid "24 Hour Time"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:71
+#: menu-pages/settings/manage-calendar-settings.php:32
+msgid "Calendar Slot Time"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:86
+#: menu-pages/settings/manage-calendar-settings.php:47
+msgid "Day Start Time"
+msgstr "Jour de début"
+
+#: menu-pages/settings/calendar-settings.php:100
+#: menu-pages/settings/manage-calendar-settings.php:64
+msgid "Day End Time"
+msgstr "Jour de fin"
+
+#: menu-pages/settings/calendar-settings.php:114
+#: menu-pages/settings/manage-calendar-settings.php:80
+#: menu-pages/settings/manage-calendar-settings.php:88
+msgid "Calendar View"
+msgstr "Vue calendaire"
+
+#: menu-pages/settings/calendar-settings.php:130
+msgid "Calendar Start Day"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:156
+#: menu-pages/settings/manage-calendar-settings.php:106
+#: menu-pages/settings/manage-calendar-settings.php:109
+msgid "Booking Button Text"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:166
+#: menu-pages/settings/manage-calendar-settings.php:112
+#: menu-pages/settings/manage-calendar-settings.php:134
+msgid "Booking Time Slot"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:176
+#: menu-pages/settings/manage-calendar-settings.php:138
+msgid "Display Service Cost"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:187
+#: menu-pages/settings/manage-calendar-settings.php:149
+#, fuzzy
+msgid "Display Service Duration"
+msgstr "Description du service"
+
+#: menu-pages/settings/calendar-settings.php:200
+#: menu-pages/settings/manage-calendar-settings.php:159
+#, fuzzy
+msgid "Booking Instructions"
+msgstr "Instructions particulières"
+
+#: menu-pages/settings/googlecalendarsync.php:14
+msgid "Google Email"
+msgstr "गूगल ईमेल"
+
+#: menu-pages/settings/googlecalendarsync.php:19
+msgid "Google Calendar Client ID"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:24
+msgid "Google Calendar Secret Key"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:29
+msgid "Redirect URIs"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:34
+msgid "2 Way Sync"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:48
+#: menu-pages/settings/manage-admin-settings.php:85
+#: menu-pages/settings/manage-calendar-settings.php:172
+#: menu-pages/settings/manage-notification-settings.php:147
+#: menu-pages/settings/manage-payment-settings.php:46
+#: menu-pages/settings/manage-reminder-settings.php:83
+msgid "Save Settings"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:55
+msgid "Allow Google Calendar Sync"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:60
+msgid "Connecting..."
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:61
+msgid "Disconnecting..."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:2
+msgid "Manage Admin Settings"
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:23
+msgid "Your Living Country."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:40
+msgid "Your Country's Language."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:58
+msgid "Your Country's Time Zone."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:76
+msgid "Your Country's Currency."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:83
+#: menu-pages/settings/manage-calendar-settings.php:170
+#: menu-pages/settings/manage-notification-settings.php:145
+#: menu-pages/settings/manage-payment-settings.php:44
+#: menu-pages/settings/manage-reminder-settings.php:81
+msgid "Update Settings"
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:112
+#: menu-pages/settings/manage-calendar-settings.php:194
+msgid "Select Slot Time."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:119
+#: menu-pages/settings/manage-calendar-settings.php:200
+msgid "Select Start Time."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:126
+#: menu-pages/settings/manage-calendar-settings.php:206
+msgid "Select End Time."
+msgstr ""
+
+#: menu-pages/settings/manage-admin-settings.php:133
+#: menu-pages/settings/manage-admin-settings.php:140
+#: menu-pages/settings/manage-calendar-settings.php:212
+#: menu-pages/settings/manage-calendar-settings.php:218
+msgid "Select Calendar View."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:17
+msgid ""
+"Date Format. Ex:<br>DD-MM-YYYY = 01-12-2013<br>MM-DD-YYYY = "
+"12-01-2013<br>YYYY-MM-DD = 2013-12-01"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:28
+msgid "Time Format. Ex<br>12 Hour = 01:30 PM<br>24 Hour = 13:30"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:39
+#, fuzzy
+msgid "5 Minute"
+msgstr "Minute"
+
+#: menu-pages/settings/manage-calendar-settings.php:40
+#, fuzzy
+msgid "10 Minute"
+msgstr "Minute"
+
+#: menu-pages/settings/manage-calendar-settings.php:41
+msgid "15 Minute"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:42
+msgid "30 Minute"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:43
+msgid "60 Minute"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:44
+msgid "Calendar Time Slot"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:61
+msgid "Calendar Day Start Time"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:77
+msgid "Calendar Day End Time"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:91
+#: menu-pages/settings/manage-calendar-settings.php:103
+msgid "Calendar First Day"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:115
+msgid "5 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:116
+msgid "10 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:117
+msgid "15 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:118
+msgid "20 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:119
+msgid "25 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:120
+msgid "30 Minutes - Half Hour"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:121
+msgid "35 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:122
+msgid "40 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:123
+msgid "45 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:124
+msgid "60 Minutes - One Hour"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:125
+msgid "75 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:126
+msgid "90 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:127
+msgid "120 Minutes - Two Hours"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:128
+msgid "150 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:129
+msgid "180 Minutes - Three Hours"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:130
+msgid "210 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:131
+msgid "240 Minutes - Four Hours"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:132
+msgid "270 Minutes"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:133
+msgid "300 Minutes - Five Hours"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:144
+msgid "Show or hide service cost at client booking form."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:155
+msgid "Show or hide service duration at client booking form."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:161
+msgid "You can use only these HTML tags like:"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:163
+msgid ""
+"Booking instruction will be appears on client interface before boooking "
+"button.<br> You can use only these HTML tags like p, h1, h2, h3, h4, h5, h6, "
+"b, em to make more visualize instructions."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:224
+msgid "Booking Button Text Required."
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:9
+msgid "Enable"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:12
+msgid "Enable Notification"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:19
+#: menu-pages/settings/manage-notification-settings.php:22
+msgid "Enable Staff Notification"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:30
+msgid "Email Type"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:34
+msgid "Select Type"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:38
+#: menu-pages/settings/notification-settings.php:91
+msgid "Notification Type"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:52
+msgid "WP Mail Details"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:63
+#: menu-pages/settings/manage-notification-settings.php:82
+#, fuzzy
+msgid "Admin Email"
+msgstr "Votre email"
+
+#: menu-pages/settings/manage-notification-settings.php:71
+msgid "PHPMail Details"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:92
+msgid "SMTP Mail Details"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:101
+#: menu-pages/settings/notification-settings.php:136
+msgid "Host Name"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:103
+msgid "Host Name Like eg: smtp.gmail.com, smtp.yahoo.com"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:111
+#: menu-pages/settings/notification-settings.php:142
+msgid "Port Number"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:113
+msgid "Smtp Port Number Like eg: Gmail & Yahoo Port Number = 465"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:123
+msgid "Admin SMTP Email"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:131
+#: menu-pages/settings/notification-settings.php:154
+msgid "Password"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:133
+#, fuzzy
+msgid "Admin SMTP Email Password"
+msgstr "गूगल ईमेल पासवर्ड"
+
+#: menu-pages/settings/manage-notification-settings.php:287
+msgid "Select email type"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:295
+msgid "Enter wp email"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:310
+msgid "Enter php email"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:325
+msgid "Enter host name"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:331
+msgid "Enter port number"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:336
+msgid "Invalid port number."
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:342
+msgid "Enter email"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:355
+msgid "Enter password"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:4
+msgid "Manage Payment Settings"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:20
+#: menu-pages/settings/manage-payment-settings.php:25
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:26
+msgid "Paypal"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:27
+#: menu-pages/settings/payment-settings.php:51
+msgid "Payment Gateway"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:31
+#: menu-pages/settings/payment-settings.php:66
+msgid "Payment Email"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:35
+msgid "Payment Processing Email"
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:76
+#: menu-pages/settings/manage-payment-settings.php:104
+msgid "Select payment gateway."
+msgstr ""
+
+#: menu-pages/settings/manage-payment-settings.php:85
+#: menu-pages/settings/manage-payment-settings.php:113
+msgid "Payment email required."
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:4
+msgid "Manage Reminder Settings"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:9
+#: menu-pages/settings/manage-reminder-settings.php:16
+#: menu-pages/settings/reminder-settings.php:47
+msgid "Send Reminder"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:20
+#: menu-pages/settings/manage-reminder-settings.php:27
+#: menu-pages/settings/reminder-settings.php:61
+msgid "Reminder Type"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:25
+msgid "Select Reminder Type"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:31
+#: menu-pages/settings/manage-reminder-settings.php:46
+#: menu-pages/settings/reminder-settings.php:75
+msgid "Reminder Frequency"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:36
+msgid "Select Reminder Frequency"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:37
+#: menu-pages/settings/reminder-settings.php:81
+msgid "1 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:38
+#: menu-pages/settings/reminder-settings.php:82
+msgid "2 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:39
+#: menu-pages/settings/reminder-settings.php:83
+msgid "3 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:40
+msgid "4 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:41
+msgid "5 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:42
+msgid "6 Day Before"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:50
+#: menu-pages/settings/manage-reminder-settings.php:53
+#: menu-pages/settings/reminder-settings.php:90
+msgid "Reminder Message Subject"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:56
+#: menu-pages/settings/manage-reminder-settings.php:60
+#: menu-pages/settings/reminder-settings.php:103
+msgid "Reminder Message Body"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:62
+msgid "Use These Tags in Message"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:63
+#: menu-pages/settings/notification-message.php:33
+#: menu-pages/settings/notification-message.php:152
+#: menu-pages/settings/notification-message.php:192
+msgid "Client Name"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:64
+#: menu-pages/settings/notification-message.php:34
+#: menu-pages/settings/notification-message.php:153
+#: menu-pages/settings/notification-message.php:193
+msgid "Client Email"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:67
+#: menu-pages/settings/notification-message.php:39
+#: menu-pages/settings/notification-message.php:158
+#: menu-pages/settings/notification-message.php:198
+msgid "Appointment Date"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:68
+#: menu-pages/settings/notification-message.php:40
+#: menu-pages/settings/notification-message.php:159
+#: menu-pages/settings/notification-message.php:199
+msgid "Appointment Status"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:69
+#: menu-pages/settings/notification-message.php:41
+#: menu-pages/settings/notification-message.php:160
+#: menu-pages/settings/notification-message.php:200
+msgid "Appointment Time"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:71
+#: menu-pages/settings/notification-message.php:43
+#: menu-pages/settings/notification-message.php:162
+#: menu-pages/settings/notification-message.php:202
+msgid "Appointment Note"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:72
+#: menu-pages/settings/notification-message.php:44
+#: menu-pages/settings/notification-message.php:163
+#: menu-pages/settings/notification-message.php:203
+msgid "Blog Name"
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:110
+#: menu-pages/settings/manage-reminder-settings.php:130
+msgid "Select reminder type."
+msgstr ""
+
+#: menu-pages/settings/manage-reminder-settings.php:116
+#: menu-pages/settings/manage-reminder-settings.php:136
+msgid "Select reminder frequency."
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:14
+#, fuzzy
+msgid "Client Notifications"
+msgstr "Détails du client"
+
+#: menu-pages/settings/notification-message.php:15
+msgid "Admin Notifications"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:16
+msgid "Staff Notifications"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:26
+#: menu-pages/settings/notification-message.php:185
+#, fuzzy
+msgid "New Appointment"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/settings/notification-message.php:27
+#: menu-pages/settings/notification-message.php:186
+#, fuzzy
+msgid "Approve Appointment"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/settings/notification-message.php:28
+#: menu-pages/settings/notification-message.php:187
+#, fuzzy
+msgid "Cancel Appointment"
+msgstr "Gérer les réservations"
+
+#: menu-pages/settings/notification-message.php:32
+#: menu-pages/settings/notification-message.php:151
+#: menu-pages/settings/notification-message.php:191
+msgid "Use Below Tags in Message"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:35
+#: menu-pages/settings/notification-message.php:154
+#: menu-pages/settings/notification-message.php:194
+msgid "Client Phone"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:36
+#: menu-pages/settings/notification-message.php:155
+#: menu-pages/settings/notification-message.php:195
+msgid "Client Special Instruction"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:52
+msgid "Notify Client On New Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:55
+#: menu-pages/settings/notification-message.php:81
+#: menu-pages/settings/notification-message.php:105
+#: menu-pages/settings/notification-message.php:141
+#: menu-pages/settings/notification-message.php:214
+#: menu-pages/settings/notification-message.php:240
+#: menu-pages/settings/notification-message.php:266
+msgid "Subject"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:60
+#: menu-pages/settings/notification-message.php:86
+#: menu-pages/settings/notification-message.php:110
+#: menu-pages/settings/notification-message.php:146
+#: menu-pages/settings/notification-message.php:219
+#: menu-pages/settings/notification-message.php:245
+#: menu-pages/settings/notification-message.php:271
+msgid "Body"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:70
+#: menu-pages/settings/notification-message.php:94
+#: menu-pages/settings/notification-message.php:119
+#: menu-pages/settings/notification-message.php:171
+#: menu-pages/settings/notification-message.php:229
+#: menu-pages/settings/notification-message.php:255
+#: menu-pages/settings/notification-message.php:280
+msgid "Saving message..."
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:78
+msgid "Notify Client On Approve Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:102
+#, fuzzy
+msgid "Notify Client On Cancel Appointment"
+msgstr "Historique des réservations du client"
+
+#: menu-pages/settings/notification-message.php:138
+msgid "Notify Admin On New Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:211
+#, fuzzy
+msgid "Notify Staff On New Appointment"
+msgstr "Créer une nouvelle réservation"
+
+#: menu-pages/settings/notification-message.php:237
+msgid "Notify Staff On Approve Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:263
+#, fuzzy
+msgid "Notify Staff On Cancel Appointment"
+msgstr "Gérer les réservations"
+
+#: menu-pages/settings/notification-message.php:376
+#, fuzzy
+msgid "Message successfully saved."
+msgstr "कर्मचारी श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#: menu-pages/settings/notification-settings.php:55
+msgid "Notification settings successfully updated."
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:64
+msgid "Notification"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:70
+#: menu-pages/settings/notification-settings.php:83
+msgid "ON"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:72
+#: menu-pages/settings/notification-settings.php:85
+msgid "OFF"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:77
+msgid "Staff Notification"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:103
+msgid "Details"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:118
+msgid "WP Email"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:127
+msgid "PHP Email"
+msgstr ""
+
+#: menu-pages/settings/payment-settings.php:15
+#, fuzzy
+msgid "Payment settings successfully saved"
+msgstr "गूगल कैलेंडर सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/payment-settings.php:25
+#, fuzzy
+msgid "Payment settings successfully updated"
+msgstr "गूगल कैलेंडर सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/reminder-settings.php:20
+msgid "Reminder settings successfully saved"
+msgstr ""
+
+#: menu-pages/settings/reminder-settings.php:35
+#, fuzzy
+msgid "Reminder settings successfully updated"
+msgstr "गूगल कैलेंडर सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/staff-hours.php:769
+#: menu-pages/settings/staff-hours.php:1397
+#, fuzzy
+msgid "Staff hours successfully saved."
+msgstr "कर्मचारी श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#: menu-pages/settings/staff-hours.php:791
+#, fuzzy
+msgid "Select any staff"
+msgstr "Choisissez une personne :"
+
+#: menu-pages/settings/staff-hours.php:810
+msgid "Loading staff hours..."
+msgstr ""
+
+#: menu-pages/settings/staff-hours.php:911
+msgid ""
+"Current staff not assigned its staff hours. Please assign its staff hours"
+msgstr ""
+
+#: menu-pages/settings/staff-hours.php:1392
+#, fuzzy
+msgid "Staff hours successfully updated."
+msgstr "कर्मचारी श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#~ msgid "Sorry! Today business is closed."
+#~ msgstr "Désolé, nous sommes fermés aujourd'hui."
+
+#, fuzzy
+#~ msgid "Scheduling Appointment, Please wait..."
+#~ msgstr "Réservation en cours d'enregistrement, merci de patienter."
+
+#~ msgid "Sorry! Your appointment not successfull."
+#~ msgstr "Désolé, votre réservation n'a pas été correctement enregistrée."
+
+#~ msgid "Capacity cannot be blank."
+#~ msgstr "La capacity doit être renseignée."
+
+#~ msgid "Invalid capacity."
+#~ msgstr "Capacité incorrecte."
+
+#~ msgid "Schedule An Appointment"
+#~ msgstr "नई नियुक्ति बनायें"
+
+#~ msgid "Setect Time & Service"
+#~ msgstr "सेवा और समय  का चयन करें"
+
+#~ msgid "with"
+#~ msgstr "के साथ"
+
+#~ msgid "Support & Help"
+#~ msgstr "समर्थन और मदद"
+
+#~ msgid "Duration Unit."
+#~ msgstr "अवधि इकाई"
+
+#~ msgid "Zipcode"
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zip Number."
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zipcode cannot be blank."
+#~ msgstr "ज़िपकोड खाली नहीं हो सकता."
+
+#~ msgid "Invalid url."
+#~ msgstr "अमान्य यूआरएल."
+
+#~ msgid "Invalid blog url."
+#~ msgstr "अमान्य ब्लॉग यूआरएल."
+
+#~ msgid "Manage Google Calendar"
+#~ msgstr "गूगल कैलेंडर का प्रबंधन"
+
+#~ msgid "Time Zone "
+#~ msgstr "समय क्षेत्र"
+
+#~ msgid "Google email cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "invalid google email."
+#~ msgstr "अमान्य गूगल ईमेल."
+
+#~ msgid "Google email password cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "Calendar View."
+#~ msgstr "कैलेंडर रुप"
+
+#~ msgid "Calendar First Day."
+#~ msgstr "कैलेंडर का प्रथम दिवस."
+
+#~ msgid "Appointment Created On"
+#~ msgstr "नियुक्ति बनने की तारीख"
+
+#~ msgid "Invalid gruop name"
+#~ msgstr "अमान्य समूह नाम"
+
+#~ msgid "Gruop name cannot be blank."
+#~ msgstr "समूह का नाम खाली नहीं हो सकता"
+
+#~ msgid "Invalid Category name."
+#~ msgstr "अमान्य श्रेणी नाम."
+
+#~ msgid "Star Time"
+#~ msgstr "प्रारम्भ होन का समय:"
+
+#, fuzzy
+#~ msgid "All Day Event"
+#~ msgstr "पूरे दिन का टाईम आफ"
+
+#~ msgid "Manage Service"
+#~ msgstr "सेवा प्रबंधन"

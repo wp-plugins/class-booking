@@ -1,0 +1,48 @@
+Page(s)
+Calendar
+--------
+
+
+Service
+-------
+Default id = 1
+
+
+Service Category
+-------
+Default id = 1
+
+
+Time Off
+--------
+
+
+Manage Appointments
+-------------------
+
+
+Settings
+------------------	=	------------
+apcal_date_format		=	Day Month Year
+apcal_time_format		=	12 Hour Time
+calendar_slot_time	=	30 (Minute)
+day_start_time		=	10:00 AM
+day_end_time		=	5:00 PM
+calendar_view		=	month
+calendar_start_day	=	1 monday
+booking_button_text	=	Schedule An Appointment
+
+Admin Settings
+------------------	=	--------------
+cal_admin_country		=	
+cal_admin_language	=
+cal_admin_timezone	=
+cal_admin_currency	=
+
+
+Notification Settings	=	Default
+---------------------	=	--------------
+emailstatus			=	on
+emailtype			=	wpmail
+emaildetails		=	getadmin email
+
