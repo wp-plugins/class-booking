@@ -100,8 +100,8 @@
             $Phone = $_POST['Phone'];
             $Note = $_POST['Note'];
             
-                $ClassBookingUpdateSQL = "UPDATE `$ClassBookingsTable` SET `name` = '$Name', `email` = '$Email', `phone` = '$Phone', `sn` = '$Note' WHERE `id` = '$Id';";
-               $wpdb->query($ClientUpdateSQL);
+          $ClassBookingUpdateSQL = "UPDATE `$ClassBookingsTable` SET `name` = '$Name', `email` = '$Email', `phone` = '$Phone', `sn` = '$Note' WHERE `id` = '$Id';";
+           $wpdb->query($$ClassBookingUpdateSQL);
             
         }
     }
