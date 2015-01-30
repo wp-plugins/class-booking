@@ -1,0 +1,3832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: appointment-calendar-premium\n"
+"POT-Creation-Date: 2013-11-23 12:42+0530\n"
+"PO-Revision-Date: 2013-11-23 12:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: appointment-calendar-button-shortcode.php:65
+#: appointment-calendar-mobile-shortcode.php:50
+#: appointment-calendar-shortcode.php:465
+msgid "Select Any Service."
+msgstr "कोइ सेवा चुनें"
+
+#: appointment-calendar-button-shortcode.php:133
+#: appointment-calendar-mobile-shortcode.php:116
+#: appointment-calendar-shortcode.php:477
+#: appointment-calendar-shortcode.php:573
+msgid "Select any time."
+msgstr "कोइ समय चुनें"
+
+#: appointment-calendar-button-shortcode.php:166
+#: appointment-calendar-mobile-shortcode.php:147 menu-pages/calendar.php:685
+msgid "Name required."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:171
+#: appointment-calendar-mobile-shortcode.php:152
+#: appointment-calendar-shortcode.php:612 menu-pages/calendar.php:690
+#: menu-pages/manage-service.php:374
+msgid "Invalid name."
+msgstr "अमान्य नाम"
+
+#: appointment-calendar-button-shortcode.php:176
+#: appointment-calendar-mobile-shortcode.php:157
+#: appointment-calendar-shortcode.php:617 menu-pages/calendar.php:695
+msgid "No special characters allowed."
+msgstr ""
+
+#: appointment-calendar-button-shortcode.php:184 menu-pages/calendar.php:703
+msgid "Email required."
+msgstr "ईमेल की आवश्यकता है"
+
+#: appointment-calendar-button-shortcode.php:188
+#: appointment-calendar-shortcode.php:629 menu-pages/calendar.php:707
+#: menu-pages/settings/manage-notification-settings.php:300
+#: menu-pages/settings/manage-notification-settings.php:315
+#: menu-pages/settings/manage-notification-settings.php:348
+#: menu-pages/settings/manage-payment-settings.php:121
+msgid "Invalid email."
+msgstr "अमान्य तथ्य"
+
+#: appointment-calendar-button-shortcode.php:195
+#: appointment-calendar-mobile-shortcode.php:176
+msgid "Phone required. <br>Numbers only: 1234567890. <br>No characters."
+msgstr "अवैध फोन <br>केवल नंबर: 1234567890, वर्ण नहीं"
+
+#: appointment-calendar-button-shortcode.php:200
+#: appointment-calendar-mobile-shortcode.php:181
+#: appointment-calendar-shortcode.php:640
+msgid "Invalid phone. <br>Numbers only: 1234567890. <br>No characters."
+msgstr "अवैध फोन <br>केवल नंबर: 1234567890, वर्ण नहीं"
+
+#: appointment-calendar-button-shortcode.php:315
+#: appointment-calendar-button-shortcode.php:329
+#: appointment-calendar-button-shortcode.php:526
+#: appointment-calendar-mobile-shortcode.php:309
+#: appointment-calendar-mobile-shortcode.php:321
+#: appointment-calendar-mobile-shortcode.php:523
+#: appointment-calendar-shortcode.php:752
+#: appointment-calendar-shortcode.php:771
+#: appointment-calendar-shortcode.php:952
+#: shortcode-time-slot-calculation-mobile.php:12
+#: shortcode-time-slot-calculation.php:14 menu-pages/calendar.php:860
+#: menu-pages/calendar.php:992 menu-pages/calendar.php:1086
+#: menu-pages/calendar.php:1231
+msgid "Schedule New Appointment"
+msgstr "नई नियुक्ति बनायें"
+
+#: appointment-calendar-button-shortcode.php:330
+#: appointment-calendar-mobile-shortcode.php:322
+msgid "Step-1. Select Time & Service"
+msgstr "चरण 1-. दिनांक और सेवा का चयन करें"
+
+#: appointment-calendar-button-shortcode.php:374
+#: appointment-calendar-mobile-shortcode.php:367
+#: appointment-calendar-shortcode.php:798
+msgid "Your Appointment Date:"
+msgstr "आपकी नियुक्ति की दिनांक:"
+
+#: appointment-calendar-button-shortcode.php:383
+#: appointment-calendar-mobile-shortcode.php:377
+#: appointment-calendar-shortcode.php:807 menu-pages/calendar.php:878
+msgid "Select Service:"
+msgstr "सेवा चयन करें:"
+
+#: appointment-calendar-button-shortcode.php:385
+#: appointment-calendar-mobile-shortcode.php:379
+#: appointment-calendar-shortcode.php:809 menu-pages/calendar.php:880
+msgid "Select Service"
+msgstr "सेवा का चयन करें:"
+
+#: appointment-calendar-button-shortcode.php:414
+#: appointment-calendar-mobile-shortcode.php:410
+#: appointment-calendar-shortcode.php:838
+msgid "No service in this category"
+msgstr "इस श्रेणी मे कोई सेवा नहीं"
+
+#: appointment-calendar-button-shortcode.php:447
+#: appointment-calendar-button-shortcode.php:751
+#: appointment-calendar-mobile-shortcode.php:444
+#: appointment-calendar-mobile-shortcode.php:751
+#: appointment-calendar-shortcode.php:872
+#: appointment-calendar-shortcode.php:1181 menu-pages/calendar.php:928
+msgid "Loading Staff..."
+msgstr "कर्मचारी लोड हो रहें हैं ..."
+
+#: appointment-calendar-button-shortcode.php:478
+#: appointment-calendar-mobile-shortcode.php:474
+#: appointment-calendar-shortcode.php:901
+msgid "Select Staff:"
+msgstr "कर्मचारी चयन करें:"
+
+#: appointment-calendar-button-shortcode.php:493
+#: appointment-calendar-mobile-shortcode.php:489
+#: appointment-calendar-shortcode.php:916
+msgid "No Staff Assigned"
+msgstr "कोई कर्मचारी नियुक्त नहीं"
+
+#: appointment-calendar-button-shortcode.php:498
+#: appointment-calendar-mobile-shortcode.php:494
+#: appointment-calendar-shortcode.php:921
+#: shortcode-time-slot-calculation-mobile.php:169
+#: shortcode-time-slot-calculation.php:187 menu-pages/calendar.php:972
+#: menu-pages/calendar.php:1052
+msgid "Next"
+msgstr "आगे जायें"
+
+#: appointment-calendar-button-shortcode.php:499
+#: appointment-calendar-mobile-shortcode.php:495
+#: appointment-calendar-shortcode.php:922
+#: shortcode-time-slot-calculation-mobile.php:172
+#: shortcode-time-slot-calculation.php:190 menu-pages/calendar.php:973
+#: menu-pages/calendar.php:1054
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+#: appointment-calendar-button-shortcode.php:526
+#: appointment-calendar-mobile-shortcode.php:523
+#: appointment-calendar-shortcode.php:952
+msgid "Step-3. Fill Out Your Details"
+msgstr "चयण-3. विवरण भरें"
+
+#: appointment-calendar-button-shortcode.php:533
+#: appointment-calendar-button-shortcode.php:635
+#: appointment-calendar-mobile-shortcode.php:530
+#: appointment-calendar-mobile-shortcode.php:633
+#: appointment-calendar-shortcode.php:959
+#: appointment-calendar-shortcode.php:1065 menu-pages/calendar.php:1093
+#: menu-pages/calendar.php:1255 menu-pages/client.php:56
+#: menu-pages/client_manage.php:18 menu-pages/client_manage.php:54
+#: menu-pages/client_manage.php:79 menu-pages/client_manage.php:126
+#: menu-pages/manage-appointments.php:110 menu-pages/manage-service.php:14
+#: menu-pages/manage-service.php:149
+#: menu-pages/manage-staff-appointments.php:123 menu-pages/manage-staff.php:27
+#: menu-pages/manage-staff.php:134 menu-pages/service.php:29
+#: menu-pages/timeoff.php:10 menu-pages/timeoff.php:156
+#: menu-pages/UpAppTime.php:29 menu-pages/UpAppTime.php:180
+#: menu-pages/update-appointments.php:26
+#: menu-pages/update-appointments.php:507 menu-pages/update-timeoff.php:36
+msgid "Name"
+msgstr "नाम"
+
+#: appointment-calendar-button-shortcode.php:538
+#: appointment-calendar-button-shortcode.php:640
+#: appointment-calendar-mobile-shortcode.php:535
+#: appointment-calendar-mobile-shortcode.php:638
+#: appointment-calendar-shortcode.php:964
+#: appointment-calendar-shortcode.php:1070 menu-pages/calendar.php:1098
+#: menu-pages/calendar.php:1260 menu-pages/client.php:57
+#: menu-pages/client_manage.php:21 menu-pages/client_manage.php:57
+#: menu-pages/client_manage.php:81 menu-pages/manage-staff.php:36
+#: menu-pages/manage-staff.php:139 menu-pages/staff.php:32
+#: menu-pages/update-appointments.php:32
+#: menu-pages/update-appointments.php:512
+#: menu-pages/settings/business-profile.php:56
+#: menu-pages/settings/business-profile.php:111
+#: menu-pages/settings/manage-notification-settings.php:61
+#: menu-pages/settings/manage-notification-settings.php:80
+#: menu-pages/settings/manage-notification-settings.php:121
+#: menu-pages/settings/manage-reminder-settings.php:26
+#: menu-pages/settings/notification-settings.php:148
+msgid "Email"
+msgstr "ईमेल"
+
+#: appointment-calendar-button-shortcode.php:543
+#: appointment-calendar-button-shortcode.php:645
+#: appointment-calendar-mobile-shortcode.php:540
+#: appointment-calendar-mobile-shortcode.php:643
+#: appointment-calendar-shortcode.php:969
+#: appointment-calendar-shortcode.php:1075 menu-pages/calendar.php:1103
+#: menu-pages/calendar.php:1265 menu-pages/client.php:58
+#: menu-pages/client_manage.php:24 menu-pages/client_manage.php:58
+#: menu-pages/client_manage.php:97 menu-pages/manage-staff.php:45
+#: menu-pages/manage-staff.php:144 menu-pages/staff.php:33
+#: menu-pages/update-appointments.php:71
+#: menu-pages/update-appointments.php:540
+#: menu-pages/settings/business-profile.php:47
+#: menu-pages/settings/business-profile.php:104
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: appointment-calendar-button-shortcode.php:548
+#: appointment-calendar-mobile-shortcode.php:545
+#: appointment-calendar-shortcode.php:974 menu-pages/calendar.php:1108
+msgid "Special Instruction"
+msgstr "विशेष निर्देश"
+
+#: appointment-calendar-button-shortcode.php:557
+#: appointment-calendar-mobile-shortcode.php:554
+#: appointment-calendar-shortcode.php:983
+#: shortcode-time-slot-calculation-mobile.php:158
+#: shortcode-time-slot-calculation-mobile.php:163
+#: shortcode-time-slot-calculation-mobile.php:168
+#: shortcode-time-slot-calculation-mobile.php:184
+#: shortcode-time-slot-calculation.php:174
+#: shortcode-time-slot-calculation.php:180
+#: shortcode-time-slot-calculation.php:186
+#: shortcode-time-slot-calculation.php:204 menu-pages/calendar.php:1003
+#: menu-pages/calendar.php:1008 menu-pages/calendar.php:1051
+#: menu-pages/calendar.php:1117 menu-pages/client_manage.php:60
+#: menu-pages/client_manage.php:119 menu-pages/manage-service.php:200
+#: menu-pages/manage-staff.php:173 menu-pages/update-appointments.php:615
+#: menu-pages/update-appointments.php:618
+msgid "Back"
+msgstr "पीछे जायें"
+
+#: appointment-calendar-button-shortcode.php:558
+#: appointment-calendar-mobile-shortcode.php:555
+#: appointment-calendar-shortcode.php:984 menu-pages/calendar.php:1118
+msgid "Book Now"
+msgstr "अब नियुक्ति करें"
+
+#: appointment-calendar-button-shortcode.php:559
+#: appointment-calendar-mobile-shortcode.php:556
+#: appointment-calendar-shortcode.php:985 menu-pages/calendar.php:1120
+msgid "Scheduling appointment, please wait..."
+msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#: appointment-calendar-button-shortcode.php:627
+#: appointment-calendar-mobile-shortcode.php:627
+#: appointment-calendar-shortcode.php:1057
+msgid "Thank You. Your appointment has been scheduled."
+msgstr "धन्यवाद! आपकी नियुक्ति निर्धारित की जा चुकी है।"
+
+#: appointment-calendar-button-shortcode.php:631
+#: appointment-calendar-mobile-shortcode.php:629
+#: appointment-calendar-shortcode.php:1061
+msgid "Your Appointment Details"
+msgstr "आपकी नियुक्ति का विवरण"
+
+#: appointment-calendar-button-shortcode.php:650
+#: appointment-calendar-mobile-shortcode.php:648
+#: appointment-calendar-shortcode.php:1080 appointment-calendar.php:56
+#: menu-pages/calendar.php:1270 menu-pages/client_manage.php:82
+#: menu-pages/client_manage.php:130 menu-pages/manage-appointments.php:114
+#: menu-pages/manage-staff-appointments.php:124
+#: menu-pages/payment-transaction.php:48 menu-pages/UpAppTime.php:33
+#: menu-pages/update-appointments.php:38
+#: menu-pages/update-appointments.php:517
+msgid "Service"
+msgstr "सेवाएं"
+
+#: appointment-calendar-button-shortcode.php:655
+#: appointment-calendar-mobile-shortcode.php:653
+#: appointment-calendar-shortcode.php:1085 appointment-calendar.php:61
+#: menu-pages/calendar.php:1280 menu-pages/client_manage.php:90
+#: menu-pages/client_manage.php:127 menu-pages/manage-appointments.php:111
+#: menu-pages/manage-staff-appointments.php:125 menu-pages/staff.php:2
+#: menu-pages/UpAppTime.php:46 menu-pages/update-appointments.php:56
+#: menu-pages/update-appointments.php:528
+msgid "Staff"
+msgstr "कर्मचारी"
+
+#: appointment-calendar-button-shortcode.php:664
+#: appointment-calendar-mobile-shortcode.php:662
+#: appointment-calendar-shortcode.php:1094 menu-pages/calendar.php:1290
+#: menu-pages/client_manage.php:100 menu-pages/client_manage.php:128
+#: menu-pages/export-lists.php:262 menu-pages/export-lists.php:379
+#: menu-pages/manage-appointments.php:112
+#: menu-pages/manage-staff-appointments.php:126 menu-pages/timeoff.php:11
+#: menu-pages/timeoff.php:177 menu-pages/UpAppTime.php:70
+#: menu-pages/UpAppTime.php:189 menu-pages/update-appointments.php:89
+#: menu-pages/update-appointments.php:562 menu-pages/update-timeoff.php:52
+msgid "Date"
+msgstr "दिनांक"
+
+#: appointment-calendar-button-shortcode.php:670
+#: appointment-calendar-mobile-shortcode.php:668
+#: appointment-calendar-shortcode.php:1100 menu-pages/calendar.php:1300
+#: menu-pages/client_manage.php:129 menu-pages/export-lists.php:263
+#: menu-pages/export-lists.php:380 menu-pages/manage-appointments.php:113
+#: menu-pages/manage-staff-appointments.php:127 menu-pages/timeoff.php:12
+msgid "Time"
+msgstr "समय"
+
+#: appointment-calendar-button-shortcode.php:675
+#: appointment-calendar-mobile-shortcode.php:673
+#: appointment-calendar-shortcode.php:1105 menu-pages/calendar.php:1313
+#: menu-pages/client_manage.php:106 menu-pages/manage-appointments.php:116
+#: menu-pages/manage-staff-appointments.php:129
+#: menu-pages/payment-transaction.php:51 menu-pages/timeoff.php:14
+#: menu-pages/UpAppTime.php:73 menu-pages/update-appointments.php:140
+#: menu-pages/update-appointments.php:577
+msgid "Status"
+msgstr "अवस्था"
+
+#: appointment-calendar-button-shortcode.php:720
+#: appointment-calendar-button-shortcode.php:724
+#: appointment-calendar-button-shortcode.php:733
+#: appointment-calendar-button-shortcode.php:863
+#: appointment-calendar-mobile-shortcode.php:719
+#: appointment-calendar-mobile-shortcode.php:723
+#: appointment-calendar-mobile-shortcode.php:732
+#: appointment-calendar-mobile-shortcode.php:859
+#: appointment-calendar-shortcode.php:1150
+#: appointment-calendar-shortcode.php:1154
+#: appointment-calendar-shortcode.php:1163
+#: appointment-calendar-shortcode.php:1296 menu-pages/calendar.php:1324
+#: menu-pages/manage-appointments.php:164
+#: menu-pages/manage-staff-appointments.php:182 menu-pages/UpAppTime.php:78
+#: menu-pages/update-appointments.php:146
+msgid "Done"
+msgstr "आप नियुक्त हो गयें"
+
+#: appointment-calendar-button-shortcode.php:856
+#: appointment-calendar-mobile-shortcode.php:852
+#: appointment-calendar-shortcode.php:1289
+msgid "Payment Successfully Processed"
+msgstr "भुगतान सफलतापूर्वक पूरा हुआ"
+
+#: appointment-calendar-button-shortcode.php:860
+#: appointment-calendar-mobile-shortcode.php:856
+#: appointment-calendar-shortcode.php:1293
+msgid "Payment received and your appointment has been confirmed."
+msgstr "भुगतान प्राप्त हो गया और आपकी नियुक्ति की पुष्टि की जा चुकी है।"
+
+#: appointment-calendar-button-shortcode.php:861
+#: appointment-calendar-mobile-shortcode.php:857
+#: appointment-calendar-shortcode.php:1294
+msgid "Thank you for scheduling appointment with us."
+msgstr "हमारे साथ नियुक्ति समयबद्धन के लिए धन्यवाद।"
+
+#: appointment-calendar-button-shortcode.php:880
+#: appointment-calendar-mobile-shortcode.php:873
+#: appointment-calendar-shortcode.php:1316
+msgid "Payment Failed"
+msgstr "भुगतान विफल"
+
+#: appointment-calendar-button-shortcode.php:885
+msgid "Sorry! Appointment booking was not successful."
+msgstr "क्षमा करें! आपकी नियुक्ति सफल नहीं हुई।"
+
+#: appointment-calendar-button-shortcode.php:887
+#: appointment-calendar-shortcode.php:1323 menu-pages/timeoff.php:272
+msgid "Close"
+msgstr "बंद करें"
+
+#: appointment-calendar-mobile-shortcode.php:165
+#: appointment-calendar-shortcode.php:625 menu-pages/client_manage.php:256
+#: menu-pages/manage-staff.php:313
+#: menu-pages/settings/business-profile.php:310
+msgid "Email cannot be blank."
+msgstr "ईमेल खाली नहीं हो सकता."
+
+#: appointment-calendar-mobile-shortcode.php:169 menu-pages/calendar.php:719
+#: menu-pages/client_manage.php:248 menu-pages/client_manage.php:272
+#: menu-pages/manage-staff.php:305 menu-pages/manage-staff.php:330
+#: menu-pages/manage-staff.php:339
+#: menu-pages/settings/business-profile.php:213
+#: menu-pages/settings/business-profile.php:228
+#: menu-pages/settings/business-profile.php:249
+#: menu-pages/settings/business-profile.php:264
+#: menu-pages/settings/business-profile.php:278
+#: menu-pages/settings/business-profile.php:317
+msgid "Invalid value."
+msgstr "अमान्य तथ्य."
+
+#: appointment-calendar-mobile-shortcode.php:877
+#: appointment-calendar-shortcode.php:1321
+msgid "Sorry! Appointment Booking was not successful."
+msgstr "क्षमा करें! आपकी नियुक्ति सफल नहीं हुई।"
+
+#: appointment-calendar-mobile-shortcode.php:880
+msgid "Try Again"
+msgstr "फिर कोशिश करें"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "January"
+msgstr "जनवरी"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "February"
+msgstr "फरवरी"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "March"
+msgstr "मार्च"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "April"
+msgstr "अप्रैल"
+
+#: appointment-calendar-shortcode.php:146
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:81
+#: menu-pages/calendar.php:82 menu-pages/staff-appointment-calendar.php:61
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "May"
+msgstr "मई"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "June"
+msgstr "जून"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "July"
+msgstr "जुलाई"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "August"
+msgstr "अगस्त"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "September"
+msgstr "सितंबर"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "October"
+msgstr "अक्टूबर"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "November"
+msgstr "नवंबर"
+
+#: appointment-calendar-shortcode.php:146 menu-pages/calendar.php:81
+#: menu-pages/staff-appointment-calendar.php:61
+msgid "December"
+msgstr "दिसंबर"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jan"
+msgstr "जनवरी"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Feb"
+msgstr "फ़रवरी"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Mar"
+msgstr "मार्च"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Apr"
+msgstr "अप्रैल"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jun"
+msgstr "जून"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Jul"
+msgstr "जुलाई"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Aug"
+msgstr "सितंबर"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Sept"
+msgstr "सितंबर"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Oct"
+msgstr "अक्टूबर"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "nov"
+msgstr "नवंबर"
+
+#: appointment-calendar-shortcode.php:147 menu-pages/calendar.php:82
+#: menu-pages/staff-appointment-calendar.php:62
+msgid "Dec"
+msgstr "दिसंबर"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:433
+#: menu-pages/settings/calendar-settings.php:149
+#: menu-pages/settings/manage-calendar-settings.php:102
+#: menu-pages/settings/staff-hours.php:1211
+msgid "Sunday"
+msgstr "रविवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:128
+#: menu-pages/settings/calendar-settings.php:137
+#: menu-pages/settings/manage-calendar-settings.php:96
+#: menu-pages/settings/staff-hours.php:923
+msgid "Monday"
+msgstr "सोमवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:181
+#: menu-pages/settings/calendar-settings.php:139
+#: menu-pages/settings/manage-calendar-settings.php:97
+#: menu-pages/settings/staff-hours.php:973
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:233
+#: menu-pages/settings/calendar-settings.php:141
+#: menu-pages/settings/manage-calendar-settings.php:98
+#: menu-pages/settings/staff-hours.php:1022
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:283
+#: menu-pages/settings/calendar-settings.php:143
+#: menu-pages/settings/manage-calendar-settings.php:99
+#: menu-pages/settings/staff-hours.php:1070
+msgid "Thursday"
+msgstr "गुरुवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:333
+#: menu-pages/settings/calendar-settings.php:145
+#: menu-pages/settings/manage-calendar-settings.php:100
+#: menu-pages/settings/staff-hours.php:1118
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: appointment-calendar-shortcode.php:148 menu-pages/calendar.php:83
+#: menu-pages/staff-appointment-calendar.php:63
+#: menu-pages/settings/business-hours.php:383
+#: menu-pages/settings/calendar-settings.php:147
+#: menu-pages/settings/manage-calendar-settings.php:101
+#: menu-pages/settings/staff-hours.php:1165
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Sun"
+msgstr "रवि"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Mon"
+msgstr "सोम"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Tue"
+msgstr "मंगल"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Wed"
+msgstr "बुध"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Thus"
+msgstr "गुरु"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Fri"
+msgstr "शुक्र"
+
+#: appointment-calendar-shortcode.php:149 menu-pages/calendar.php:84
+#: menu-pages/staff-appointment-calendar.php:64
+msgid "Sat"
+msgstr "शनि"
+
+#: appointment-calendar-shortcode.php:151 menu-pages/calendar.php:86
+#: menu-pages/staff-appointment-calendar.php:66
+msgid "Today"
+msgstr "आज"
+
+#: appointment-calendar-shortcode.php:152 menu-pages/calendar.php:87
+#: menu-pages/staff-appointment-calendar.php:67
+#: menu-pages/settings/business-hours.php:122
+#: menu-pages/settings/calendar-settings.php:121
+#: menu-pages/settings/manage-calendar-settings.php:85
+#: menu-pages/settings/staff-hours.php:917
+msgid "Day"
+msgstr "दिन"
+
+#: appointment-calendar-shortcode.php:153 menu-pages/calendar.php:88
+#: menu-pages/staff-appointment-calendar.php:68
+#: menu-pages/settings/calendar-settings.php:122
+#: menu-pages/settings/manage-calendar-settings.php:86
+msgid "Week"
+msgstr "साप्ताहिक"
+
+#: appointment-calendar-shortcode.php:154 menu-pages/calendar.php:89
+#: menu-pages/staff-appointment-calendar.php:69
+#: menu-pages/settings/calendar-settings.php:123
+#: menu-pages/settings/manage-calendar-settings.php:87
+msgid "Month"
+msgstr "मासिक"
+
+#: appointment-calendar-shortcode.php:169
+#: menu-pages/staff-appointment-calendar.php:85
+msgid "Sorry! Appointment cannot be booked for past dates."
+msgstr "क्षमा करें! नियुक्ति पिछले तारीखों पर बुक नहीं किया जा सकता"
+
+#: appointment-calendar-shortcode.php:208
+#: appointment-calendar-shortcode.php:257
+#: appointment-calendar-shortcode.php:283
+msgid "Booked"
+msgstr "व्यक्ति द्वारा बुकिंग"
+
+#: appointment-calendar-shortcode.php:482
+#: appointment-calendar-shortcode.php:491
+#: appointment-calendar-shortcode.php:502 menu-pages/timeoff.php:576
+#: menu-pages/timeoff.php:585 menu-pages/timeoff.php:592
+#: menu-pages/timeoff.php:625 menu-pages/timeoff.php:631
+#: menu-pages/timeoff.php:641 menu-pages/timeoff.php:652
+#: menu-pages/timeoff.php:662 menu-pages/timeoff.php:673
+#: menu-pages/timeoff.php:683 menu-pages/update-timeoff.php:502
+#: menu-pages/update-timeoff.php:512 menu-pages/update-timeoff.php:519
+#: menu-pages/update-timeoff.php:549 menu-pages/update-timeoff.php:561
+#: menu-pages/update-timeoff.php:567 menu-pages/update-timeoff.php:578
+#: menu-pages/update-timeoff.php:589 menu-pages/update-timeoff.php:600
+#: menu-pages/update-timeoff.php:611
+msgid "This field required."
+msgstr "यह देना आवश्यक है."
+
+#: appointment-calendar-shortcode.php:485
+#: appointment-calendar-shortcode.php:496
+#: appointment-calendar-shortcode.php:505
+msgid "Invalid field value."
+msgstr "अमान्य तथ्य"
+
+#: appointment-calendar-shortcode.php:607 menu-pages/manage-service.php:369
+#: menu-pages/update-appointments.php:231
+msgid "Name cannot be blank."
+msgstr "नाम रिक्त नहीं हो सकता"
+
+#: appointment-calendar-shortcode.php:635
+msgid "Phone cannot be blank. <br>Numbers only: 1234567890. <br>No characters."
+msgstr "फोन खाली नहीं हो सकता <br> नंबर केवल:. 1234567890, वर्ण नहीं"
+
+#: appointment-calendar-shortcode.php:761
+msgid "Appointment Calendar Premium Powered By:"
+msgstr "नियुक्ति कैलेंडर प्रीमियम द्वारा संचालित:"
+
+#: appointment-calendar-shortcode.php:761
+msgid "Appointment Scheduling Plugin For Wordpress"
+msgstr "आपोंईटजिला: वर्डप्रैस के लिए नियुक्ति निर्धारण प्लगइन"
+
+#: appointment-calendar-shortcode.php:761
+msgid "AppointZilla"
+msgstr "आपोंईटजिला"
+
+#: appointment-calendar-shortcode.php:772 menu-pages/calendar.php:860
+msgid "Step-1. Select Date & Service"
+msgstr "चरण-1 दिनांक और सेवा का चयन करें"
+
+#: appointment-calendar.php:46 appointment-calendar.php:49
+msgid "Appointment Calendar"
+msgstr "नियुक्ति कैलेंडर"
+
+#: appointment-calendar.php:66
+msgid "Staff Calendar"
+msgstr ""
+
+#: appointment-calendar.php:67
+msgid "Manage Appointments"
+msgstr "नियुक्ति प्रबंधन"
+
+#: appointment-calendar.php:70 menu-pages/calendar.php:841
+#: menu-pages/timeoff.php:3
+msgid "Time Off"
+msgstr "टाईम आफ"
+
+#: appointment-calendar.php:75 menu-pages/client.php:3
+#: menu-pages/payment-transaction.php:47
+msgid "Client"
+msgstr "ग्राहक"
+
+#: appointment-calendar.php:79
+msgid "Manage Appointment"
+msgstr "नियुक्ति प्रबंधन"
+
+#: appointment-calendar.php:84
+msgid "Payment Transaction"
+msgstr "भुगतान लेनदेन"
+
+#: appointment-calendar.php:87
+msgid "Export Lists"
+msgstr ""
+
+#: appointment-calendar.php:90
+msgid "Settings"
+msgstr "परिस्थितियाँ"
+
+#: appointment-calendar.php:93 uninstall-plugin.php:174
+msgid "Remove Plugin"
+msgstr "प्लगइन हटायें"
+
+#: appointment-calendar.php:96
+msgid "Help & Support"
+msgstr "मदद और समर्थन"
+
+#: appointment-calendar.php:324
+msgid "Every Hour"
+msgstr "हर घंटे"
+
+#: shortcode-time-slot-calculation-mobile.php:13
+#: shortcode-time-slot-calculation.php:15
+msgid "Step-2. Select Service Time"
+msgstr "चरण-2. सेवा समय का चयन करें"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "Select Time For"
+msgstr "समय का चयन सेवा"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "On"
+msgstr "के लिए"
+
+#: shortcode-time-slot-calculation-mobile.php:58
+#: shortcode-time-slot-calculation.php:61
+#: menu-pages/admin-time-slot-calculation.php:44
+msgid "With"
+msgstr "पर कर्मचारी"
+
+#: shortcode-time-slot-calculation-mobile.php:157
+#: shortcode-time-slot-calculation-mobile.php:178
+#: shortcode-time-slot-calculation.php:173
+#: shortcode-time-slot-calculation.php:198
+msgid "Sorry! Today selected staff is not available."
+msgstr "क्षमा करें! आज यह स्टाफ़ उपल्बध नहीं या व्यापार बंद है।"
+
+#: shortcode-time-slot-calculation-mobile.php:162
+#: shortcode-time-slot-calculation.php:179
+msgid "Sorry! Today all appointments has been booked with selected staff."
+msgstr ""
+
+#: shortcode-time-slot-calculation-mobile.php:182
+#: shortcode-time-slot-calculation.php:202
+msgid "Sorry! Today this staff is not available for booking."
+msgstr "क्षमा करें! आज यह स्टाफ़ उपल्बध नहीं या व्यापार बंद है।"
+
+#: uninstall-plugin.php:163
+msgid ""
+"Appointment Calendar Premium Plugin has been successfully removed. It can be "
+"re-activated from the"
+msgstr ""
+"नियुक्ति कैलेंडर प्रीमियम प्लगइन सफलतापूर्वक हटा दिया गया है। आप इसे फिर से सक्रिय कर सकते "
+"हैं"
+
+#: uninstall-plugin.php:163
+msgid "Plugins Page"
+msgstr "प्लगइन पृष्ठ"
+
+#: uninstall-plugin.php:179
+msgid "Remove Appointment Calendar Premium Plugin"
+msgstr "नियुक्ति कैलेंडर प्रीमियम प्लगइन हटायें।"
+
+#: uninstall-plugin.php:180
+msgid ""
+"This operation wiil delete all Appointment Calendar data & settings. If you "
+"continue, You will not be able to retrieve or restore your appointments "
+"entries."
+msgstr ""
+"यह कार्यवाही नियुक्ति कैलेंडर डेटा की नियुक्ति प्रविष्टियों सहित सेटिंग्स, नष्ट कर देगी. यह "
+"पूर्ववत प्राप्त नहीं किया जा सकता है।"
+
+#: uninstall-plugin.php:181
+msgid ""
+"Warning! Appointment Calendar data & settings, including appointment entries "
+"will be deleted. This cannot be undone. OK to delete, CANCEL to stop"
+msgstr ""
+"चेतावनी! नियुक्ति कैलेंडर डेटा और नियुक्ति प्रविष्टियों सहित सेटिंग्स, नष्ट कर दिया जाएगा. "
+"यह पूर्ववत प्राप्त नहीं किया जा सकता है.  इसको रोकने के लिए रद्द करें।"
+
+#: uninstall-plugin.php:181
+msgid "REMOVE PLUGIN"
+msgstr "प्लगइन हटायें"
+
+#: menu-pages/admin-time-slot-calculation.php:73
+msgid "Start Time:"
+msgstr "प्रारम्भ होन का समय:"
+
+#: menu-pages/admin-time-slot-calculation.php:74
+msgid "Select Start Time"
+msgstr "प्रारम्भ समय चुनें"
+
+#: menu-pages/admin-time-slot-calculation.php:104
+msgid "Invalid Start Time. Start Time should be less than End Time."
+msgstr "अमान्य प्रारंभ समय. शुरू करने का समय समाप्ति समय कम से कम होना चाहिए."
+
+#: menu-pages/admin-time-slot-calculation.php:110
+msgid "End Time: "
+msgstr "समाप्त होन का समय:"
+
+#: menu-pages/admin-time-slot-calculation.php:111
+msgid "Select End Time"
+msgstr "अंत समय चुनें"
+
+#: menu-pages/admin-time-slot-calculation.php:140
+msgid "Invalid End Time. End Time should be greater than Start Time."
+msgstr "अमान्य समाप्ति समय. समाप्ति समय प्रारंभ समय से अधिक होना चाहिए."
+
+#: menu-pages/calendar.php:110
+msgid "Booked By"
+msgstr "व्यक्ति द्वारा बुकिंग"
+
+#: menu-pages/calendar.php:162 menu-pages/calendar.php:191
+msgid "Booked By: "
+msgstr "व्यक्ति द्वारा बुकिंग"
+
+#: menu-pages/calendar.php:529 menu-pages/calendar.php:547
+msgid "Invalid time range."
+msgstr "अमान्य समय सीमा"
+
+#: menu-pages/calendar.php:589
+msgid "Repeat Days required"
+msgstr "दिनों की दोहरान संख्या डालें"
+
+#: menu-pages/calendar.php:597
+msgid "Repeat Weeks required."
+msgstr "हफ्तों की दोहरान संख्या डालें"
+
+#: menu-pages/calendar.php:605
+msgid "Repeat Months required."
+msgstr "महीनों की दोहरान संख्या डालें"
+
+#: menu-pages/calendar.php:651
+msgid "Invalid Date! Start-Date should be less than End-Date."
+msgstr "\"अवैध तिथि! प्रारंभ तिथि समाप्ति तिथि से कम होना चाहिए."
+
+#: menu-pages/calendar.php:714
+msgid "Phone required."
+msgstr ""
+
+#: menu-pages/calendar.php:798
+msgid "Appointments"
+msgstr "नियुक्तियाँ"
+
+#: menu-pages/calendar.php:801
+msgid "Filter Appointments By Staff"
+msgstr "कर्मचारियों द्वारा नियुक्ति फ़िल्टर:"
+
+#: menu-pages/calendar.php:807
+msgid "Add New Appointment"
+msgstr "नई नियुक्ति जोड़ें"
+
+#: menu-pages/calendar.php:812
+msgid "Recurring Appointments"
+msgstr "पुनरावर्ती नियुक्तियाँ"
+
+#: menu-pages/calendar.php:817 menu-pages/calendar.php:956
+#: menu-pages/settings/staff-hours.php:789
+msgid "Select Staff"
+msgstr "कर्मचारी चयन करें"
+
+#: menu-pages/calendar.php:833
+msgid "Appointments (Default Staff Assigned)"
+msgstr "नियुक्ति (डिफ़ॉल्ट स्टाफ निरुपित)"
+
+#: menu-pages/calendar.php:836
+msgid "Apply"
+msgstr "लागू करें"
+
+#: menu-pages/calendar.php:870
+msgid "Your Appointment Date"
+msgstr "आपकी नियुक्ति की दिनांक:"
+
+#: menu-pages/calendar.php:992
+msgid "Step-2. Select Service Time & Repeat"
+msgstr "चरण-2. सेवा समय और दोहरान का चयन करें"
+
+#: menu-pages/calendar.php:1002
+msgid "Sorry! No Time Available Today."
+msgstr "क्षमा करें! आज कोई समय उपलब्ध नहीं है।"
+
+#: menu-pages/calendar.php:1007
+msgid "Sorry! Today's all appointments has been booked."
+msgstr "क्षमा करें! आज सभी नियुक्तियों को बुक किया जा चुका है।"
+
+#: menu-pages/calendar.php:1012 menu-pages/client_manage.php:107
+#: menu-pages/manage-appointments.php:115
+#: menu-pages/manage-staff-appointments.php:128 menu-pages/timeoff.php:13
+#: menu-pages/timeoff.php:184 menu-pages/UpAppTime.php:193
+#: menu-pages/update-appointments.php:99
+#: menu-pages/update-appointments.php:582 menu-pages/update-timeoff.php:60
+msgid "Repeat"
+msgstr "दोहरान"
+
+#: menu-pages/calendar.php:1013 menu-pages/service.php:67
+#: menu-pages/service.php:73 menu-pages/UpAppTime.php:83
+#: menu-pages/update-appointments.php:110
+msgid "None"
+msgstr "नहीं"
+
+#: menu-pages/calendar.php:1014 menu-pages/timeoff.php:189
+#: menu-pages/UpAppTime.php:84 menu-pages/UpAppTime.php:198
+#: menu-pages/update-appointments.php:111 menu-pages/update-timeoff.php:65
+#: menu-pages/settings/manage-reminder-settings.php:43
+msgid "Daily"
+msgstr "दैनिक"
+
+#: menu-pages/calendar.php:1015 menu-pages/timeoff.php:190
+#: menu-pages/UpAppTime.php:85 menu-pages/UpAppTime.php:200
+#: menu-pages/update-appointments.php:112 menu-pages/update-timeoff.php:66
+#: menu-pages/settings/manage-reminder-settings.php:44
+msgid "Weekly"
+msgstr "साप्ताहिक"
+
+#: menu-pages/calendar.php:1016 menu-pages/timeoff.php:192
+#: menu-pages/UpAppTime.php:86 menu-pages/UpAppTime.php:204
+#: menu-pages/update-appointments.php:113 menu-pages/update-timeoff.php:68
+#: menu-pages/settings/manage-reminder-settings.php:45
+msgid "Monthly"
+msgstr "मासिक"
+
+#: menu-pages/calendar.php:1017
+msgid "Particular Dates"
+msgstr "विशेष तिथियाँ"
+
+#: menu-pages/calendar.php:1021 menu-pages/timeoff.php:198
+#: menu-pages/UpAppTime.php:97 menu-pages/UpAppTime.php:216
+#: menu-pages/UpAppTime.php:262 menu-pages/update-timeoff.php:73
+msgid "Repeat Day(s)"
+msgstr "दोहरान दिन"
+
+#: menu-pages/calendar.php:1022
+msgid "(Min = 1, Max = 99 Days)"
+msgstr "( न्यूनतम = 1, अधिकतम = 99 महीनें)"
+
+#: menu-pages/calendar.php:1027 menu-pages/timeoff.php:205
+msgid "Repeat Week(s)"
+msgstr "दोहरान हफ्तें"
+
+#: menu-pages/calendar.php:1029
+msgid "(Min = 1, Max = 99 Weeks)"
+msgstr "( न्यूनतम = 1, अधिकतम = 99 हफ्तें)"
+
+#: menu-pages/calendar.php:1034 menu-pages/timeoff.php:221
+#: menu-pages/UpAppTime.php:248 menu-pages/UpAppTime.php:278
+#: menu-pages/update-timeoff.php:118
+msgid "Repeat Month(s)"
+msgstr "दोहरान महिनें"
+
+#: menu-pages/calendar.php:1036
+msgid "(Min = 1, Max = 99 Months)"
+msgstr "( न्यूनतम = 1, अधिकतम = 99 महीने)"
+
+#: menu-pages/calendar.php:1041 menu-pages/timeoff.php:228
+#: menu-pages/update-timeoff.php:126
+msgid "Start Date"
+msgstr "प्रारम्भ दिनांक"
+
+#: menu-pages/calendar.php:1043 menu-pages/calendar.php:1045
+msgid "This field is required."
+msgstr "यह डालना आवश्यक है."
+
+#: menu-pages/calendar.php:1044 menu-pages/timeoff.php:235
+#: menu-pages/UpAppTime.php:126 menu-pages/UpAppTime.php:142
+#: menu-pages/UpAppTime.php:256 menu-pages/UpAppTime.php:283
+#: menu-pages/update-timeoff.php:134
+msgid "End Date"
+msgstr "अंतिम दिनांक"
+
+#: menu-pages/calendar.php:1046
+msgid "Invalid Date"
+msgstr "अमान्य दिनांक"
+
+#: menu-pages/calendar.php:1057
+msgid "Admin can create appointments at any time."
+msgstr "व्यवस्थापक नियुक्तियाँ किसी भी समय बना सकता है।"
+
+#: menu-pages/calendar.php:1086
+msgid "Step-3. Fill Up Client Details"
+msgstr "चयण-3. ग्राहक विवरण भरें"
+
+#: menu-pages/calendar.php:1231
+msgid "Step-4. Appointment has been scheduled."
+msgstr "चरण-4. आपको नियुक्त किया जा चुका है।"
+
+#: menu-pages/calendar.php:1318 menu-pages/client_manage.php:104
+#: menu-pages/update-appointments.php:572
+#: menu-pages/settings/manage-reminder-settings.php:70
+#: menu-pages/settings/notification-message.php:42
+#: menu-pages/settings/notification-message.php:161
+#: menu-pages/settings/notification-message.php:201
+msgid "Appointment Key"
+msgstr "नियुक्ति कुंजी"
+
+#: menu-pages/client.php:3
+msgid "Add New Client"
+msgstr "ग्राहक जोडे़"
+
+#: menu-pages/client.php:9
+msgid "Client Name :"
+msgstr "ग्राहक नाम"
+
+#: menu-pages/client.php:11
+msgid "Search"
+msgstr "खोज"
+
+#: menu-pages/client.php:55 menu-pages/client_manage.php:125
+#: menu-pages/manage-appointments.php:109
+#: menu-pages/manage-staff-appointments.php:122
+#: menu-pages/payment-transaction.php:45 menu-pages/timeoff.php:9
+msgid "No."
+msgstr "संख्या"
+
+#: menu-pages/client.php:59 menu-pages/client_manage.php:28
+#: menu-pages/client_manage.php:59
+msgid "Special Note"
+msgstr "विशेष निर्देश"
+
+#: menu-pages/client.php:60
+msgid "Appointment History"
+msgstr "नियुक्ति इतिहास"
+
+#: menu-pages/client.php:61 menu-pages/client_manage.php:131
+#: menu-pages/export-lists.php:265 menu-pages/export-lists.php:382
+#: menu-pages/manage-appointments.php:118
+#: menu-pages/payment-transaction.php:52 menu-pages/service.php:39
+#: menu-pages/staff.php:35 menu-pages/timeoff.php:15
+msgid "Action"
+msgstr "कार्रवाई"
+
+#: menu-pages/client.php:62 menu-pages/manage-appointments.php:119
+#: menu-pages/payment-transaction.php:53 menu-pages/timeoff.php:16
+msgid "Select All"
+msgstr "सभी को चुनें"
+
+#: menu-pages/client.php:77 menu-pages/client.php:80
+#: menu-pages/client_manage.php:158 menu-pages/manage-appointments.php:176
+#: menu-pages/service.php:78 menu-pages/staff.php:49
+msgid "View"
+msgstr "देखें"
+
+#: menu-pages/client.php:81 menu-pages/client_manage.php:36
+#: menu-pages/manage-appointments.php:177 menu-pages/manage-service.php:132
+#: menu-pages/manage-staff.php:117 menu-pages/service.php:79
+#: menu-pages/staff.php:50 menu-pages/timeoff.php:105
+#: menu-pages/update-appointments.php:167 menu-pages/update-timeoff.php:168
+#: menu-pages/settings/business-profile.php:120
+msgid "Update"
+msgstr "नवीनिकरण करें"
+
+#: menu-pages/client.php:82
+msgid "Do you want to delete this client"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/client.php:82 menu-pages/client.php:107
+#: menu-pages/export-lists.php:295 menu-pages/export-lists.php:412
+#: menu-pages/manage-appointments.php:178
+#: menu-pages/manage-appointments.php:196
+#: menu-pages/payment-transaction.php:89
+#: menu-pages/payment-transaction.php:106 menu-pages/service.php:25
+#: menu-pages/service.php:81 menu-pages/staff.php:25 menu-pages/staff.php:52
+#: menu-pages/timeoff.php:106 menu-pages/timeoff.php:119
+msgid "Delete"
+msgstr "हटायें"
+
+#: menu-pages/client.php:85 menu-pages/manage-appointments.php:180
+#: menu-pages/payment-transaction.php:90 menu-pages/timeoff.php:107
+msgid "Select"
+msgstr "चुनें"
+
+#: menu-pages/client.php:93 menu-pages/manage-appointments.php:186
+#: menu-pages/manage-staff-appointments.php:204
+#: menu-pages/payment-transaction.php:96
+msgid "First"
+msgstr "प्रथम"
+
+#: menu-pages/client.php:101 menu-pages/manage-appointments.php:194
+#: menu-pages/manage-staff-appointments.php:212
+#: menu-pages/payment-transaction.php:104
+msgid "Last"
+msgstr "अंतिम"
+
+#: menu-pages/client.php:107
+msgid "Do you want to delete selected clients?"
+msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#: menu-pages/client.php:110
+msgid "Sorry no client(s)."
+msgstr "माफ करना कोई ग्राहक नहीं है।"
+
+#: menu-pages/client.php:122
+msgid "Client successfully deleted."
+msgstr "ग्राहक हटा दिया गया है।"
+
+#: menu-pages/client.php:137
+msgid "Selected client(s) successfully deleted."
+msgstr "चुने हुए ग्राहक सफलतापूर्वक हटा दिये गये हैं।"
+
+#: menu-pages/client.php:139
+msgid "No client(s) selected to delete."
+msgstr "कोई ग्राहक हटाने के लिये नहीं चुना गया।"
+
+#: menu-pages/client_manage.php:13
+msgid "Manage Client"
+msgstr "ग्राहक प्रबंधन"
+
+#: menu-pages/client_manage.php:20 menu-pages/update-appointments.php:29
+msgid "Client Name."
+msgstr "ग्राहक नाम"
+
+#: menu-pages/client_manage.php:23 menu-pages/update-appointments.php:35
+msgid "Client Email."
+msgstr "ग्राहक ईमेल"
+
+#: menu-pages/client_manage.php:26 menu-pages/manage-staff.php:49
+#: menu-pages/settings/business-profile.php:105
+msgid "Phone Number."
+msgstr "फोन नंबर"
+
+#: menu-pages/client_manage.php:30
+msgid "Client Note."
+msgstr "ग्राहक र्निदेश"
+
+#: menu-pages/client_manage.php:34 menu-pages/manage-service.php:134
+#: menu-pages/manage-staff.php:115
+#: menu-pages/settings/business-profile.php:122
+msgid "Create"
+msgstr "बनायें"
+
+#: menu-pages/client_manage.php:38 menu-pages/manage-service.php:136
+#: menu-pages/manage-staff.php:119 menu-pages/service.php:18
+#: menu-pages/service.php:102 menu-pages/staff.php:17 menu-pages/staff.php:75
+#: menu-pages/UpAppTime.php:147 menu-pages/UpAppTime.php:304
+#: menu-pages/update-appointments.php:172
+#: menu-pages/update-appointments.php:174 menu-pages/update-timeoff.php:169
+#: menu-pages/paypal-api/PaymentGateway.php:126
+#: menu-pages/settings/business-profile.php:124
+#: menu-pages/settings/manage-admin-settings.php:87
+#: menu-pages/settings/manage-calendar-settings.php:174
+#: menu-pages/settings/manage-notification-settings.php:149
+#: menu-pages/settings/manage-payment-settings.php:48
+#: menu-pages/settings/manage-reminder-settings.php:85
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: menu-pages/client_manage.php:50
+msgid "View Client"
+msgstr "ग्राहक देखें"
+
+#: menu-pages/client_manage.php:52
+msgid "Client Details"
+msgstr "ग्राहक का विवरण"
+
+#: menu-pages/client_manage.php:66
+msgid "Client Detailed Appointment History"
+msgstr "ग्राहकों का विस्तृत नियुक्ति इतिहास"
+
+#: menu-pages/client_manage.php:66
+msgid "All Appointment History"
+msgstr "सभी नियुक्ति इतिहास"
+
+#: menu-pages/client_manage.php:77 menu-pages/update-appointments.php:21
+#: menu-pages/update-appointments.php:501
+msgid "Appointment Creation Date"
+msgstr "नियुक्ति निर्माण तिथि"
+
+#: menu-pages/client_manage.php:98 menu-pages/timeoff.php:163
+#: menu-pages/UpAppTime.php:61 menu-pages/UpAppTime.php:183
+#: menu-pages/update-appointments.php:77
+#: menu-pages/update-appointments.php:546 menu-pages/update-timeoff.php:41
+#: menu-pages/settings/business-hours.php:123
+#: menu-pages/settings/staff-hours.php:918
+msgid "Start Time"
+msgstr "प्रारम्भ होन का समय:"
+
+#: menu-pages/client_manage.php:99 menu-pages/timeoff.php:170
+#: menu-pages/UpAppTime.php:66 menu-pages/UpAppTime.php:186
+#: menu-pages/update-appointments.php:82
+#: menu-pages/update-appointments.php:551 menu-pages/update-timeoff.php:47
+#: menu-pages/settings/business-hours.php:124
+#: menu-pages/settings/staff-hours.php:919
+msgid "End Time"
+msgstr "समाप्त होन का समय:"
+
+#: menu-pages/client_manage.php:102 menu-pages/manage-service.php:19
+#: menu-pages/manage-service.php:154 menu-pages/service.php:30
+#: menu-pages/update-appointments.php:94
+#: menu-pages/update-appointments.php:567
+msgid "Description"
+msgstr "विवरण"
+
+#: menu-pages/client_manage.php:109 menu-pages/UpAppTime.php:81
+#: menu-pages/update-appointments.php:107
+#: menu-pages/update-appointments.php:587
+msgid "Repeat Type"
+msgstr "दोहरान प्रकार"
+
+#: menu-pages/client_manage.php:111 menu-pages/update-appointments.php:118
+#: menu-pages/update-appointments.php:592
+msgid "Repeat Start Date"
+msgstr "दोहरान प्रारम्भ होन की दिनांक"
+
+#: menu-pages/client_manage.php:113 menu-pages/update-appointments.php:123
+#: menu-pages/update-appointments.php:597
+msgid "Repeat End Date"
+msgstr "दोहरान समाप्त होन की दिनांक"
+
+#: menu-pages/client_manage.php:115 menu-pages/update-appointments.php:129
+#: menu-pages/update-appointments.php:602
+msgid "Appointment By"
+msgstr "नियुक्ति बनाने वाला"
+
+#: menu-pages/client_manage.php:117 menu-pages/update-appointments.php:151
+#: menu-pages/update-appointments.php:607
+msgid "Payment Status"
+msgstr "भुगतान स्थिति"
+
+#: menu-pages/client_manage.php:164
+msgid "Sorry! No appointment(s) available for this client."
+msgstr "क्षमा करें! इस ग्राहक की कोई नियुक्ति उपलब्ध नहीं।\" "
+
+#: menu-pages/client_manage.php:184 menu-pages/manage-staff.php:191
+#: menu-pages/manage-staff.php:243
+msgid "is already in the database."
+msgstr " पहले से उपस्थित है।"
+
+#: menu-pages/client_manage.php:190
+msgid "New client successfully added."
+msgstr "नया ग्राहक सफलतार्पूक जोड़ दिया गया है।"
+
+#: menu-pages/client_manage.php:213 menu-pages/client_manage.php:216
+#: menu-pages/client_manage.php:225 menu-pages/client_manage.php:228
+msgid "Client details successfully updated."
+msgstr "ग्राहक विवरण सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#: menu-pages/client_manage.php:220
+msgid "is alredy in the database."
+msgstr " पहले से उपस्थित है।"
+
+#: menu-pages/client_manage.php:243
+msgid "Client name cannot be blank."
+msgstr "क्लाइंट का नाम खाली नहीं हो सकता."
+
+#: menu-pages/client_manage.php:260
+msgid "invalid  value."
+msgstr "अमान्य तथ्य"
+
+#: menu-pages/client_manage.php:267 menu-pages/manage-staff.php:325
+msgid "Phone Number cannot be blank."
+msgstr "फोन खाली नहीं हो सकता."
+
+#: menu-pages/export-lists.php:200
+msgid "Export List(s)"
+msgstr ""
+
+#: menu-pages/export-lists.php:213 menu-pages/export-lists.php:217
+#: menu-pages/export-lists.php:332 menu-pages/export-lists.php:336
+msgid "Select Range"
+msgstr ""
+
+#: menu-pages/export-lists.php:218
+msgid "Today's Appointment"
+msgstr "आज की नियुक्तियाँ"
+
+#: menu-pages/export-lists.php:219
+msgid "This Week Appointment"
+msgstr ""
+
+#: menu-pages/export-lists.php:220
+msgid "This Month Appointment"
+msgstr ""
+
+#: menu-pages/export-lists.php:221
+msgid "Custom Appointment Range"
+msgstr ""
+
+#: menu-pages/export-lists.php:222
+msgid "All Appointment"
+msgstr "सभी नियुक्तियाँ"
+
+#: menu-pages/export-lists.php:223
+msgid "Appointment Selection Range"
+msgstr ""
+
+#: menu-pages/export-lists.php:227 menu-pages/export-lists.php:343
+msgid "Select Start Date"
+msgstr "प्रारम्भ दिनांक चुनें"
+
+#: menu-pages/export-lists.php:234 menu-pages/export-lists.php:350
+msgid "Select End Date"
+msgstr ""
+
+#: menu-pages/export-lists.php:244
+msgid "Export Appointment List"
+msgstr ""
+
+#: menu-pages/export-lists.php:247
+msgid "Generating appointments list, please wait..."
+msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#: menu-pages/export-lists.php:255
+msgid "Appointments List(s)"
+msgstr ""
+
+#: menu-pages/export-lists.php:261 menu-pages/export-lists.php:378
+msgid "Lists"
+msgstr ""
+
+#: menu-pages/export-lists.php:264 menu-pages/export-lists.php:381
+msgid "Size"
+msgstr ""
+
+#: menu-pages/export-lists.php:294 menu-pages/export-lists.php:411
+msgid "Download"
+msgstr ""
+
+#: menu-pages/export-lists.php:310 menu-pages/export-lists.php:427
+msgid "Delete All"
+msgstr ""
+
+#: menu-pages/export-lists.php:316
+msgid "Sorry! No appointment lists are available."
+msgstr ""
+
+#: menu-pages/export-lists.php:337
+msgid "All Clients"
+msgstr ""
+
+#: menu-pages/export-lists.php:339
+msgid "Clients Selection Range"
+msgstr ""
+
+#: menu-pages/export-lists.php:360
+msgid "Export Clients List"
+msgstr ""
+
+#: menu-pages/export-lists.php:363
+msgid "Generating clients list, please wait..."
+msgstr ""
+
+#: menu-pages/export-lists.php:372
+msgid "Clients List(s)"
+msgstr ""
+
+#: menu-pages/export-lists.php:433
+msgid "Sorry! No client lists are available."
+msgstr ""
+
+#: menu-pages/export-lists.php:487 menu-pages/export-lists.php:584
+msgid "Select any range."
+msgstr ""
+
+#: menu-pages/export-lists.php:522 menu-pages/export-lists.php:598
+msgid "Select any start date."
+msgstr ""
+
+#: menu-pages/export-lists.php:526 menu-pages/export-lists.php:602
+msgid "Select any end date."
+msgstr ""
+
+#: menu-pages/export-lists.php:650 menu-pages/export-lists.php:682
+msgid "List file successfully deleted."
+msgstr ""
+
+#: menu-pages/export-lists.php:653 menu-pages/export-lists.php:684
+msgid "Unable to delete list or list file not exist."
+msgstr ""
+
+#: menu-pages/export-lists.php:667 menu-pages/export-lists.php:698
+msgid "All list file(s) successfully deleted."
+msgstr ""
+
+#: menu-pages/manage-appointments.php:9
+#: menu-pages/manage-staff-appointments.php:19
+msgid "Manage Appointment(s)"
+msgstr "नियुक्ति प्रबंधन"
+
+#: menu-pages/manage-appointments.php:18
+#: menu-pages/manage-staff-appointments.php:28
+msgid "All Appointments"
+msgstr "सभी नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:19
+#: menu-pages/manage-staff-appointments.php:30
+msgid "Pending Appointments"
+msgstr "लंबित नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:20
+#: menu-pages/manage-staff-appointments.php:32
+msgid "Approved Appointments"
+msgstr "स्वीकृत नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:21
+#: menu-pages/manage-staff-appointments.php:34
+msgid "Cancelled Appointments"
+msgstr "रद्द नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:22
+#: menu-pages/manage-staff-appointments.php:36
+msgid "Done Appointments"
+msgstr "पुरी हो चुकी नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:23
+#: menu-pages/manage-staff-appointments.php:38
+msgid "Today`s  Appointments"
+msgstr "आज की नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:24
+msgid "Paid Appointments"
+msgstr "अदा की नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:25
+msgid "Unpaid Appointments"
+msgstr "अदा नहीं की गई नियुक्तियाँ"
+
+#: menu-pages/manage-appointments.php:27 menu-pages/manage-appointments.php:28
+#: menu-pages/manage-staff-appointments.php:41
+#: menu-pages/manage-staff-appointments.php:42
+msgid "Filter Appointments"
+msgstr "नियुक्ति फ़िल्टर"
+
+#: menu-pages/manage-appointments.php:117
+msgid "Payment"
+msgstr "भुगतान"
+
+#: menu-pages/manage-appointments.php:160
+#: menu-pages/manage-staff-appointments.php:178
+msgid "Select Status"
+msgstr "स्थिति का चयन करें"
+
+#: menu-pages/manage-appointments.php:161
+#: menu-pages/manage-staff-appointments.php:179 menu-pages/UpAppTime.php:75
+#: menu-pages/update-appointments.php:143
+msgid "Pending"
+msgstr "अपूर्ण"
+
+#: menu-pages/manage-appointments.php:162
+#: menu-pages/manage-staff-appointments.php:180 menu-pages/UpAppTime.php:76
+#: menu-pages/update-appointments.php:144
+msgid "Approved"
+msgstr "स्वीकृत"
+
+#: menu-pages/manage-appointments.php:163
+#: menu-pages/manage-staff-appointments.php:181 menu-pages/UpAppTime.php:77
+#: menu-pages/update-appointments.php:145
+msgid "Cancelled"
+msgstr "रद्द"
+
+#: menu-pages/manage-appointments.php:171
+#: menu-pages/manage-staff-appointments.php:189
+msgid "Updating..."
+msgstr "अद्यतन कर रहा है ..."
+
+#: menu-pages/manage-appointments.php:179
+msgid "Do you want to delete this appointment?"
+msgstr "क्या आप यह नियुक्ति हटाना चाहते हैं?"
+
+#: menu-pages/manage-appointments.php:196
+msgid "Do you want to delete these appointments?"
+msgstr "क्या आप यह नियुक्तियाँ हटाना चाहते हैं?"
+
+#: menu-pages/manage-appointments.php:199
+#: menu-pages/manage-staff-appointments.php:217
+msgid "Sorry No Appointment(s)."
+msgstr "माफ करना कोई नियुक्तियां नहीं हैं।"
+
+#: menu-pages/manage-appointments.php:441
+#: menu-pages/manage-staff-appointments.php:457
+msgid "Appointment successfully deleted."
+msgstr "नियुक्ति को सफलतापूर्वक हटा दिया गया है।"
+
+#: menu-pages/manage-appointments.php:478
+#: menu-pages/manage-staff-appointments.php:494
+msgid "Selected Appointment(s) successfully deleted."
+msgstr "चुने हुए नियुक्तियों को सफलतापूर्वक हटा दिया गया है।"
+
+#: menu-pages/manage-appointments.php:481
+#: menu-pages/manage-staff-appointments.php:497
+msgid "No Appointment(s) selected to delete."
+msgstr "कोई नियुक्ति हटाने के लिये नहीं चुना गया।"
+
+#: menu-pages/manage-service.php:1 menu-pages/service.php:1
+msgid "Services"
+msgstr "सेवाएं"
+
+#: menu-pages/manage-service.php:16
+#: menu-pages/settings/manage-reminder-settings.php:65
+#: menu-pages/settings/notification-message.php:37
+#: menu-pages/settings/notification-message.php:156
+#: menu-pages/settings/notification-message.php:196
+msgid "Service Name"
+msgstr "सेवा का नाम"
+
+#: menu-pages/manage-service.php:21
+msgid "Service Description"
+msgstr "सेवा विवरण"
+
+#: menu-pages/manage-service.php:24 menu-pages/manage-service.php:159
+#: menu-pages/service.php:31
+msgid "Duration"
+msgstr "अवधि"
+
+#: menu-pages/manage-service.php:26
+msgid ""
+"Service Duration<br>Enter Numeric Value In Multiple Of 5<br>Eg: 15, 30, 60"
+msgstr "सेवा अवधि<br>उदाहरण: 15, 30, 60<br> 5 के गुणक में संख्यात्मक मूल्य दर्ज करें"
+
+#: menu-pages/manage-service.php:30 menu-pages/manage-service.php:35
+msgid "Duration Unit"
+msgstr "अवधि इकाई"
+
+#: menu-pages/manage-service.php:33
+msgid "Select Duration's Unit"
+msgstr "अवधि इकाई चुनें"
+
+#: menu-pages/manage-service.php:34
+msgid "Minute(s)"
+msgstr "मिनट"
+
+#: menu-pages/manage-service.php:39 menu-pages/manage-service.php:164
+#: menu-pages/service.php:32
+msgid "Padding Time"
+msgstr "अतिरिक्त समय"
+
+#: menu-pages/manage-service.php:42
+msgid ""
+"Padding / Break / Refresh Time<br>Enter Numeric Value<br>Eg: 5, 10, 15, 20, "
+"25 OR can be 0"
+msgstr ""
+"पैडिंग / तोड़ / ताज़ा होने का समय <br>संख्यात्मक मूल्य सूची दर्ज करें<br>उदाहरण के लिए: 5, "
+"10, 15, 20, 25 या 0 हो सकता है"
+
+#: menu-pages/manage-service.php:45 menu-pages/manage-service.php:169
+#: menu-pages/service.php:33
+msgid "Cost"
+msgstr "मूल्य"
+
+#: menu-pages/manage-service.php:47
+msgid "Service Cost<br>Enter Numeric Value<br>Eg: 50, 100, 150"
+msgstr "सेवा लागत <br>संख्यात्मक मूल्य दर्ज करें<br>उदाहरण के लिए: 50, 100, 150"
+
+#: menu-pages/manage-service.php:59 menu-pages/service.php:35
+#: menu-pages/settings/manage-payment-settings.php:9
+#: menu-pages/settings/manage-payment-settings.php:16
+#: menu-pages/settings/payment-settings.php:36
+msgid "Accept Payment"
+msgstr "भुगतान स्वीकार करें"
+
+#: menu-pages/manage-service.php:63 menu-pages/manage-service.php:92
+#: menu-pages/manage-service.php:190 menu-pages/service.php:62
+#: menu-pages/service.php:76 menu-pages/timeoff.php:187
+#: menu-pages/UpAppTime.php:196 menu-pages/update-appointments.php:103
+#: menu-pages/update-timeoff.php:63
+#: menu-pages/settings/calendar-settings.php:180
+#: menu-pages/settings/calendar-settings.php:192
+#: menu-pages/settings/googlecalendarsync.php:39
+#: menu-pages/settings/manage-calendar-settings.php:143
+#: menu-pages/settings/manage-calendar-settings.php:154
+#: menu-pages/settings/manage-payment-settings.php:14
+#: menu-pages/settings/manage-reminder-settings.php:14
+msgid "No"
+msgstr "नहीं"
+
+#: menu-pages/manage-service.php:64 menu-pages/manage-service.php:91
+#: menu-pages/manage-service.php:190 menu-pages/service.php:62
+#: menu-pages/service.php:76 menu-pages/update-appointments.php:102
+#: menu-pages/settings/calendar-settings.php:179
+#: menu-pages/settings/calendar-settings.php:191
+#: menu-pages/settings/googlecalendarsync.php:40
+#: menu-pages/settings/manage-calendar-settings.php:142
+#: menu-pages/settings/manage-calendar-settings.php:153
+#: menu-pages/settings/manage-payment-settings.php:15
+#: menu-pages/settings/manage-reminder-settings.php:15
+msgid "Yes"
+msgstr "हां"
+
+#: menu-pages/manage-service.php:65
+msgid "Accept Payment On Booking"
+msgstr "आरक्षण पर भुगतान स्वीकार करें"
+
+#: menu-pages/manage-service.php:69 menu-pages/manage-service.php:76
+#: menu-pages/service.php:36
+msgid "Payment Type"
+msgstr "भुगतान प्रकार"
+
+#: menu-pages/manage-service.php:74 menu-pages/service.php:65
+msgid "In Percentage"
+msgstr "प्रतिशत में"
+
+#: menu-pages/manage-service.php:75 menu-pages/service.php:66
+msgid "Full Payment"
+msgstr "पूर्ण भुगतान"
+
+#: menu-pages/manage-service.php:80
+msgid "Percentage Amount"
+msgstr "प्रतिशत राशि"
+
+#: menu-pages/manage-service.php:83
+msgid "Percentage Amount<br> Eg: 5%, 10%, 20%, 50%<br>Enter Numeric Value"
+msgstr ""
+"प्रतिशत राशि <br> उदाहरण के लिए: 5%, 10%, 20%, 50% <br> संख्यात्मक मूल्य दर्ज करें"
+
+#: menu-pages/manage-service.php:86 menu-pages/manage-service.php:188
+#: menu-pages/service.php:38
+msgid "Availability"
+msgstr "उपलब्धता"
+
+#: menu-pages/manage-service.php:90
+msgid "Select Service Availability"
+msgstr "सेवा की उपलब्धता का चयन करें"
+
+#: menu-pages/manage-service.php:93
+msgid "Service Availability"
+msgstr "सेवा की उपलब्धता"
+
+#: menu-pages/manage-service.php:96 menu-pages/manage-service.php:193
+msgid "Category"
+msgstr "श्रेणी"
+
+#: menu-pages/manage-service.php:100 menu-pages/manage-service.php:110
+msgid "Select Category"
+msgstr "श्रेणीचुनें"
+
+#: menu-pages/manage-service.php:108 menu-pages/manage-service.php:197
+#: menu-pages/manage-staff.php:70 menu-pages/manage-staff.php:158
+#: menu-pages/service.php:13 menu-pages/staff.php:12
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+#: menu-pages/manage-service.php:113 menu-pages/timeoff.php:249
+#: menu-pages/UpAppTime.php:292 menu-pages/update-timeoff.php:146
+msgid "Assign Staff(s)"
+msgstr "स्टाफ जोडे़"
+
+#: menu-pages/manage-service.php:115 menu-pages/timeoff.php:251
+#: menu-pages/UpAppTime.php:293 menu-pages/update-timeoff.php:148
+msgid "Use CTRL to Select Multiple Staff(s)"
+msgstr "CTRL को दबाकर ज्यादा स्टाफ जोंडे़"
+
+#: menu-pages/manage-service.php:126
+msgid "Assign Staff(s) To This Service<br>Use CTRL To Select Multiple Staffs"
+msgstr "CTRL को दबाकर ज्यादा स्टाफ को इस सेवा से जोंडे़"
+
+#: menu-pages/manage-service.php:161 menu-pages/manage-service.php:166
+#: menu-pages/service.php:49 menu-pages/service.php:50
+#: menu-pages/settings/calendar-settings.php:79
+msgid "Minute"
+msgstr "मिनट"
+
+#: menu-pages/manage-service.php:240
+msgid "New service added successfully."
+msgstr "टाईम आफ हटा दिया गया है।"
+
+#: menu-pages/manage-service.php:293 menu-pages/manage-service.php:296
+msgid "Service updated successfully."
+msgstr "सेवा सफलतापूर्वक नवीनतम कर दी गई है।"
+
+#: menu-pages/manage-service.php:315 menu-pages/manage-service.php:398
+msgid "Duration will be in multiple of 5, like as: 5, 10, 15, 20, 25."
+msgstr "अवधि 5 के गुणांक में हो, उदहरण: 5, 10, 15, 20, 25"
+
+#: menu-pages/manage-service.php:381
+msgid "Description cannot be blank."
+msgstr "विवरण खाली नहीं हो सकती।"
+
+#: menu-pages/manage-service.php:387
+msgid "Duration cannot be blank."
+msgstr "अवधि खाली नहीं हो सकता"
+
+#: menu-pages/manage-service.php:392
+msgid "Invalid Duration."
+msgstr "अमान्य अवधि"
+
+#: menu-pages/manage-service.php:408
+msgid "Padding time cannot be blank."
+msgstr "समाप्ति समय रिक्त नहीं हो सकता"
+
+#: menu-pages/manage-service.php:413
+msgid "Invalid padding time."
+msgstr "अमान्य समाप्ति समय"
+
+#: menu-pages/manage-service.php:419
+msgid ""
+"Padding time will be in multiple of 5, like as: 5, 10, 15, 20, 25 OR can be "
+"0."
+msgstr "पैडिंग समय 5 के गुणक में होगा<br>  5, 10, 15, 20, 25 या 0 हो सकता है"
+
+#: menu-pages/manage-service.php:453
+msgid "Cost cannot be blank."
+msgstr "मूल्य खाली नहीं हो सकता"
+
+#: menu-pages/manage-service.php:458
+msgid "Invalid cost."
+msgstr "अमान्य मूल्य"
+
+#: menu-pages/manage-service.php:470
+msgid "Percentage amount cannot be blank."
+msgstr "प्रतिशत राशि खाली नहीं हो सकता"
+
+#: menu-pages/manage-service.php:475
+msgid "Invalid percentage amount. Eg.: 5, 10, 20, 25, 50"
+msgstr "अवैध प्रतिशत राशि उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#: menu-pages/manage-service.php:480
+msgid "Amount greater than 0. Eg.: 5, 10, 20, 25, 50"
+msgstr "राशि 0 से अधिक उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#: menu-pages/manage-service.php:485
+msgid "Amount less then 100. Eg.: 5, 10, 20, 25, 50"
+msgstr "राशि 0 से अधिक उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#: menu-pages/manage-service.php:494
+msgid "Select availability."
+msgstr "उपलब्धता का चयन करें"
+
+#: menu-pages/manage-service.php:500
+msgid "Select category."
+msgstr "श्रेणी चुनें"
+
+#: menu-pages/manage-service.php:506 menu-pages/timeoff.php:691
+#: menu-pages/update-timeoff.php:619
+msgid "Assign any staff."
+msgstr "कोई भी स्टाफ जोंडे़"
+
+#: menu-pages/manage-staff.php:23
+msgid "Manage Staff"
+msgstr "कर्मचारी प्रबंधन"
+
+#: menu-pages/manage-staff.php:31
+msgid "Staff Name."
+msgstr "कर्मचारी का नाम"
+
+#: menu-pages/manage-staff.php:40
+msgid "Staff Email."
+msgstr "कर्मचारी का ईमेल"
+
+#: menu-pages/manage-staff.php:52 menu-pages/manage-staff.php:149
+#: menu-pages/staff.php:34
+msgid "Experience"
+msgstr "अनुभव "
+
+#: menu-pages/manage-staff.php:56
+msgid "Staff Experience(In year)."
+msgstr "कर्मचारी अनुभव (वर्ष में)"
+
+#: menu-pages/manage-staff.php:61
+msgid "Group Name"
+msgstr "समूह का नाम"
+
+#: menu-pages/manage-staff.php:65
+msgid "Select Staff Group"
+msgstr "कर्मचारी की समूह का चयन करें"
+
+#: menu-pages/manage-staff.php:73
+msgid "Staff Group Name."
+msgstr "कर्मचारी की समूह का नाम"
+
+#: menu-pages/manage-staff.php:78 menu-pages/manage-staff.php:162
+#: menu-pages/settings/business-profile.php:38
+#: menu-pages/settings/business-profile.php:95
+msgid "Address"
+msgstr "पता"
+
+#: menu-pages/manage-staff.php:82
+msgid "Staff Address."
+msgstr "कर्मचारी का पता"
+
+#: menu-pages/manage-staff.php:87 menu-pages/manage-staff.php:167
+#: menu-pages/settings/business-profile.php:41
+#: menu-pages/settings/business-profile.php:98
+msgid "City"
+msgstr "शहर"
+
+#: menu-pages/manage-staff.php:90
+msgid "Staff City."
+msgstr "कर्मचारी का शहर"
+
+#: menu-pages/manage-staff.php:95
+msgid "Assign Service(s)"
+msgstr "सेवांए जोडे़"
+
+#: menu-pages/manage-staff.php:98
+msgid "Use CTRL to Select Multiple Service(s)"
+msgstr "CTRL को दबाकर ज्यादा सेवांए जोंडे़"
+
+#: menu-pages/manage-staff.php:106
+msgid ""
+"Assign Staff(s) To This Service.&lt;br&gt;Use CTRL To Select Multiple Staffs"
+msgstr "CTRL को दबाकर ज्यादा स्टाफ को इस सेवा से जोंडे़"
+
+#: menu-pages/manage-staff.php:131
+msgid "View Staff"
+msgstr "कर्मचारी देखें"
+
+#: menu-pages/manage-staff.php:151 menu-pages/staff.php:47
+msgid "Year(s)"
+msgstr "वर्ष"
+
+#: menu-pages/manage-staff.php:154
+msgid "Group name"
+msgstr "समूह का नाम"
+
+#: menu-pages/manage-staff.php:210
+msgid "New Staff"
+msgstr "नया कर्मचारी"
+
+#: menu-pages/manage-staff.php:210
+msgid "is successfully added."
+msgstr "सफलतापूर्वक बना दिया गया है।"
+
+#: menu-pages/manage-staff.php:238 menu-pages/manage-staff.php:240
+#: menu-pages/manage-staff.php:253 menu-pages/manage-staff.php:255
+msgid "Staff details successfully updated."
+msgstr "कर्मचारी विवरण सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#: menu-pages/manage-staff.php:300
+msgid "Staff name cannot be blank."
+msgstr "कर्मचारी रिक्त नहीं हो सकता"
+
+#: menu-pages/manage-staff.php:317
+msgid "Invalid  value."
+msgstr "अमान्य तथ्य"
+
+#: menu-pages/manage-staff.php:346
+msgid "Select any group."
+msgstr "कोई समूह चुनें"
+
+#: menu-pages/manage-staff.php:352
+msgid "Assign any service."
+msgstr "कोई भी सेवा जोंडे़"
+
+#: menu-pages/payment-transaction.php:39
+msgid "Payment Transaction Details"
+msgstr "भुगतान लेनदेन के विवरण"
+
+#: menu-pages/payment-transaction.php:46
+msgid "Txn Id"
+msgstr "भुगतान क्रमांक"
+
+#: menu-pages/payment-transaction.php:49
+msgid "Time & Date"
+msgstr "समय और तिथि"
+
+#: menu-pages/payment-transaction.php:50 menu-pages/service.php:37
+msgid "Amount"
+msgstr "पैसा"
+
+#: menu-pages/payment-transaction.php:89
+msgid "Do you want to delete this transaction?"
+msgstr "क्या आप यह भुगतान हटाना चाहते हैं?"
+
+#: menu-pages/payment-transaction.php:106
+msgid "Do you want to delete these transactions?"
+msgstr "क्या आप यह सभी भुगतान हटाना चाहते हैं?"
+
+#: menu-pages/payment-transaction.php:109
+msgid "Sorry No Transaction(s)."
+msgstr "क्षमा करें! कोई लेनदेन नहीं।"
+
+#: menu-pages/payment-transaction.php:154
+msgid "Transaction successfully deleted."
+msgstr "भुगतान हटा दिया गया है।"
+
+#: menu-pages/payment-transaction.php:171
+msgid "Selected transaction successfully deleted."
+msgstr "चुने हुए सभी भुगतान हटा दिये गये हैं।"
+
+#: menu-pages/payment-transaction.php:176
+msgid "No transaction(s) selected to delete."
+msgstr "कोई भुगतान हटाने के लिये नहीं चुना गया।"
+
+#: menu-pages/service.php:17 menu-pages/staff.php:16
+#: menu-pages/settings/business-hours.php:484
+#: menu-pages/settings/notification-message.php:69
+#: menu-pages/settings/notification-message.php:93
+#: menu-pages/settings/notification-message.php:118
+#: menu-pages/settings/notification-message.php:170
+#: menu-pages/settings/notification-message.php:228
+#: menu-pages/settings/notification-message.php:254
+#: menu-pages/settings/notification-message.php:279
+#: menu-pages/settings/staff-hours.php:1258
+msgid "Save"
+msgstr "बनायें"
+
+#: menu-pages/service.php:24
+msgid "Rename Category"
+msgstr "श्रेणी का नाम बदलें"
+
+#: menu-pages/service.php:24 menu-pages/staff.php:23
+msgid "Rename"
+msgstr "\tनाम परिवर्तन करें"
+
+#: menu-pages/service.php:25
+msgid "Do you want to delete this category?"
+msgstr "क्या आप यह श्रेणी हटाना चाहते हैं?"
+
+#: menu-pages/service.php:25
+msgid "Delete Category"
+msgstr "श्रेणी हटायें"
+
+#: menu-pages/service.php:72
+msgid "Full"
+msgstr "पूरा"
+
+#: menu-pages/service.php:81
+msgid "Do you want to delete this service?"
+msgstr "क्या आप ये सेवा हटाना चाहते हैं?"
+
+#: menu-pages/service.php:86
+msgid "Add New Service to this Category"
+msgstr "इस श्रेणी में नई सेवा जोंडे़"
+
+#: menu-pages/service.php:95
+msgid "Create New Service Category"
+msgstr "सेवा की नई श्रेणी बनायें"
+
+#: menu-pages/service.php:100
+msgid "Service Category name"
+msgstr "सेवा श्रेणी का नाम"
+
+#: menu-pages/service.php:101
+msgid "Create Category"
+msgstr "श्रेणी बनायें"
+
+#: menu-pages/service.php:114
+msgid "New service category successfully created."
+msgstr "नई सेवा श्रेणी सफलतापूर्वक बना दि गयी है।"
+
+#: menu-pages/service.php:130
+msgid "Service category successfully renamed"
+msgstr "सेवा श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#: menu-pages/service.php:134 menu-pages/staff.php:214
+msgid "Invalid group name."
+msgstr "अमान्य समूह नाम"
+
+#: menu-pages/service.php:137 menu-pages/staff.php:108
+#: menu-pages/staff.php:209
+msgid "Group name cannot be blank."
+msgstr "समूह का नाम खाली नहीं हो सकता."
+
+#: menu-pages/service.php:152
+msgid "Service category successfully deleted."
+msgstr "सेवा श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#: menu-pages/service.php:167
+msgid "Service successfully deleted."
+msgstr "सेवा हटा दि गयी है।"
+
+#: menu-pages/service.php:225
+msgid "Category name cannot be blank."
+msgstr "श्रेणी का नाम खाली नहीं हो सकता."
+
+#: menu-pages/service.php:232
+msgid "invalid Category name."
+msgstr "अमान्य श्रेणी नाम."
+
+#: menu-pages/settings.php:2
+msgid "Settings Panel"
+msgstr "सेटिंग्स पैनल"
+
+#: menu-pages/settings.php:10 menu-pages/settings/business-profile.php:29
+#: menu-pages/settings/business-profile.php:71
+#: menu-pages/settings/business-profile.php:84
+msgid "Business Profile"
+msgstr "व्यापार रूपरेखा"
+
+#: menu-pages/settings.php:12 menu-pages/settings/business-hours.php:94
+msgid "Business Hours"
+msgstr "व्यापार के घटें"
+
+#: menu-pages/settings.php:14 menu-pages/settings/staff-hours.php:782
+msgid "Staff Hours"
+msgstr "कर्मचारी घंटे"
+
+#: menu-pages/settings.php:16 menu-pages/settings/calendar-settings.php:34
+msgid "Calendar Settings"
+msgstr "कैलेंडर सेटिंग्स"
+
+#: menu-pages/settings.php:18 menu-pages/settings/admin-settings.php:24
+msgid "Admin Settings"
+msgstr "व्यवस्थापक सेटिंग्स"
+
+#: menu-pages/settings.php:20 menu-pages/settings/notification-settings.php:60
+msgid "Notification Settings"
+msgstr "अधिसूचना सेटिंग"
+
+#: menu-pages/settings.php:22 menu-pages/settings/notification-message.php:2
+msgid "Notification Message"
+msgstr "अधिसूचना सूचना"
+
+#: menu-pages/settings.php:24 menu-pages/update-appointments.php:135
+#: menu-pages/settings/googlecalendarsync.php:7
+msgid "Google Calendar"
+msgstr "गूगल कैलेंडर"
+
+#: menu-pages/settings.php:26 menu-pages/settings.php:44
+#: menu-pages/settings/payment-settings.php:32
+msgid "Payment Settings"
+msgstr "भुगतान सेटिंग"
+
+#: menu-pages/settings.php:28 menu-pages/settings.php:45
+#: menu-pages/settings/reminder-settings.php:43
+msgid "Reminder Settings"
+msgstr "अनुस्मारक सेटिंग्स"
+
+#: menu-pages/settings.php:34
+msgid "Settings Panel Allows Admin To Manage Following Settings"
+msgstr "सेटिंग्स पैनल व्यवस्थापक को निम्न सेटिंग का प्रबन्धन प्रदान करता है।"
+
+#: menu-pages/settings.php:36 menu-pages/settings/business-profile.php:71
+msgid "Setup Business Profile"
+msgstr "व्यापार रूपरेखा तैयार करे"
+
+#: menu-pages/settings.php:37
+msgid "Manage Business Working Hours"
+msgstr "व्यापार के घटों का प्रबन्धन करें"
+
+#: menu-pages/settings.php:38
+msgid "Manage Staff Hours"
+msgstr "कर्मचारी घंटे का प्रबंधन"
+
+#: menu-pages/settings.php:39
+#: menu-pages/settings/manage-calendar-settings.php:3
+msgid "Manage Calendar Settings"
+msgstr "कैलेंडर सेटिंग्स का प्रबंधन"
+
+#: menu-pages/settings.php:40
+msgid "Manage Aministrator Settings"
+msgstr "व्यवस्थापक सेटिंग प्रबंधित करें"
+
+#: menu-pages/settings.php:41
+#: menu-pages/settings/manage-notification-settings.php:4
+msgid "Manage Notification Settings"
+msgstr "अधिसूचना सेटिंग प्रबंधित करें"
+
+#: menu-pages/settings.php:42
+msgid "Customize Notification Message"
+msgstr ""
+
+#: menu-pages/settings.php:43
+msgid "Sync Appointments With Google Calendar"
+msgstr "गूगल कैलेंडर के साथ नियुक्ति तुल्यकालित करें"
+
+#: menu-pages/staff-appointment-calendar.php:124
+#: menu-pages/staff-appointment-calendar.php:169
+#: menu-pages/staff-appointment-calendar.php:195
+msgid "Appointment with"
+msgstr ""
+
+#: menu-pages/staff.php:23
+msgid "Rename Group"
+msgstr "समूह का नाम परिवर्तन करें"
+
+#: menu-pages/staff.php:25
+msgid "Do you want to delete this Group?"
+msgstr "क्या आप ये समूह हटाना चाहते हैं?"
+
+#: menu-pages/staff.php:25
+msgid "Delete Group"
+msgstr "समूह हटायें"
+
+#: menu-pages/staff.php:31 menu-pages/settings/manage-reminder-settings.php:66
+#: menu-pages/settings/notification-message.php:38
+#: menu-pages/settings/notification-message.php:157
+#: menu-pages/settings/notification-message.php:197
+msgid "Staff Name"
+msgstr "स्टाफ़ का नाम"
+
+#: menu-pages/staff.php:52
+msgid "Do you want to delete this Staff?"
+msgstr "क्या आप यह कर्मचारी हटाना चाहते हैं?"
+
+#: menu-pages/staff.php:59
+msgid "Add New Staff to this Group"
+msgstr "+ इस समूह में नया कर्मचारी जोंडे़"
+
+#: menu-pages/staff.php:68
+msgid "Create New Staff Group"
+msgstr "नयी कर्मचारी समूह बनायें"
+
+#: menu-pages/staff.php:73
+msgid "Staff Group name"
+msgstr "स्टाफ़ समूह का नाम"
+
+#: menu-pages/staff.php:74
+msgid "Create Group"
+msgstr "समूह बनायें"
+
+#: menu-pages/staff.php:87
+msgid "New staff group successfully created."
+msgstr "नई कर्मचारी समूह सफलतापूर्वक बना दि गयी है।"
+
+#: menu-pages/staff.php:101
+msgid "Staff group successfully renamed."
+msgstr "कर्मचारी समूह का नाम सफलतापूर्वक बदल दिया गया है।"
+
+#: menu-pages/staff.php:105
+msgid "Invalid group name"
+msgstr "अमान्य समूह नाम"
+
+#: menu-pages/staff.php:122
+msgid "Staff group successfully deleted."
+msgstr "कर्मचारी समूह सफलतापूर्वक हटा दिया गया है।"
+
+#: menu-pages/staff.php:155
+msgid "Staff successfully deleted."
+msgstr "कर्मचारी सफलतापूर्वक  हटा दिया गया है।"
+
+#: menu-pages/supportnhelp.php:4
+msgid "Appointment Calendar Premium"
+msgstr "नियुक्ति कैलेंडर प्रीमियम"
+
+#: menu-pages/supportnhelp.php:8
+msgid ""
+"Appointment Calendar Premium is a simple but effective plugin which enables "
+"you to take appointments on your wordpress blog."
+msgstr ""
+"नियुक्ति कैलेंडर प्रीमियम एक सरल लेकिन प्रभावी प्लगइन जो आपको अपने वर्डप्रैस ब्लॉग पर "
+"नियुक्तियों को लेने के लिए सक्षम बनाता है। "
+
+#: menu-pages/supportnhelp.php:10
+msgid ""
+"If you are a consultant/doctor/lawyer etc, you can harness the power of "
+"appointment calendar."
+msgstr ""
+"यदि आप एक परामर्शदाता चिकित्सक, वकील आदि हैं, तो आप नियुक्ति कैलेंडर की शक्ति का दोहन "
+"कर सकते हैं।"
+
+#: menu-pages/supportnhelp.php:12
+msgid ""
+"Simply unzip and upload appointment-calendar directory to /wp-content/"
+"plugins/ directory and activate the plugin."
+msgstr ""
+"बस खोलें और नियुक्ति कैलेंडर प्रीमियम प्लगइन को /wp-content/plugins/ डयरेक्ट्री में अपलोड "
+"करें और प्लगइन को सक्रिय करें।"
+
+#: menu-pages/supportnhelp.php:14
+msgid ""
+"To insert Appointment Calendar Premium into any post or page, use the "
+"shortcode:"
+msgstr ""
+"किसी भी पोस्ट या पृष्ठ में नियुक्ति कैलेंडर प्रीमियम डालने के लिए इस शोर्टकोड का उपयोग करें:"
+
+#: menu-pages/supportnhelp.php:16
+msgid ""
+"To insert Appointment Calendar Premium Button into any post or page, use the "
+"shortcode:"
+msgstr ""
+"किसी भी पोस्ट या पृष्ठ में नियुक्ति कैलेंडर प्रीमियम बटन डालने के लिए इस शोर्टकोड का उपयोग "
+"करें:"
+
+#: menu-pages/supportnhelp.php:18
+msgid "Appointment Calendar Premium shortcode for Mobile Devices:"
+msgstr "मोबाइल उपकरणों के लिए नियुक्ति कैलेंडर प्रीमियम लघुकोडः"
+
+#: menu-pages/supportnhelp.php:20
+msgid ""
+"That's it, you can now start taking appointments on your wordpress site."
+msgstr "यह ठीक है, अब आप अपने वर्डप्रैस साइट पर नियुक्तियों लेने शुरू कर सकते हैं."
+
+#: menu-pages/supportnhelp.php:22
+msgid "For Documentation Visit:"
+msgstr "प्रलेखन के लिए यात्रा"
+
+#: menu-pages/supportnhelp.php:22 menu-pages/supportnhelp.php:24
+msgid "AppointZilla : Appointment Scheduling Plugin For Wordpress"
+msgstr "आपोंईटजिला: वर्डप्रैस के लिए नियुक्ति निर्धारण प्लगइन"
+
+#: menu-pages/supportnhelp.php:22
+msgid "AppointZilla Documentation"
+msgstr "AppointZilla प्रलेखन"
+
+#: menu-pages/supportnhelp.php:24
+msgid "For Help &amp; Support Visit:"
+msgstr "समर्थन और मदद के लिए इस वेबसाइट पर जायें:"
+
+#: menu-pages/supportnhelp.php:24
+msgid "AppointZilla Forum"
+msgstr "AppointZilla फोरम"
+
+#: menu-pages/timeoff.php:106
+msgid "Do you want to delete this Time Off?"
+msgstr "क्या आप यह टाईम आफ हटाना चाहते हैं?"
+
+#: menu-pages/timeoff.php:113 menu-pages/timeoff.php:143
+msgid "Add New Time Off"
+msgstr "टाईम आफ जोड़ें"
+
+#: menu-pages/timeoff.php:119
+msgid "Do you want to delete all Time Offs?"
+msgstr "क्या आप सभी टाईम आफ हटाना चाहते हैं?"
+
+#: menu-pages/timeoff.php:149 menu-pages/UpAppTime.php:176
+#: menu-pages/update-timeoff.php:31
+msgid "All Day Time Off"
+msgstr "पूरे दिन का टाईम आफ"
+
+#: menu-pages/timeoff.php:188 menu-pages/UpAppTime.php:206
+#: menu-pages/update-timeoff.php:64
+msgid "Particular Date(s)"
+msgstr "विशेष तिथियाँ"
+
+#: menu-pages/timeoff.php:191 menu-pages/UpAppTime.php:202
+#: menu-pages/update-timeoff.php:67
+msgid "Bi-Weekly"
+msgstr "द्वि साप्ताहिक"
+
+#: menu-pages/timeoff.php:213
+msgid "Repeat Bi-Week(s)"
+msgstr "द्वि साप्ताहिक हफ्तें"
+
+#: menu-pages/timeoff.php:242 menu-pages/UpAppTime.php:287
+#: menu-pages/update-timeoff.php:141
+msgid "Note"
+msgstr "व्याख्या"
+
+#: menu-pages/timeoff.php:271
+msgid "Create Time Off"
+msgstr "टाईम आफ बनायें"
+
+#: menu-pages/timeoff.php:377
+msgid "Time-off successfully added."
+msgstr "टाईम आफ बना दिया गया है।"
+
+#: menu-pages/timeoff.php:409
+msgid "Time-off successfully deleted."
+msgstr "टाईम आफ हटा दिया गया है।"
+
+#: menu-pages/timeoff.php:448
+msgid "Selected Time-off successfully deleted."
+msgstr "चुने हुए टाईम आफ हटा दिये गये हैं।"
+
+#: menu-pages/timeoff.php:450
+msgid "No time-off selected to delete."
+msgstr "कोई टाईम आफ हटाने के लिये नहीं चुना गया।"
+
+#: menu-pages/timeoff.php:598 menu-pages/timeoff.php:599
+#: menu-pages/UpAppTime.php:879 menu-pages/UpAppTime.php:880
+#: menu-pages/UpAppTime.php:1051 menu-pages/UpAppTime.php:1052
+#: menu-pages/update-appointments.php:271
+#: menu-pages/update-appointments.php:272 menu-pages/update-timeoff.php:525
+#: menu-pages/update-timeoff.php:526
+msgid "Start-time and End-time cant be equal."
+msgstr "प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/timeoff.php:612 menu-pages/update-appointments.php:285
+#: menu-pages/update-timeoff.php:539
+msgid "Start-time must be smaller then End-time."
+msgstr "प्रारंभ समय अंत समय से छोटा होना चाहिए"
+
+#: menu-pages/timeoff.php:613 menu-pages/update-appointments.php:286
+#: menu-pages/update-timeoff.php:540
+msgid "End-time must be bigger then Start-time."
+msgstr "अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/UpAppTime.php:23 menu-pages/update-appointments.php:15
+msgid "Update Appointment"
+msgstr "नियुक्ति नवीनीकरण"
+
+#: menu-pages/UpAppTime.php:87 menu-pages/update-appointments.php:114
+msgid "Particular Day"
+msgstr "विशेष तिथियाँ"
+
+#: menu-pages/UpAppTime.php:108 menu-pages/UpAppTime.php:133
+msgid "Repeat Week`s"
+msgstr "साप्ताहिक दोहरान"
+
+#: menu-pages/UpAppTime.php:118 menu-pages/UpAppTime.php:139
+msgid "Repeat Month`s"
+msgstr "मासिक दोहरान"
+
+#: menu-pages/UpAppTime.php:130
+msgid "Repeat Day`s"
+msgstr "दैनिक दोहरान"
+
+#: menu-pages/UpAppTime.php:136
+msgid "Repeat Bi-week`s"
+msgstr "दोहरान द्वि साप्ताहिक"
+
+#: menu-pages/UpAppTime.php:150
+msgid "Updating Appointment..."
+msgstr "नियुक्ति नवीनीकरण..."
+
+#: menu-pages/UpAppTime.php:160
+msgid "Update TimeOff"
+msgstr "टाईम आफ नवीनतम बनायें"
+
+#: menu-pages/UpAppTime.php:228 menu-pages/UpAppTime.php:268
+#: menu-pages/update-timeoff.php:102
+msgid "Repeat Weeks(s)"
+msgstr "दोहरान हफ्तें"
+
+#: menu-pages/UpAppTime.php:238 menu-pages/UpAppTime.php:273
+#: menu-pages/update-timeoff.php:110
+msgid "Repeat Bi-Weeks(s)"
+msgstr "दोहरान द्वि साप्ताहिक"
+
+#: menu-pages/UpAppTime.php:308
+msgid "Updating Time Off..."
+msgstr "टाईम आफ नवीनतम बनायें"
+
+#: menu-pages/UpAppTime.php:885 menu-pages/UpAppTime.php:1062
+msgid "Start-time must be smaller than End-time."
+msgstr "प्रारंभ समय अंत समय से छोटा होना चाहिए"
+
+#: menu-pages/UpAppTime.php:886 menu-pages/UpAppTime.php:1063
+msgid "End-time must be bigger than Start-time."
+msgstr "अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/UpAppTime.php:961 menu-pages/UpAppTime.php:962
+#: menu-pages/UpAppTime.php:1113
+msgid "Start-date must be smaller than End-date."
+msgstr "प्रारंभ की तारीख की समाप्ति की तारीख से कम होना चाहिए"
+
+#: menu-pages/UpAppTime.php:963 menu-pages/UpAppTime.php:1114
+msgid "End-date must be bigger than Start-date."
+msgstr "समाप्ति की तारीख के प्रारंभ की तारीख से भी बड़ा होना चाहिए"
+
+#: menu-pages/update-appointments.php:53
+msgid "Service Name."
+msgstr "सेवा का नाम"
+
+#: menu-pages/update-appointments.php:68
+msgid "staff Name."
+msgstr "स्टाफ़ का नाम"
+
+#: menu-pages/update-appointments.php:73
+msgid "Client Phone Number."
+msgstr "ग्राहक फोन संख्या"
+
+#: menu-pages/update-appointments.php:79
+msgid "Appointment Start Time."
+msgstr "नियुक्ति की प्रारंभिक तारीख\" "
+
+#: menu-pages/update-appointments.php:84
+msgid "Appointment End Time."
+msgstr "नियुक्ति की अंतिम तारीख\" "
+
+#: menu-pages/update-appointments.php:91
+msgid "Appointment Date."
+msgstr "नियुक्ति की तारीख"
+
+#: menu-pages/update-appointments.php:96
+msgid "Appointment Description."
+msgstr "नियुक्ति विवरण."
+
+#: menu-pages/update-appointments.php:104
+msgid "Appointment Repeat On/OFF."
+msgstr "नियुक्ति दोहरान चालू/बंद\" "
+
+#: menu-pages/update-appointments.php:115
+msgid "Appointment Repeat Type."
+msgstr "नियुक्ति दोहरान प्रकार"
+
+#: menu-pages/update-appointments.php:120
+msgid "Appointment Repeat Start Date."
+msgstr "नियुक्ति दोहरान प्रारंभिक तिथि"
+
+#: menu-pages/update-appointments.php:125
+msgid "Appointment Repeat End Date."
+msgstr "नियुक्ति दोहरान अंतिम तिथि"
+
+#: menu-pages/update-appointments.php:133
+msgid "Admin"
+msgstr "व्यवस्थापक"
+
+#: menu-pages/update-appointments.php:134
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: menu-pages/update-appointments.php:136
+msgid "Appointment Booked By User/Admin."
+msgstr "नियुक्ति किस के द्वारा की गई? (व्यवस्थापक या ग्राहक)"
+
+#: menu-pages/update-appointments.php:147
+#: menu-pages/update-appointments.php:161
+msgid "Appointment Status."
+msgstr "नियुक्ति स्थिति"
+
+#: menu-pages/update-appointments.php:156
+msgid "Unpaid"
+msgstr "अवैतनिक"
+
+#: menu-pages/update-appointments.php:159
+msgid "Paid"
+msgstr "वैतनिक"
+
+#: menu-pages/update-appointments.php:237
+msgid "Email field cannot be blank."
+msgstr "ईमेल खाली नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:241
+msgid "Invalid email address"
+msgstr "अमान्य ईमेल पते"
+
+#: menu-pages/update-appointments.php:248
+msgid "Phone field cannot be blank."
+msgstr "फोन खाली नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:253
+msgid "Invalid Phone number."
+msgstr "अमान्य फ़ोन नंबर"
+
+#: menu-pages/update-appointments.php:261
+msgid "Start Time  cannot be blank."
+msgstr "राज्य रिक्त नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:266
+msgid "End Time cannot be blank."
+msgstr "समाप्ति समय रिक्त नहीं हो सकता."
+
+#: menu-pages/update-appointments.php:293
+msgid "Start Date cannot be blank."
+msgstr "राज्य रिक्त नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:300
+msgid "Select valid repeat type."
+msgstr "वैध दोहराने प्रकार का चयन करें."
+
+#: menu-pages/update-appointments.php:307
+msgid "Repeat start date cannot be blank."
+msgstr "दोहरान आरंभ तिथि खाली नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:313
+msgid "Repeat end date cannot be blank."
+msgstr "दोहरान समाप्ति तिथि खाली नहीं हो सकता"
+
+#: menu-pages/update-appointments.php:470
+#: menu-pages/update-appointments.php:473
+#: menu-pages/update-appointments.php:478
+#: menu-pages/update-appointments.php:481
+msgid "Appointment successfully updated"
+msgstr "नियुक्ति को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#: menu-pages/update-appointments.php:496
+msgid "View Appointment(s): "
+msgstr "नियुक्ति देखें"
+
+#: menu-pages/update-appointments.php:616
+#: menu-pages/settings/business-profile.php:29
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: menu-pages/update-timeoff.php:2
+msgid "Update Time Off"
+msgstr "टाईम आफ नवीनतम बनायें"
+
+#: menu-pages/update-timeoff.php:338 menu-pages/update-timeoff.php:343
+msgid "Time-off successfully updated."
+msgstr "टाईम आफ सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#: menu-pages/update-timeoff.php:361
+msgid "Time Off deleted successfully."
+msgstr "टाईम आफ सफलतापूर्वक हटा दिया गया है।"
+
+#: menu-pages/paypal-api/PaymentGateway.php:125
+msgid "Pay With Paypal"
+msgstr "पेपैल के साथ भुगतान करें"
+
+#: menu-pages/settings/admin-settings.php:18
+msgid "Admin settings sucessfully saved."
+msgstr "व्यवस्थापक सेटिंग्स सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/admin-settings.php:29
+#: menu-pages/settings/manage-admin-settings.php:8
+msgid "Country"
+msgstr "देश"
+
+#: menu-pages/settings/admin-settings.php:39
+#: menu-pages/settings/admin-settings.php:55
+#: menu-pages/settings/admin-settings.php:72
+#: menu-pages/settings/admin-settings.php:88
+#: menu-pages/settings/calendar-settings.php:50
+#: menu-pages/settings/calendar-settings.php:66
+#: menu-pages/settings/calendar-settings.php:81
+#: menu-pages/settings/calendar-settings.php:95
+#: menu-pages/settings/calendar-settings.php:109
+#: menu-pages/settings/calendar-settings.php:125
+#: menu-pages/settings/calendar-settings.php:151
+#: menu-pages/settings/calendar-settings.php:161
+#: menu-pages/settings/calendar-settings.php:171
+#: menu-pages/settings/notification-settings.php:98
+#: menu-pages/settings/notification-settings.php:111
+#: menu-pages/settings/notification-settings.php:120
+#: menu-pages/settings/notification-settings.php:129
+#: menu-pages/settings/notification-settings.php:138
+#: menu-pages/settings/notification-settings.php:144
+#: menu-pages/settings/notification-settings.php:150
+#: menu-pages/settings/notification-settings.php:156
+msgid "Not Available."
+msgstr "उपलब्ध नहीं"
+
+#: menu-pages/settings/admin-settings.php:44
+#: menu-pages/settings/manage-admin-settings.php:26
+msgid "Language"
+msgstr "भाषा"
+
+#: menu-pages/settings/admin-settings.php:60
+#: menu-pages/settings/manage-admin-settings.php:43
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#: menu-pages/settings/admin-settings.php:77
+#: menu-pages/settings/manage-admin-settings.php:61
+msgid "Currency"
+msgstr "मुद्रा"
+
+#: menu-pages/settings/admin-settings.php:95
+#: menu-pages/settings/calendar-settings.php:216
+#: menu-pages/settings/notification-settings.php:162
+#: menu-pages/settings/payment-settings.php:83
+#: menu-pages/settings/reminder-settings.php:118
+msgid "Manage Settings"
+msgstr "सेटिंग्स प्रबंधन"
+
+#: menu-pages/settings/business-hours.php:89
+msgid "Business Hours successfully updated."
+msgstr "व्यापार के घंटो को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#: menu-pages/settings/business-hours.php:125
+#: menu-pages/settings/staff-hours.php:920
+msgid "Close Day"
+msgstr "छुट्टी का दिन"
+
+#: menu-pages/settings/business-hours.php:505
+#: menu-pages/settings/business-hours.php:526
+#: menu-pages/settings/business-hours.php:844
+#: menu-pages/settings/staff-hours.php:48
+#: menu-pages/settings/staff-hours.php:71
+#: menu-pages/settings/staff-hours.php:485
+msgid "Monday's Start-time and End-time can't be equal"
+msgstr "सोमवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:517
+#: menu-pages/settings/staff-hours.php:60
+#: menu-pages/settings/staff-hours.php:495
+msgid "Monday's Start-time must be smaller then End-time"
+msgstr "सोमवार का प्रारंभ समय अंत समय से छोटा होना चाहिए। "
+
+#: menu-pages/settings/business-hours.php:540
+#: menu-pages/settings/staff-hours.php:84
+#: menu-pages/settings/staff-hours.php:508
+msgid "Monday's End-time must be bigger then Start-time"
+msgstr "सोमवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:553
+#: menu-pages/settings/business-hours.php:574
+#: menu-pages/settings/business-hours.php:855
+#: menu-pages/settings/staff-hours.php:99
+#: menu-pages/settings/staff-hours.php:123
+#: menu-pages/settings/staff-hours.php:522
+msgid "Tuesday's Start-time and End-time can't be equal"
+msgstr "मंगलवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:565
+#: menu-pages/settings/staff-hours.php:111
+#: menu-pages/settings/staff-hours.php:532
+msgid "Tuesday's Start-time must be smaller then End-time"
+msgstr "मंगलवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#: menu-pages/settings/business-hours.php:588
+#: menu-pages/settings/staff-hours.php:136
+#: menu-pages/settings/staff-hours.php:545
+msgid "Tuesday's End-time must be bigger then Start-time"
+msgstr "मंगलवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:601
+#: menu-pages/settings/business-hours.php:622
+#: menu-pages/settings/business-hours.php:867
+#: menu-pages/settings/staff-hours.php:150
+#: menu-pages/settings/staff-hours.php:173
+#: menu-pages/settings/staff-hours.php:560
+msgid "Wednesday's Start-time and End-time can't be equal"
+msgstr "बुधवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:613
+#: menu-pages/settings/staff-hours.php:162
+#: menu-pages/settings/staff-hours.php:570
+msgid "Wednesday's Start-time must be smaller then End-time"
+msgstr "बुधलवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#: menu-pages/settings/business-hours.php:636
+#: menu-pages/settings/staff-hours.php:186
+#: menu-pages/settings/staff-hours.php:584
+msgid "Wednesday's End-time must be bigger then Start-time"
+msgstr "बुधवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:649
+#: menu-pages/settings/business-hours.php:670
+#: menu-pages/settings/business-hours.php:879
+#: menu-pages/settings/staff-hours.php:199
+#: menu-pages/settings/staff-hours.php:221
+#: menu-pages/settings/staff-hours.php:599
+msgid "Thursday's Start-time and End-time can't be equal"
+msgstr "गुरुवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:661
+#: menu-pages/settings/staff-hours.php:211
+#: menu-pages/settings/staff-hours.php:610
+msgid "Thursday's Start-time must be smaller then End-time"
+msgstr "गुरुवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#: menu-pages/settings/business-hours.php:684
+#: menu-pages/settings/staff-hours.php:234
+#: menu-pages/settings/staff-hours.php:623
+msgid "Thursday's End-time must be bigger then Start-time"
+msgstr "गुरुवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:697
+#: menu-pages/settings/business-hours.php:718
+#: menu-pages/settings/business-hours.php:891
+#: menu-pages/settings/staff-hours.php:248
+#: menu-pages/settings/staff-hours.php:271
+#: menu-pages/settings/staff-hours.php:638
+msgid "Friday's Start-time and End-time can't be equal"
+msgstr "शुक्रवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:709
+#: menu-pages/settings/staff-hours.php:260
+#: menu-pages/settings/staff-hours.php:648
+msgid "Friday's Start-time must be smaller then End-time"
+msgstr "शुक्रवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#: menu-pages/settings/business-hours.php:732
+#: menu-pages/settings/staff-hours.php:284
+#: menu-pages/settings/staff-hours.php:661
+msgid "Friday's End-time must be bigger then Start-time"
+msgstr "शुक्रवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:745
+#: menu-pages/settings/business-hours.php:766
+#: menu-pages/settings/business-hours.php:903
+#: menu-pages/settings/staff-hours.php:297
+#: menu-pages/settings/staff-hours.php:320
+#: menu-pages/settings/staff-hours.php:675
+msgid "Saturday's Start-time and End-time can't be equal"
+msgstr "शनिवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:757
+#: menu-pages/settings/staff-hours.php:309
+#: menu-pages/settings/staff-hours.php:685
+msgid "Saturday's Start-time must be smaller then End-time"
+msgstr "शनिवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:780
+#: menu-pages/settings/staff-hours.php:333
+#: menu-pages/settings/staff-hours.php:699
+msgid "Saturday's End-time must be bigger then Start-time"
+msgstr "शनिवार का अंत समय, प्रारंभ समय बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:794
+#: menu-pages/settings/business-hours.php:816
+#: menu-pages/settings/business-hours.php:915
+#: menu-pages/settings/staff-hours.php:346
+#: menu-pages/settings/staff-hours.php:369
+#: menu-pages/settings/staff-hours.php:714
+msgid "Sunday's Start-time and End-time can't be equal"
+msgstr "रविवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#: menu-pages/settings/business-hours.php:806
+#: menu-pages/settings/staff-hours.php:358
+#: menu-pages/settings/staff-hours.php:723
+msgid "Sunday's Start-time must be smaller then End-time"
+msgstr "रविवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#: menu-pages/settings/business-hours.php:830
+#: menu-pages/settings/staff-hours.php:383
+#: menu-pages/settings/staff-hours.php:737
+msgid "Sunday's End-time must be bigger then Start-time"
+msgstr "रविवार का अंत समय, प्रारंभ समय बड़ा होगा"
+
+#: menu-pages/settings/business-hours.php:920
+msgid "ERROR! Check Monday's Working Hours"
+msgstr "त्रुटि सोमवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:921
+msgid "ERROR! Check Tuesday's Working Hours"
+msgstr "त्रुटि मंगलवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:922
+msgid "ERROR! Check Wednesday's Working Hours"
+msgstr "त्रुटि बुधवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:923
+msgid "ERROR! Check Thursday's Working Hours"
+msgstr "त्रुटि गुरुवार काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:924
+msgid "ERROR! Check Friday's Working Hours"
+msgstr "त्रुटि शुक्रवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:925
+msgid "ERROR! Check Saturday's Working Hours"
+msgstr "त्रुटि शनिवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-hours.php:926
+msgid "ERROR! Check Sunday's Working Hours"
+msgstr "त्रुटि रविवार के काम के घंटे की जाँच करें"
+
+#: menu-pages/settings/business-profile.php:32
+#: menu-pages/settings/business-profile.php:88
+msgid "Business Name"
+msgstr "व्यापार नाम"
+
+#: menu-pages/settings/business-profile.php:35
+#: menu-pages/settings/business-profile.php:92
+msgid "Owner"
+msgstr "मालिक"
+
+#: menu-pages/settings/business-profile.php:44
+#: menu-pages/settings/business-profile.php:101
+msgid "State"
+msgstr "राज्य"
+
+#: menu-pages/settings/business-profile.php:50
+#: menu-pages/settings/business-profile.php:107
+msgid "Fax"
+msgstr "फैक्स"
+
+#: menu-pages/settings/business-profile.php:53
+#: menu-pages/settings/business-profile.php:109
+msgid "Postal Code"
+msgstr "पोस्टल कोड"
+
+#: menu-pages/settings/business-profile.php:59
+#: menu-pages/settings/business-profile.php:113
+msgid "Website"
+msgstr "वेबसाइट"
+
+#: menu-pages/settings/business-profile.php:62
+#: menu-pages/settings/business-profile.php:116
+msgid "Blog Url"
+msgstr "ब्लोग यूआरएल"
+
+#: menu-pages/settings/business-profile.php:63
+#: menu-pages/settings/calendar-settings.php:182
+#: menu-pages/settings/calendar-settings.php:194
+#: menu-pages/settings/calendar-settings.php:208
+#: menu-pages/settings/payment-settings.php:46
+#: menu-pages/settings/payment-settings.php:61
+#: menu-pages/settings/payment-settings.php:76
+#: menu-pages/settings/reminder-settings.php:56
+#: menu-pages/settings/reminder-settings.php:70
+#: menu-pages/settings/reminder-settings.php:85
+#: menu-pages/settings/reminder-settings.php:98
+#: menu-pages/settings/reminder-settings.php:111
+msgid "Not Available"
+msgstr "अनुपलब्ध"
+
+#: menu-pages/settings/business-profile.php:90
+msgid "Business  Name."
+msgstr "व्यापार नाम"
+
+#: menu-pages/settings/business-profile.php:93
+msgid "Owner Name."
+msgstr "मालिक का नाम"
+
+#: menu-pages/settings/business-profile.php:96
+msgid "Address."
+msgstr "पता"
+
+#: menu-pages/settings/business-profile.php:99
+msgid "City."
+msgstr "शहर"
+
+#: menu-pages/settings/business-profile.php:102
+msgid "State."
+msgstr "राज्य"
+
+#: menu-pages/settings/business-profile.php:108
+msgid "Fax Number."
+msgstr "फैक्स संख्या"
+
+#: menu-pages/settings/business-profile.php:110
+msgid "Postal Code."
+msgstr "पोस्टल कोड"
+
+#: menu-pages/settings/business-profile.php:112
+msgid "Email."
+msgstr "ईमेल"
+
+#: menu-pages/settings/business-profile.php:114
+msgid "Business Website URL."
+msgstr "बिजनैस वेबसाइट यूआरएल"
+
+#: menu-pages/settings/business-profile.php:117
+msgid "Blog URL."
+msgstr "ब्लोग यूआरएल"
+
+#: menu-pages/settings/business-profile.php:153
+msgid "Business profile successfully created."
+msgstr "व्यापार प्रोफ़ाइल सफलतापूर्वक बना दिया गया है।"
+
+#: menu-pages/settings/business-profile.php:189
+msgid "Business profile successfully updated."
+msgstr "व्यापार प्रोफ़ाइल सफलतापूर्वक नवीनतम कर दिया है।"
+
+#: menu-pages/settings/business-profile.php:193
+#: menu-pages/settings/staff-hours.php:1394
+#: menu-pages/settings/staff-hours.php:1399
+msgid "No updates made."
+msgstr "कुछ नवीनतम नहीं किया गया।"
+
+#: menu-pages/settings/business-profile.php:206
+msgid "Business name cannot be blank."
+msgstr "व्यापार नाम रिक्त नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:221
+msgid "Owner name cannot be blank."
+msgstr "मालिक का नाम खाली नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:236
+msgid "Address cannot be blank."
+msgstr "पता खाली नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:242
+msgid "City cannot be blank."
+msgstr "शहर खाली नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:257
+msgid "State cannot be blank."
+msgstr "राज्य रिक्त नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:271
+msgid "Phone cannot be blank."
+msgstr "फोन खाली नहीं हो सकता."
+
+#: menu-pages/settings/business-profile.php:302
+msgid "Postal code cannot be blank."
+msgstr "पोस्टल कोड खाली नहीं हो सकता"
+
+#: menu-pages/settings/business-profile.php:332
+msgid "Invalid url. Eg. http://www.appointzilla.com"
+msgstr "अवैध यूआरएल. उदा. Http://www.appointzilla.com"
+
+#: menu-pages/settings/business-profile.php:342
+msgid "Invalid blog url. Eg. http://www.appointzilla.com/blog"
+msgstr "अवैध ब्लॉग यूआरएल. उदा. Http://www.appointzilla.com/blog"
+
+#: menu-pages/settings/calendar-settings.php:27
+msgid "Calendar settings sucessfully saved."
+msgstr "कैलेंडर सेटिंग्स सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/calendar-settings.php:39
+#: menu-pages/settings/manage-calendar-settings.php:9
+msgid "Date Format"
+msgstr "तिथि प्रारूप"
+
+#: menu-pages/settings/calendar-settings.php:46
+#: menu-pages/settings/manage-calendar-settings.php:14
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+#: menu-pages/settings/calendar-settings.php:47
+#: menu-pages/settings/manage-calendar-settings.php:15
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+#: menu-pages/settings/calendar-settings.php:48
+#: menu-pages/settings/manage-calendar-settings.php:16
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: menu-pages/settings/calendar-settings.php:55
+#: menu-pages/settings/manage-calendar-settings.php:21
+msgid "Time Format"
+msgstr "समय स्वरूप"
+
+#: menu-pages/settings/calendar-settings.php:63
+#: menu-pages/settings/manage-calendar-settings.php:26
+msgid "12 Hour Time"
+msgstr "12 घंटे का समय"
+
+#: menu-pages/settings/calendar-settings.php:64
+#: menu-pages/settings/manage-calendar-settings.php:27
+msgid "24 Hour Time"
+msgstr "24 घंटे का समय"
+
+#: menu-pages/settings/calendar-settings.php:71
+#: menu-pages/settings/manage-calendar-settings.php:32
+msgid "Calendar Slot Time"
+msgstr "कैलेंडर स्लॉट समय"
+
+#: menu-pages/settings/calendar-settings.php:86
+#: menu-pages/settings/manage-calendar-settings.php:47
+msgid "Day Start Time"
+msgstr "दिन का प्रारम्भिक समय"
+
+#: menu-pages/settings/calendar-settings.php:100
+#: menu-pages/settings/manage-calendar-settings.php:64
+msgid "Day End Time"
+msgstr "दिन की समाप्ति समय"
+
+#: menu-pages/settings/calendar-settings.php:114
+#: menu-pages/settings/manage-calendar-settings.php:80
+#: menu-pages/settings/manage-calendar-settings.php:88
+msgid "Calendar View"
+msgstr "कैलेंडर का रुप "
+
+#: menu-pages/settings/calendar-settings.php:130
+msgid "Calendar Start Day"
+msgstr "कैलेंडर का प्रारंभ दिन"
+
+#: menu-pages/settings/calendar-settings.php:156
+#: menu-pages/settings/manage-calendar-settings.php:106
+#: menu-pages/settings/manage-calendar-settings.php:109
+msgid "Booking Button Text"
+msgstr "आरक्षण का बटन पाठ"
+
+#: menu-pages/settings/calendar-settings.php:166
+#: menu-pages/settings/manage-calendar-settings.php:112
+#: menu-pages/settings/manage-calendar-settings.php:134
+msgid "Booking Time Slot"
+msgstr "बुकिंग स्लॉट का समय"
+
+#: menu-pages/settings/calendar-settings.php:176
+#: menu-pages/settings/manage-calendar-settings.php:138
+msgid "Display Service Cost"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:187
+#: menu-pages/settings/manage-calendar-settings.php:149
+msgid "Display Service Duration"
+msgstr ""
+
+#: menu-pages/settings/calendar-settings.php:200
+#: menu-pages/settings/manage-calendar-settings.php:159
+msgid "Booking Instructions"
+msgstr ""
+
+#: menu-pages/settings/googlecalendarsync.php:14
+msgid "Google Email"
+msgstr "गूगल ईमेल"
+
+#: menu-pages/settings/googlecalendarsync.php:19
+msgid "Google Calendar Client ID"
+msgstr "गूगल कैलेंडर ग्राहक आईडी"
+
+#: menu-pages/settings/googlecalendarsync.php:24
+msgid "Google Calendar Secret Key"
+msgstr "गूगल कैलेंडर गुप्त कुंजी"
+
+#: menu-pages/settings/googlecalendarsync.php:29
+msgid "Redirect URIs"
+msgstr "यूआरआई पुननिर्देशित"
+
+#: menu-pages/settings/googlecalendarsync.php:34
+msgid "2 Way Sync"
+msgstr "2 रास्ते से सिंक"
+
+#: menu-pages/settings/googlecalendarsync.php:48
+#: menu-pages/settings/manage-admin-settings.php:85
+#: menu-pages/settings/manage-calendar-settings.php:172
+#: menu-pages/settings/manage-notification-settings.php:147
+#: menu-pages/settings/manage-payment-settings.php:46
+#: menu-pages/settings/manage-reminder-settings.php:83
+msgid "Save Settings"
+msgstr "सेटिंग्स सहेजें"
+
+#: menu-pages/settings/googlecalendarsync.php:55
+msgid "Allow Google Calendar Sync"
+msgstr "गूगल कैलेंडर सिंक की अनुमति दें"
+
+#: menu-pages/settings/googlecalendarsync.php:60
+msgid "Connecting..."
+msgstr "जुड़ रहा है..."
+
+#: menu-pages/settings/googlecalendarsync.php:61
+msgid "Disconnecting..."
+msgstr "कट रहा है।"
+
+#: menu-pages/settings/manage-admin-settings.php:2
+msgid "Manage Admin Settings"
+msgstr "व्यवस्थापक सेटिंग प्रबंधित करें"
+
+#: menu-pages/settings/manage-admin-settings.php:23
+msgid "Your Living Country."
+msgstr "आप जिस देश में रहते हो"
+
+#: menu-pages/settings/manage-admin-settings.php:40
+msgid "Your Country's Language."
+msgstr "आपके देश की भाषा."
+
+#: menu-pages/settings/manage-admin-settings.php:58
+msgid "Your Country's Time Zone."
+msgstr "आपके देश का समय क्षेत्र"
+
+#: menu-pages/settings/manage-admin-settings.php:76
+msgid "Your Country's Currency."
+msgstr "आपके देश की मुद्रा"
+
+#: menu-pages/settings/manage-admin-settings.php:83
+#: menu-pages/settings/manage-calendar-settings.php:170
+#: menu-pages/settings/manage-notification-settings.php:145
+#: menu-pages/settings/manage-payment-settings.php:44
+#: menu-pages/settings/manage-reminder-settings.php:81
+msgid "Update Settings"
+msgstr "सेटिंग्स नवीनतम करें"
+
+#: menu-pages/settings/manage-admin-settings.php:112
+#: menu-pages/settings/manage-calendar-settings.php:194
+msgid "Select Slot Time."
+msgstr "कोइ समय चुनें"
+
+#: menu-pages/settings/manage-admin-settings.php:119
+#: menu-pages/settings/manage-calendar-settings.php:200
+msgid "Select Start Time."
+msgstr "प्रारम्भ समय चुनें"
+
+#: menu-pages/settings/manage-admin-settings.php:126
+#: menu-pages/settings/manage-calendar-settings.php:206
+msgid "Select End Time."
+msgstr "अंत समय चुनें"
+
+#: menu-pages/settings/manage-admin-settings.php:133
+#: menu-pages/settings/manage-admin-settings.php:140
+#: menu-pages/settings/manage-calendar-settings.php:212
+#: menu-pages/settings/manage-calendar-settings.php:218
+msgid "Select Calendar View."
+msgstr "कैलेंडर रुप"
+
+#: menu-pages/settings/manage-calendar-settings.php:17
+msgid ""
+"Date Format. Ex:<br>DD-MM-YYYY = 01-12-2013<br>MM-DD-YYYY = "
+"12-01-2013<br>YYYY-MM-DD = 2013-12-01"
+msgstr ""
+"तिथि प्रारूप पूर्व:. <br> डीडी-एमएम-वायवायवायवाय = 01-12-2013 <br> एमएम-डीडी-"
+"वायवायवायवाय= 12-01-2013 <br> वायवायवायवाय-एमएम-डीडी = 2013-12-01"
+
+#: menu-pages/settings/manage-calendar-settings.php:28
+msgid "Time Format. Ex<br>12 Hour = 01:30 PM<br>24 Hour = 13:30"
+msgstr "समय प्रारूप. जैसे <br> 12 घंटो = 01:30 PM <br> 24 घंटा = 13:30"
+
+#: menu-pages/settings/manage-calendar-settings.php:39
+msgid "5 Minute"
+msgstr "5 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:40
+msgid "10 Minute"
+msgstr "10 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:41
+msgid "15 Minute"
+msgstr "15 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:42
+msgid "30 Minute"
+msgstr "30 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:43
+msgid "60 Minute"
+msgstr "60 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:44
+msgid "Calendar Time Slot"
+msgstr "कैलेंडर स्लॉट का समय"
+
+#: menu-pages/settings/manage-calendar-settings.php:61
+msgid "Calendar Day Start Time"
+msgstr "कैलेंडर के दिन प्रारम्भ होने का समय है"
+
+#: menu-pages/settings/manage-calendar-settings.php:77
+msgid "Calendar Day End Time"
+msgstr "कैलेंडर के दिन की समाप्ति का समय"
+
+#: menu-pages/settings/manage-calendar-settings.php:91
+#: menu-pages/settings/manage-calendar-settings.php:103
+msgid "Calendar First Day"
+msgstr "कैलेंडर का प्रथम दिवस"
+
+#: menu-pages/settings/manage-calendar-settings.php:115
+msgid "5 Minutes"
+msgstr "15 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:116
+msgid "10 Minutes"
+msgstr "10 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:117
+msgid "15 Minutes"
+msgstr "15 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:118
+msgid "20 Minutes"
+msgstr "20 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:119
+msgid "25 Minutes"
+msgstr "25 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:120
+msgid "30 Minutes - Half Hour"
+msgstr "30 मिनट - आधा घन्टा"
+
+#: menu-pages/settings/manage-calendar-settings.php:121
+msgid "35 Minutes"
+msgstr "35 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:122
+msgid "40 Minutes"
+msgstr "40 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:123
+msgid "45 Minutes"
+msgstr "45 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:124
+msgid "60 Minutes - One Hour"
+msgstr "60 मिनट - 1 घन्टा"
+
+#: menu-pages/settings/manage-calendar-settings.php:125
+msgid "75 Minutes"
+msgstr "75 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:126
+msgid "90 Minutes"
+msgstr "90 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:127
+msgid "120 Minutes - Two Hours"
+msgstr "120 मिनट - 2 घन्टे"
+
+#: menu-pages/settings/manage-calendar-settings.php:128
+msgid "150 Minutes"
+msgstr "150 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:129
+msgid "180 Minutes - Three Hours"
+msgstr "180 मिनट - 3 घन्टे"
+
+#: menu-pages/settings/manage-calendar-settings.php:130
+msgid "210 Minutes"
+msgstr "210 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:131
+msgid "240 Minutes - Four Hours"
+msgstr "240 मिनट - 4 घन्टे"
+
+#: menu-pages/settings/manage-calendar-settings.php:132
+msgid "270 Minutes"
+msgstr "270 मिनट"
+
+#: menu-pages/settings/manage-calendar-settings.php:133
+msgid "300 Minutes - Five Hours"
+msgstr "300 मिनट - 5 घन्टे"
+
+#: menu-pages/settings/manage-calendar-settings.php:144
+msgid "Show or hide service cost at client booking form."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:155
+msgid "Show or hide service duration at client booking form."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:161
+msgid "You can use only these HTML tags like:"
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:163
+msgid ""
+"Booking instruction will be appears on client interface before boooking "
+"button.<br> You can use only these HTML tags like p, h1, h2, h3, h4, h5, h6, "
+"b, em to make more visualize instructions."
+msgstr ""
+
+#: menu-pages/settings/manage-calendar-settings.php:224
+msgid "Booking Button Text Required."
+msgstr "आरक्षण का बटन पाठ आवश्यक है"
+
+#: menu-pages/settings/manage-notification-settings.php:9
+msgid "Enable"
+msgstr "सक्षम"
+
+#: menu-pages/settings/manage-notification-settings.php:12
+msgid "Enable Notification"
+msgstr "अधिसूचना चालू करें"
+
+#: menu-pages/settings/manage-notification-settings.php:19
+#: menu-pages/settings/manage-notification-settings.php:22
+msgid "Enable Staff Notification"
+msgstr ""
+
+#: menu-pages/settings/manage-notification-settings.php:30
+msgid "Email Type"
+msgstr "ईमेल प्रकार"
+
+#: menu-pages/settings/manage-notification-settings.php:34
+msgid "Select Type"
+msgstr "प्रकार चुनें"
+
+#: menu-pages/settings/manage-notification-settings.php:38
+#: menu-pages/settings/notification-settings.php:91
+msgid "Notification Type"
+msgstr "अधिसूचना प्रकार"
+
+#: menu-pages/settings/manage-notification-settings.php:52
+msgid "WP Mail Details"
+msgstr "WP मेल विवरण"
+
+#: menu-pages/settings/manage-notification-settings.php:63
+#: menu-pages/settings/manage-notification-settings.php:82
+msgid "Admin Email"
+msgstr "व्यवस्थापक ईमेल"
+
+#: menu-pages/settings/manage-notification-settings.php:71
+msgid "PHPMail Details"
+msgstr "PHP मेल विवरण"
+
+#: menu-pages/settings/manage-notification-settings.php:92
+msgid "SMTP Mail Details"
+msgstr "SMTP मेल विवरण"
+
+#: menu-pages/settings/manage-notification-settings.php:101
+#: menu-pages/settings/notification-settings.php:136
+msgid "Host Name"
+msgstr "होस्ट नाम"
+
+#: menu-pages/settings/manage-notification-settings.php:103
+msgid "Host Name Like eg: smtp.gmail.com, smtp.yahoo.com"
+msgstr "होस्ट नाम, उदाहरण के लिए: smtp.gmail.com, smtp.yahoo.com"
+
+#: menu-pages/settings/manage-notification-settings.php:111
+#: menu-pages/settings/notification-settings.php:142
+msgid "Port Number"
+msgstr "पोर्ट संख्या"
+
+#: menu-pages/settings/manage-notification-settings.php:113
+msgid "Smtp Port Number Like eg: Gmail & Yahoo Port Number = 465"
+msgstr "SMTP पोर्ट संख्या, उदाहरण: जीमेल और याहू की पोर्ट संख्या = 465"
+
+#: menu-pages/settings/manage-notification-settings.php:123
+msgid "Admin SMTP Email"
+msgstr "व्यवस्थापक SMTP ईमेल"
+
+#: menu-pages/settings/manage-notification-settings.php:131
+#: menu-pages/settings/notification-settings.php:154
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: menu-pages/settings/manage-notification-settings.php:133
+msgid "Admin SMTP Email Password"
+msgstr "व्यवस्थापक SMTP ईमेल पासवर्ड"
+
+#: menu-pages/settings/manage-notification-settings.php:287
+msgid "Select email type"
+msgstr "ईमेल प्रकार का चयन करें"
+
+#: menu-pages/settings/manage-notification-settings.php:295
+msgid "Enter wp email"
+msgstr "Wp ईमेल दर्ज करें"
+
+#: menu-pages/settings/manage-notification-settings.php:310
+msgid "Enter php email"
+msgstr "PHP ईमेल दर्ज करें"
+
+#: menu-pages/settings/manage-notification-settings.php:325
+msgid "Enter host name"
+msgstr "होस्ट नाम दर्ज करें"
+
+#: menu-pages/settings/manage-notification-settings.php:331
+msgid "Enter port number"
+msgstr "पोर्ट संख्या दर्ज करें"
+
+#: menu-pages/settings/manage-notification-settings.php:336
+msgid "Invalid port number."
+msgstr "अमान्य पोर्ट संख्या"
+
+#: menu-pages/settings/manage-notification-settings.php:342
+msgid "Enter email"
+msgstr "ईमेल दर्ज करें"
+
+#: menu-pages/settings/manage-notification-settings.php:355
+msgid "Enter password"
+msgstr "पासवर्ड दर्ज करें"
+
+#: menu-pages/settings/manage-payment-settings.php:4
+msgid "Manage Payment Settings"
+msgstr "भुगतान सेटिंग प्रबंधित करें"
+
+#: menu-pages/settings/manage-payment-settings.php:20
+#: menu-pages/settings/manage-payment-settings.php:25
+msgid "Select Payment Gateway"
+msgstr "भुगतान गेटवे का चयन करें"
+
+#: menu-pages/settings/manage-payment-settings.php:26
+msgid "Paypal"
+msgstr "पेपैल"
+
+#: menu-pages/settings/manage-payment-settings.php:27
+#: menu-pages/settings/payment-settings.php:51
+msgid "Payment Gateway"
+msgstr "पेमेंट गेटवे"
+
+#: menu-pages/settings/manage-payment-settings.php:31
+#: menu-pages/settings/payment-settings.php:66
+msgid "Payment Email"
+msgstr "भुगतान ईमेल"
+
+#: menu-pages/settings/manage-payment-settings.php:35
+msgid "Payment Processing Email"
+msgstr "भुगतान प्रसंस्करण ईमेल"
+
+#: menu-pages/settings/manage-payment-settings.php:76
+#: menu-pages/settings/manage-payment-settings.php:104
+msgid "Select payment gateway."
+msgstr "भुगतान गेटवे का चयन करें"
+
+#: menu-pages/settings/manage-payment-settings.php:85
+#: menu-pages/settings/manage-payment-settings.php:113
+msgid "Payment email required."
+msgstr "भुगतान ईमेल की आवश्यकता है"
+
+#: menu-pages/settings/manage-reminder-settings.php:4
+msgid "Manage Reminder Settings"
+msgstr "अनुस्मारक सेटिंग्स प्रबंधित करें"
+
+#: menu-pages/settings/manage-reminder-settings.php:9
+#: menu-pages/settings/manage-reminder-settings.php:16
+#: menu-pages/settings/reminder-settings.php:47
+msgid "Send Reminder"
+msgstr "अनुस्मारक भेजें"
+
+#: menu-pages/settings/manage-reminder-settings.php:20
+#: menu-pages/settings/manage-reminder-settings.php:27
+#: menu-pages/settings/reminder-settings.php:61
+msgid "Reminder Type"
+msgstr "अनुस्मारक प्रकार"
+
+#: menu-pages/settings/manage-reminder-settings.php:25
+msgid "Select Reminder Type"
+msgstr "अनुस्मारक प्रकार चुनें"
+
+#: menu-pages/settings/manage-reminder-settings.php:31
+#: menu-pages/settings/manage-reminder-settings.php:46
+#: menu-pages/settings/reminder-settings.php:75
+msgid "Reminder Frequency"
+msgstr "अनुस्मारक आवृत्ति"
+
+#: menu-pages/settings/manage-reminder-settings.php:36
+msgid "Select Reminder Frequency"
+msgstr "अनुस्मारक आवृत्ति का चयन करें"
+
+#: menu-pages/settings/manage-reminder-settings.php:37
+#: menu-pages/settings/reminder-settings.php:81
+msgid "1 Day Before"
+msgstr "1 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:38
+#: menu-pages/settings/reminder-settings.php:82
+msgid "2 Day Before"
+msgstr "2 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:39
+#: menu-pages/settings/reminder-settings.php:83
+msgid "3 Day Before"
+msgstr "3 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:40
+msgid "4 Day Before"
+msgstr "4 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:41
+msgid "5 Day Before"
+msgstr "5 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:42
+msgid "6 Day Before"
+msgstr "6 दिन पहले"
+
+#: menu-pages/settings/manage-reminder-settings.php:50
+#: menu-pages/settings/manage-reminder-settings.php:53
+#: menu-pages/settings/reminder-settings.php:90
+msgid "Reminder Message Subject"
+msgstr "अनुस्मारक संदेश का विषय"
+
+#: menu-pages/settings/manage-reminder-settings.php:56
+#: menu-pages/settings/manage-reminder-settings.php:60
+#: menu-pages/settings/reminder-settings.php:103
+msgid "Reminder Message Body"
+msgstr "अनुस्मारक संदेश शारीर"
+
+#: menu-pages/settings/manage-reminder-settings.php:62
+msgid "Use These Tags in Message"
+msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#: menu-pages/settings/manage-reminder-settings.php:63
+#: menu-pages/settings/notification-message.php:33
+#: menu-pages/settings/notification-message.php:152
+#: menu-pages/settings/notification-message.php:192
+msgid "Client Name"
+msgstr "ग्राहक नाम"
+
+#: menu-pages/settings/manage-reminder-settings.php:64
+#: menu-pages/settings/notification-message.php:34
+#: menu-pages/settings/notification-message.php:153
+#: menu-pages/settings/notification-message.php:193
+msgid "Client Email"
+msgstr "ग्राहक ईमेल"
+
+#: menu-pages/settings/manage-reminder-settings.php:67
+#: menu-pages/settings/notification-message.php:39
+#: menu-pages/settings/notification-message.php:158
+#: menu-pages/settings/notification-message.php:198
+msgid "Appointment Date"
+msgstr "नियुक्ति की तारीख"
+
+#: menu-pages/settings/manage-reminder-settings.php:68
+#: menu-pages/settings/notification-message.php:40
+#: menu-pages/settings/notification-message.php:159
+#: menu-pages/settings/notification-message.php:199
+msgid "Appointment Status"
+msgstr "नियुक्ति स्थिति"
+
+#: menu-pages/settings/manage-reminder-settings.php:69
+#: menu-pages/settings/notification-message.php:41
+#: menu-pages/settings/notification-message.php:160
+#: menu-pages/settings/notification-message.php:200
+msgid "Appointment Time"
+msgstr "नियुक्ति का समय"
+
+#: menu-pages/settings/manage-reminder-settings.php:71
+#: menu-pages/settings/notification-message.php:43
+#: menu-pages/settings/notification-message.php:162
+#: menu-pages/settings/notification-message.php:202
+msgid "Appointment Note"
+msgstr "नियुक्ति विशेष निर्देश"
+
+#: menu-pages/settings/manage-reminder-settings.php:72
+#: menu-pages/settings/notification-message.php:44
+#: menu-pages/settings/notification-message.php:163
+#: menu-pages/settings/notification-message.php:203
+msgid "Blog Name"
+msgstr "ब्लॉग नाम"
+
+#: menu-pages/settings/manage-reminder-settings.php:110
+#: menu-pages/settings/manage-reminder-settings.php:130
+msgid "Select reminder type."
+msgstr "अनुस्मारक प्रकार चुनें"
+
+#: menu-pages/settings/manage-reminder-settings.php:116
+#: menu-pages/settings/manage-reminder-settings.php:136
+msgid "Select reminder frequency."
+msgstr "अनुस्मारक आवृत्ति का चयन करें"
+
+#: menu-pages/settings/notification-message.php:14
+msgid "Client Notifications"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:15
+msgid "Admin Notifications"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:16
+msgid "Staff Notifications"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:26
+#: menu-pages/settings/notification-message.php:185
+msgid "New Appointment"
+msgstr "नई नियुक्ति"
+
+#: menu-pages/settings/notification-message.php:27
+#: menu-pages/settings/notification-message.php:186
+msgid "Approve Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:28
+#: menu-pages/settings/notification-message.php:187
+msgid "Cancel Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:32
+#: menu-pages/settings/notification-message.php:151
+#: menu-pages/settings/notification-message.php:191
+msgid "Use Below Tags in Message"
+msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#: menu-pages/settings/notification-message.php:35
+#: menu-pages/settings/notification-message.php:154
+#: menu-pages/settings/notification-message.php:194
+msgid "Client Phone"
+msgstr "ग्राहक फोन"
+
+#: menu-pages/settings/notification-message.php:36
+#: menu-pages/settings/notification-message.php:155
+#: menu-pages/settings/notification-message.php:195
+msgid "Client Special Instruction"
+msgstr "ग्राहक विशेष निर्देश"
+
+#: menu-pages/settings/notification-message.php:52
+msgid "Notify Client On New Appointment"
+msgstr "नई नियुक्ति पर ग्राहक को सूचित करें"
+
+#: menu-pages/settings/notification-message.php:55
+#: menu-pages/settings/notification-message.php:81
+#: menu-pages/settings/notification-message.php:105
+#: menu-pages/settings/notification-message.php:141
+#: menu-pages/settings/notification-message.php:214
+#: menu-pages/settings/notification-message.php:240
+#: menu-pages/settings/notification-message.php:266
+msgid "Subject"
+msgstr "विषय"
+
+#: menu-pages/settings/notification-message.php:60
+#: menu-pages/settings/notification-message.php:86
+#: menu-pages/settings/notification-message.php:110
+#: menu-pages/settings/notification-message.php:146
+#: menu-pages/settings/notification-message.php:219
+#: menu-pages/settings/notification-message.php:245
+#: menu-pages/settings/notification-message.php:271
+msgid "Body"
+msgstr "संदेश"
+
+#: menu-pages/settings/notification-message.php:70
+#: menu-pages/settings/notification-message.php:94
+#: menu-pages/settings/notification-message.php:119
+#: menu-pages/settings/notification-message.php:171
+#: menu-pages/settings/notification-message.php:229
+#: menu-pages/settings/notification-message.php:255
+#: menu-pages/settings/notification-message.php:280
+msgid "Saving message..."
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:78
+msgid "Notify Client On Approve Appointment"
+msgstr "नियुक्ति स्वीकार करने पर ग्राहक का संदेश"
+
+#: menu-pages/settings/notification-message.php:102
+msgid "Notify Client On Cancel Appointment"
+msgstr "नियुक्ति रद्द करने पर ग्राहक का संदेश"
+
+#: menu-pages/settings/notification-message.php:138
+msgid "Notify Admin On New Appointment"
+msgstr "नई नियुक्ति पर व्यवस्थापक को सूचित करें"
+
+#: menu-pages/settings/notification-message.php:211
+msgid "Notify Staff On New Appointment"
+msgstr "नई नियुक्ति पर ग्राहक को सूचित करें"
+
+#: menu-pages/settings/notification-message.php:237
+msgid "Notify Staff On Approve Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:263
+msgid "Notify Staff On Cancel Appointment"
+msgstr ""
+
+#: menu-pages/settings/notification-message.php:376
+msgid "Message successfully saved."
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:55
+msgid "Notification settings successfully updated."
+msgstr "अधिसूचना सेटिंग सफलतापूर्वक नवीनतम हो चुकी है।"
+
+#: menu-pages/settings/notification-settings.php:64
+msgid "Notification"
+msgstr "अधिसूचना"
+
+#: menu-pages/settings/notification-settings.php:70
+#: menu-pages/settings/notification-settings.php:83
+msgid "ON"
+msgstr "चालू"
+
+#: menu-pages/settings/notification-settings.php:72
+#: menu-pages/settings/notification-settings.php:85
+msgid "OFF"
+msgstr "बंद"
+
+#: menu-pages/settings/notification-settings.php:77
+msgid "Staff Notification"
+msgstr ""
+
+#: menu-pages/settings/notification-settings.php:103
+msgid "Details"
+msgstr "विवरण"
+
+#: menu-pages/settings/notification-settings.php:118
+msgid "WP Email"
+msgstr "WP ईमेल"
+
+#: menu-pages/settings/notification-settings.php:127
+msgid "PHP Email"
+msgstr "पीएपी ईमेल"
+
+#: menu-pages/settings/payment-settings.php:15
+msgid "Payment settings successfully saved"
+msgstr "भुगतान सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/payment-settings.php:25
+msgid "Payment settings successfully updated"
+msgstr "भुगतान सेटिंग सफलतापूर्वक नवीनतम बना दी गई है"
+
+#: menu-pages/settings/reminder-settings.php:20
+msgid "Reminder settings successfully saved"
+msgstr "अनुस्मारक सेटिंग्स सफलतापूर्वक बना दी गई है।"
+
+#: menu-pages/settings/reminder-settings.php:35
+msgid "Reminder settings successfully updated"
+msgstr "अनुस्मारक सेटिंग सफलतापूर्वक नवीनतम बना दी गई है।"
+
+#: menu-pages/settings/staff-hours.php:769
+#: menu-pages/settings/staff-hours.php:1397
+msgid "Staff hours successfully saved."
+msgstr "कर्मचारी समय सफलतापूर्वक बदल दिया गया है।"
+
+#: menu-pages/settings/staff-hours.php:791
+msgid "Select any staff"
+msgstr "किसी भी कर्मचारी का चयन करें"
+
+#: menu-pages/settings/staff-hours.php:810
+msgid "Loading staff hours..."
+msgstr "कर्मचारी समय लोड हो रहें हैं..."
+
+#: menu-pages/settings/staff-hours.php:911
+msgid ""
+"Current staff not assigned its staff hours. Please assign its staff hours"
+msgstr "इस कर्मचारी को अपने स्टाफ घंटे नहीं सौंपे गये। स्टाफ घंटे सौंपे।\" "
+
+#: menu-pages/settings/staff-hours.php:1392
+msgid "Staff hours successfully updated."
+msgstr "कर्मचारी समय सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Sorry! Today business is closed."
+#~ msgstr "क्षमा करें! आज व्यापार बंद है।"
+
+#~ msgid "Scheduling Appointment, Please wait..."
+#~ msgstr "नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#~ msgid "Setup 'Business Profile'"
+#~ msgstr "व्यापार रूपरेखा का प्रबन्धन करें"
+
+#~ msgid "Manage 'Calendar Settings'"
+#~ msgstr "कैलेंडर सेटिंग्स का प्रबंधन"
+
+#~ msgid "Manage 'Notification Settings'"
+#~ msgstr "अधिसूचना सेटिंग का प्रबन्धन"
+
+#~ msgid "+ Add New Staff to this Group"
+#~ msgstr "+ इस समूह में नया कर्मचारी जोंडे़"
+
+#~ msgid "Notification Type."
+#~ msgstr "अधिसूचना टाइप"
+
+#~ msgid "You can use these Tags in message subject & body"
+#~ msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#~ msgid "Notify Client On New Appointment Message sucessfully updated."
+#~ msgstr "नई नियुक्ति पर ग्राहक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Notify Admin On New Appointment Message sucessfully updated."
+#~ msgstr "नई नियुक्ति पर व्यवस्थापक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid ""
+#~ "Notify Client On Approve/Cancel Appointment Message sucessfully updated."
+#~ msgstr ""
+#~ "नियुक्ति स्वीकार या रद्द करने पर ग्राहक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया "
+#~ "है।"
+
+#~ msgid "is alredy existing."
+#~ msgstr " पहले से उपस्थित है।"
+
+#~ msgid "is alredy existing Client email."
+#~ msgstr "पहले से उपस्थित है।"
+
+#~ msgid "240 Minutes - Three Hours"
+#~ msgstr "240 मिनट - 3 घन्टे"
+
+#~ msgid "scheduling appointment, please wait..."
+#~ msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#, fuzzy
+#~ msgid "Sorry! Your appointment not successfull."
+#~ msgstr "माफ करना कोई नियुक्तियां नहीं हैं।"
+
+#, fuzzy
+#~ msgid "Capacity cannot be blank."
+#~ msgstr "शहर खाली नहीं हो सकता."
+
+#, fuzzy
+#~ msgid "Invalid capacity."
+#~ msgstr "अमान्य मूल्य"
+
+#~ msgid "name"
+#~ msgstr "नाम"
+
+#, fuzzy
+#~ msgid "Capacity Per Time Slot:"
+#~ msgstr "कैलेंडर के स्लॉट का समय."
+
+#~ msgid "Schedule An Appointment"
+#~ msgstr "नई नियुक्ति बनायें"
+
+#~ msgid "Setect Time & Service"
+#~ msgstr "सेवा और समय  का चयन करें"
+
+#~ msgid "with"
+#~ msgstr "के साथ"
+
+#~ msgid "Sorry! Today`s all appointments has been booked."
+#~ msgstr "क्षमा करें! आज सभी नियुक्तियों को बुक किया जा चुका है।"
+
+#~ msgid "Support & Help"
+#~ msgstr "समर्थन और मदद"
+
+#~ msgid "Duration Unit."
+#~ msgstr "अवधि इकाई"
+
+#~ msgid "Experience cannot be blank."
+#~ msgstr "अनुभव खाली नहीं हो सकता"
+
+#~ msgid "Zipcode"
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zip Number."
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zipcode cannot be blank."
+#~ msgstr "ज़िपकोड खाली नहीं हो सकता."
+
+#~ msgid "Website cannot be blank."
+#~ msgstr "वेबसाइट खाली नहीं हो सकती।"
+
+#~ msgid "Invalid url."
+#~ msgstr "अमान्य यूआरएल."
+
+#~ msgid "Invalid blog url."
+#~ msgstr "अमान्य ब्लॉग यूआरएल."
+
+#~ msgid "Google Email Password"
+#~ msgstr "गूगल ईमेल पासवर्ड"
+
+#~ msgid "Manage Google Calendar"
+#~ msgstr "गूगल कैलेंडर का प्रबंधन"
+
+#~ msgid "Time Zone "
+#~ msgstr "समय क्षेत्र"
+
+#~ msgid "Google calendar setting successfully saved"
+#~ msgstr "गूगल कैलेंडर सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#~ msgid "Google email cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "invalid google email."
+#~ msgstr "अमान्य गूगल ईमेल."
+
+#~ msgid "Google email password cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "Calendar View."
+#~ msgstr "कैलेंडर रुप"
+
+#~ msgid "Calendar First Day."
+#~ msgstr "कैलेंडर का प्रथम दिवस."
+
+#~ msgid "Appointment Created On"
+#~ msgstr "नियुक्ति बनने की तारीख"
+
+#~ msgid "Invalid gruop name"
+#~ msgstr "अमान्य समूह नाम"
+
+#~ msgid "Gruop name cannot be blank."
+#~ msgstr "समूह का नाम खाली नहीं हो सकता"
+
+#~ msgid "Staff category successfully deleted."
+#~ msgstr "कर्मचारी श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#~ msgid "Invalid Category name."
+#~ msgstr "अमान्य श्रेणी नाम."
+
+#~ msgid "Do you want to delete this Clients"
+#~ msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#~ msgid "Star Time"
+#~ msgstr "प्रारम्भ होन का समय:"
+
+#, fuzzy
+#~ msgid "All Day Event"
+#~ msgstr "पूरे दिन का टाईम आफ"
+
+#~ msgid "Manage Service"
+#~ msgstr "सेवा प्रबंधन"
